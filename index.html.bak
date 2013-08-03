@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>alan bush</title>
+    <title>eruditorum</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap (cyborg theme) -->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -16,21 +16,37 @@
 <!-- NavBar | Fixed to top -->  	
 	<div class="navbar navbar-fixed-top">
 	  <div class="navbar-inner">
-	    <a class="brand" href="#">alan bush</a>
+	    <a class="brand" href="#">eruditorum</a>
 	    <ul class="nav">
-	      <li class="active"><a href="index.html">home</a></li>
-	      <li><a href="about.html">about</a></li>
-	      <li><a href="https://plus.google.com/u/0/100903393398867345579/posts">g+</a></li>
-	      <li><a href="http://tumblr.albush.com">blog</a></li>
+	      <li class="active"><a href="#">home</a></li>
+	      <li><a href="#tiwl">goals</a></li>
+	      <li><a href="/projects">projects</a></li>
+	      <li><a href="#done">completed</a></li>
 	    </ul>
 	  </div>
 	</div>
 <!-- End NavBar -->
 <!-- Main Body - Use Markdown between <xmp> tags -->
 	<xmp theme="cyborg" style="display:none;">
+# Learning All The Things
 
+This is my quest to become a slightly better hacker. Hacker in that good way - taking something and making it different or better. 
 
-<!-- Links -->
+## <a id="tiwl"></a>Things I Want to Learn
+
+- [Python][python]
+- Better html/css
+- Shell Scripting
+- [Message Queues][mq]
+
+## <a id="done"></a>Things I've Already Learned
+
+- Enough Linux to know *how* I broke something
+- Basic html/css
+
+<!--- Links -->
+[python]: http://www.python.org/ 
+[mq]: http://www.iron.io/mq
 
 	</xmp>
 <!-- End Main Body -->
