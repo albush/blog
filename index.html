@@ -44,6 +44,21 @@ Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. Bef
 	</xmp>
 <!-- End Main Body -->
 <!-- All Scripts go here -->
+<script type="text/javascript">
+var menu = document.querySelector('.menu');
+var anchors = menu.getElementsByTagName('a');
+
+for (var i = 0; i < anchors.length; i += 1) {
+  anchors[i].addEventListener('click', function() { clickHandler(anchors[i]) }, false);
+}
+
+function clickHandler(anchor) {
+  var hasClass = anchor.getAttribute('class');
+  if (hasClass !== 'active') {
+    anchor.setAttribute('class', 'active');
+  }
+}
+</script>
     <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
