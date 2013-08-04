@@ -4,64 +4,108 @@
     <title>alan bush</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap (cyborg theme) -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="http://cdn.albush.com/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <!-- End Bootstrap -->
     <!-- Prevent navbar from covering body -->
     <style type="text/css">
-    @media (min-width: 981px) { body { padding-top: 60px; } }
+    @media (min-width: 981px) { body { padding-top: 80px; padding-left: 35px;} }
     </style>
     <!-- End Prevent Navbar from covering body -->
   </head>
-  <body>
+  <body data-spy="scroll" data-target=".navbar">
 <!-- NavBar | Fixed to top -->  	
 	<div class="navbar navbar-fixed-top">
 	  <div class="navbar-inner">
 	    <a class="brand" href="#">alan bush</a>
 	    <ul class="nav">
-	      <li class="active"><a href="index.html">home</a></li>
-	      <li><a href="#about">about</a></li>
-	      <li><a href="https://plus.google.com/u/0/100903393398867345579/posts">g+</a></li>
-	      <li><a href="http://tumblr.albush.com">blog</a></li>
+       <li class="dropdown">  
+         <a class="dropdown-toggle" data-toggle="dropdown" href="#">about<b class="caret bottom-up"></b></a>  
+         <ul class="dropdown-menu bottom-up pull-right">  
+          <li><a href="#about">about</a></li>
+          <!--
+          <li><a href="#nerd">nerd</a></li>
+          <li><a href="#husband">husband</a></li>
+          <li><a href="#father">father</a></li>
+          <li><a href="#improviser">improviser</a></li>
+          <li><a href="#+">+</a></li>
+          -->
+          <li><a href="http://www.linkedin.com/in/adbush" target="blank">Linkedin</a>
+         </ul>  
+        </li> 
+       <li><a href="https://plus.google.com/u/0/100903393398867345579/posts" target="_blank">Google Plus</a></li>  
+       <li><a href="https://www.twitter.com/alanbush" target="_blank">Twitter</a></li> 
+       <li><a href="http://tumblr.albush.com">Blog</a></li>       
 	    </ul>
 	  </div>
 	</div>
 <!-- End NavBar -->
+<h1> Alan Bush </h1>
 <!-- Main Body - Use Markdown between <xmp> tags -->
-	<xmp theme="cyborg" style="display:none;">
-# Alan Bush #
-
-I am **Nerd** | **Husband** | **Father** | **Improvisor** | **+**
-
-<id="about"> 
-## About ##
+<xmp theme="cyborg" style="display:none;">
+<div id="about">
+<h1> About</h1>
 
 Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. Before Rackspace, Alan helped create the Stevie Award winning onboarding program for [Central Desktop] [cd] - a really cool cloud collaboration suite - where he worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When he's not helping customers learn how to build awesome things in the cloud, Alan can be found performing improv comedy with [Comedy Sportz San Antonio] [cszsa], or grooming his moustache. 
+</div>
+
+<!-- Begin Additional Content
+<div id="nerd">
+# Nerd #
+
+I've always been a nerd. It took me a long time to come to terms with that, but it's true. I'm a nerd. Or a geek. Not sure which one is the correct genus for me, but I definitely fall into that range. I have several projects, on going, that I work on slowly. 
+
+## Learning All The Things ##
+
+This is my quest to become a slightly better hacker. Hacker in that good way - taking something and making it different or better.
+
+### Things I Want to Learn ###
+
+- [Python][python]
+- Better html/css
+- Shell Scripting
+- [Message Queues][mq]
+
+### Things I've Already Learned ###
+
+- Enough Linux to know *how* I broke something
+- Basic html/css
+
+</div> 
+<div id="husband">
+## Husband ##
+
+Bacon ipsum dolor sit amet venison strip steak et fugiat. Consectetur shankle culpa cillum est jerky pariatur excepteur ad. Brisket qui bresaola laborum nostrud chuck non occaecat quis cow short loin tenderloin aliquip pig. Esse ham in, dolore nostrud anim minim occaecat aute bresaola swine chicken. Bacon ipsum dolor sit amet venison strip steak et fugiat. Consectetur shankle culpa cillum est jerky pariatur excepteur ad. Brisket qui bresaola laborum nostrud chuck non occaecat quis cow short loin tenderloin aliquip pig. Esse ham in, dolore nostrud anim minim occaecat aute bresaola swine chicken.
+</div> 
+<div id="father">
+## Father ##
+
+Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. Before Rackspace, Alan helped create the Stevie Award winning onboarding program for [Central Desktop] [cd] - a really cool cloud collaboration suite - where he worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When he's not helping customers learn how to build awesome things in the cloud, Alan can be found performing improv comedy with [Comedy Sportz San Antonio] [cszsa], or grooming his moustache. 
+</div> 
+<div id="improviser">
+## Improviser ##
+
+Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. Before Rackspace, Alan helped create the Stevie Award winning onboarding program for [Central Desktop] [cd] - a really cool cloud collaboration suite - where he worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When he's not helping customers learn how to build awesome things in the cloud, Alan can be found performing improv comedy with [Comedy Sportz San Antonio] [cszsa], or grooming his moustache. 
+</div> 
+<div id="plus"> 
+## + ##
+
+Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. Before Rackspace, Alan helped create the Stevie Award winning onboarding program for [Central Desktop] [cd] - a really cool cloud collaboration suite - where he worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When he's not helping customers learn how to build awesome things in the cloud, Alan can be found performing improv comedy with [Comedy Sportz San Antonio] [cszsa], or grooming his moustache. 
+</div>
+End of additional content-->
 
 <!-- Links -->
 
 [cd]: http://www.centraldesktop.com
 [cszsa]: http://www.cszsa.com
+[python]: http://www.python.org/
+[mq]: http://www.iron.io/mq
 
 	</xmp>
 <!-- End Main Body -->
 <!-- All Scripts go here -->
-<script type="text/javascript">
-var menu = document.querySelector('.menu');
-var anchors = menu.getElementsByTagName('a');
 
-for (var i = 0; i < anchors.length; i += 1) {
-  anchors[i].addEventListener('click', function() { clickHandler(anchors[i]) }, false);
-}
-
-function clickHandler(anchor) {
-  var hasClass = anchor.getAttribute('class');
-  if (hasClass !== 'active') {
-    anchor.setAttribute('class', 'active');
-  }
-}
-</script>
     <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
     <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="http://cdn.albush.com/js/bootstrap.min.js"></script>
   </body>
 </html>

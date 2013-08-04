@@ -22,56 +22,24 @@
          <a class="dropdown-toggle" data-toggle="dropdown" href="#">about<b class="caret bottom-up"></b></a>  
          <ul class="dropdown-menu bottom-up pull-right">  
           <li><a href="#about">about</a></li>
+          <!--
           <li><a href="#nerd">nerd</a></li>
           <li><a href="#husband">husband</a></li>
           <li><a href="#father">father</a></li>
           <li><a href="#improviser">improviser</a></li>
           <li><a href="#+">+</a></li>
+          -->
+          <li><a href="http://www.linkedin.com/in/adbush" target="blank">Linkedin</a>
          </ul>  
         </li> 
-       <li><a href="https://plus.google.com/u/0/100903393398867345579/posts">Google Plus</a></li>  
-       <li><a href="https://www.twitter.com/alanbush">Twitter</a></li> 
+       <li><a href="https://plus.google.com/u/0/100903393398867345579/posts" target="_blank">Google Plus</a></li>  
+       <li><a href="https://www.twitter.com/alanbush" target="_blank">Twitter</a></li> 
        <li><a href="http://tumblr.albush.com">Blog</a></li>       
 	    </ul>
 	  </div>
 	</div>
 <!-- End NavBar -->
 <h1> Alan Bush </h1>
-<!--  Carousel - consult the Twitter Bootstrap docs at
-      http://twitter.github.com/bootstrap/javascript.html#carousel -->
-<div id="this-carousel-id" class="carousel slide"><!-- class of slide for animation -->
-  <div class="carousel-inner">
-    <div class="item active"><!-- class of active since it's the first item -->
-      <img src="http://placehold.it/1200x480" alt="" />
-      <div class="carousel-caption">
-        <p>Caption text here</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="http://placehold.it/1200x480" alt="" />
-      <div class="carousel-caption">
-        <p>Caption text here</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="http://placehold.it/1200x480" alt="" />
-      <div class="carousel-caption">
-        <p>Caption text here</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="http://placehold.it/1200x480" alt="" />
-      <div class="carousel-caption">
-        <p>Caption text here</p>
-      </div>
-    </div>
-  </div><!-- /.carousel-inner -->
-  <!--  Next and Previous controls below
-        href values must reference the id for this carousel -->
-    <a class="carousel-control left" href="#this-carousel-id" data-slide="prev">&lsaquo;</a>
-    <a class="carousel-control right" href="#this-carousel-id" data-slide="next">&rsaquo;</a>
-</div>
-<!-- /.carousel -->
 <!-- Main Body - Use Markdown between <xmp> tags -->
 <xmp theme="cyborg" style="display:none;">
 <div id="about">
@@ -80,6 +48,7 @@
 Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. Before Rackspace, Alan helped create the Stevie Award winning onboarding program for [Central Desktop] [cd] - a really cool cloud collaboration suite - where he worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When he's not helping customers learn how to build awesome things in the cloud, Alan can be found performing improv comedy with [Comedy Sportz San Antonio] [cszsa], or grooming his moustache. 
 </div>
 
+<!-- Begin Additional Content
 <div id="nerd">
 # Nerd #
 
@@ -122,6 +91,8 @@ Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. Bef
 
 Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. Before Rackspace, Alan helped create the Stevie Award winning onboarding program for [Central Desktop] [cd] - a really cool cloud collaboration suite - where he worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When he's not helping customers learn how to build awesome things in the cloud, Alan can be found performing improv comedy with [Comedy Sportz San Antonio] [cszsa], or grooming his moustache. 
 </div>
+End of additional content-->
+
 <!-- Links -->
 
 [cd]: http://www.centraldesktop.com
@@ -132,21 +103,7 @@ Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. Bef
 	</xmp>
 <!-- End Main Body -->
 <!-- All Scripts go here -->
-<script type="text/javascript">
-var menu = document.querySelector('.menu');
-var anchors = menu.getElementsByTagName('a');
 
-for (var i = 0; i < anchors.length; i += 1) {
-  anchors[i].addEventListener('click', function() { clickHandler(anchors[i]) }, false);
-}
-
-function clickHandler(anchor) {
-  var hasClass = anchor.getAttribute('class');
-  if (hasClass !== 'active') {
-    anchor.setAttribute('class', 'active');
-  }
-}
-</script>
     <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
