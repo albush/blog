@@ -1,0 +1,51 @@
+h1 {
+	font-family: 'Syncopate';
+	color: "black";
+	font-size: 96px;
+	}
+
+h3 {
+	font-family: 'Open Sans';
+	color: #c42126;
+	}
+
+p {
+	font-family: 'Abel';
+	/*font-size: '32px';*/
+    }
+
+a {
+font-family: 'Open Sans';
+color: #c42126;
+	}
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:underline;}
+
+.title
+{
+margin-left:auto;
+margin-right:auto;
+margin-top:100px;
+margin-bottom:15px;
+width:70%;
+text-align:center;
+}
+
+.subtitle
+{
+margin-left:auto;
+margin-right:auto;
+width:70%;
+text-align:center;
+}
+
+.center
+{
+margin-left:auto;
+margin-right:auto;
+width:70%;
+}
+

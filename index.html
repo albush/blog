@@ -1,66 +1,69 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>alan bush</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap (cyborg theme) -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <!-- End Bootstrap -->
-    <!-- Prevent navbar from covering body -->
-    <style type="text/css">
-    @media (min-width: 981px) { body { padding-top: 60px; } }
-    </style>
-    <!-- End Prevent Navbar from covering body -->
-  </head>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Alan Bush</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="About Alan Bush">
+  <meta name="author" content="Alan Bush">
+
+	<!--link rel="stylesheet/less" href="less/bootstrap.less" type="text/css" /-->
+	<!--link rel="stylesheet/less" href="less/responsive.less" type="text/css" /-->
+	<!--script src="js/less-1.3.3.min.js"></script-->
+	<!--append ‘#!watch’ to the browser URL, then refresh the page. -->
+	
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Syncopate|Open+Sans">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+  <![endif]-->
+
+  <!-- Fav and touch icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
+  <link rel="shortcut icon" href="img/favicon.png">
+  
+	
+</head>
+
   <body>
-<!-- NavBar | Fixed to top -->  	
-	<div class="navbar navbar-fixed-top">
-	  <div class="navbar-inner">
-	    <a class="brand" href="#">alan bush</a>
-	    <ul class="nav">
-	      <li class="active"><a href="index.html">home</a></li>
-	      <li><a href="#about">about</a></li>
-	      <li><a href="https://plus.google.com/u/0/100903393398867345579/posts">g+</a></li>
-	      <li><a href="http://tumblr.albush.com">blog</a></li>
-	    </ul>
-	  </div>
+   <div class="row clearfix">
+		<div class="col-md-12 column">
+			<h1 class="page-header">
+				Alan Bush
+			</h1>
+		</div>
+		<div>      
+      <h3 class="subtitle"><a href="#about"><i class="fa fa-home"></i> About </a> | <!--  | Blog -->  <a href="http://a479ad5536cbaa3e59a7-4bf3a694e10cef91a2cb2b5c8a5bc629.r1.cf1.rackcdn.com/AlanBushResume2014-05-06.pdf"><i class="fa fa-file-pdf-o"></i> Resume </a> | <a href="https://plus.google.com/+AlanBush/"><i class="fa fa-google-plus"></i> +AlanBush </a> | <a href="https://twitter.com/alanbush"><i class="fa fa-twitter"></i> @alanbush </a> <!-- | <a href="https://github.com/albush"><i class="fa fa-github"></i> GitHub</a> -->
+      </h3> 
+    </div>
 	</div>
-<!-- End NavBar -->
-<!-- Main Body - Use Markdown between <xmp> tags -->
-	<xmp theme="cyborg" style="display:none;">
-# Alan Bush #
 
-I am **Nerd** | **Husband** | **Father** | **Improvisor** | **+**
-
-<a id="about"> ## About ##
-
-Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. Before Rackspace, Alan helped create the Stevie Award winning onboarding program for [Central Desktop][cd] - a really cool cloud collaboration suite - where he worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When he's not helping customers learn how to build awesome things in the cloud, Alan can be found performing improv comedy with [Comedy Sportz San Antonio][cszsa], or grooming his moustache. 
-
-<!-- Links -->
-
-[cd](http://www.centraldesktop.com)
-[cszsa](http://www.cszsa.com)
-
-	</xmp>
-<!-- End Main Body -->
-<!-- All Scripts go here -->
-<script type="text/javascript">
-var menu = document.querySelector('.menu');
-var anchors = menu.getElementsByTagName('a');
-
-for (var i = 0; i < anchors.length; i += 1) {
-  anchors[i].addEventListener('click', function() { clickHandler(anchors[i]) }, false);
-}
-
-function clickHandler(anchor) {
-  var hasClass = anchor.getAttribute('class');
-  if (hasClass !== 'active') {
-    anchor.setAttribute('class', 'active');
-  }
-}
-</script>
-    <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-    <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+   <div class="container">
+  <div class="row clearfix">
+    <div class="col-md-12 column">
+    <!-- <div id="home">
+    	<p class="center">
+;ipsBacon ipsum dolor sit amet venison strip steak et fugiat. Consectetur shankle culpa cillum est jerky pariatur excepteur ad. Brisket qui bresaola laborum nostrud chuck non occaecat quis cow short loin tenderloin aliquip pig. Esse ham in, dolore nostrud anim minim occaecat aute bresaola swine chic
+    	</p>
+    </div>   -->
+    <div id="about">
+    	<!-- <h3 class="center">About</h3> -->
+      <p class="center">
+      Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. During his time on the Launch Team, Alan helped more than 100 new cloud consumers get started with cloud hosting, developed a weekly live video show - Office Hours Hangouts, was one of the first 175 Rackers to become certified "Cloud Savvy," and was awarded the Fanatical Jacket, Rackspace's highest honor for outstanding customer support.
+</p>
+ <p class="center">
+      Before Rackspace, Alan helped create the Stevie Award winning onboarding program for cloud collaboration suite Central Desktop, where he worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When he's not helping customers learn how to build awesome things in the cloud, Alan can be found performing improv comedy with ComedySportz San Antonio, or dreaming up new styles for his award-winning mustache.
+    </p>
+    </div>
+    </div>
+  </div>
+</div>
   </body>
 </html>
