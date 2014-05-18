@@ -13,7 +13,7 @@
 	<!--append ‘#!watch’ to the browser URL, then refresh the page. -->
 	
 	<link href="css/bootstrap.css" rel="stylesheet">
-	<link href="css/style.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Syncopate|Open+Sans">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
@@ -28,42 +28,259 @@
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
   <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
   <link rel="shortcut icon" href="img/favicon.png">
+
+  <style>
+  body { padding-top: 60px; }
+  </style>
   
-	
+  
 </head>
 
-  <body>
-   <div class="row clearfix">
-		<div class="col-md-12 column">
-			<h1 class="page-header">
-				Alan Bush
-			</h1>
-		</div>
-		<div>      
-      <h3 class="subtitle"><a href="#about"><i class="fa fa-home"></i> About </a> | <!--  | Blog -->  <a href="http://a479ad5536cbaa3e59a7-4bf3a694e10cef91a2cb2b5c8a5bc629.r1.cf1.rackcdn.com/AlanBushResume2014-05-06.pdf"><i class="fa fa-file-pdf-o"></i> Resume </a> | <a href="https://plus.google.com/+AlanBush/"><i class="fa fa-google-plus"></i> +AlanBush </a> | <a href="https://twitter.com/alanbush"><i class="fa fa-twitter"></i> @alanbush </a> <!-- | <a href="https://github.com/albush"><i class="fa fa-github"></i> GitHub</a> -->
-      </h3> 
-    </div>
-	</div>
-
-   <div class="container">
+<body>
+<div class="container">
+  <!-- Begin Navbar -->
   <div class="row clearfix">
     <div class="col-md-12 column">
-    <!-- <div id="home">
-    	<p class="center">
-;ipsBacon ipsum dolor sit amet venison strip steak et fugiat. Consectetur shankle culpa cillum est jerky pariatur excepteur ad. Brisket qui bresaola laborum nostrud chuck non occaecat quis cow short loin tenderloin aliquip pig. Esse ham in, dolore nostrud anim minim occaecat aute bresaola swine chic
-    	</p>
-    </div>   -->
-    <div id="about">
-    	<!-- <h3 class="center">About</h3> -->
-      <p class="center">
-      Alan Bush is a founding member & architect of Rackspace's Cloud Launch Team. During his time on the Launch Team, Alan helped more than 100 new cloud consumers get started with cloud hosting, developed a weekly live video show - Office Hours Hangouts, was one of the first 175 Rackers to become certified "Cloud Savvy," and was awarded the Fanatical Jacket, Rackspace's highest honor for outstanding customer support.
-</p>
- <p class="center">
-      Before Rackspace, Alan helped create the Stevie Award winning onboarding program for cloud collaboration suite Central Desktop, where he worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When he's not helping customers learn how to build awesome things in the cloud, Alan can be found performing improv comedy with ComedySportz San Antonio, or dreaming up new styles for his award-winning mustache.
-    </p>
-    </div>
+      <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar-header">
+           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> <a class="navbar-brand" href="#">Alan Bush</a>
+        </div>
+        
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="active">
+              <a href="#about">About</a>
+            </li>
+            <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="//twitter.com/alanbush"><i class="fa fa-twitter fa-fw"></i>&nbsp; Twitter</a></li>
+                    <li><a href="#donate">Donate Directly</a></li>
+                    <li><a href="/register.html">Register</a></li>
+                  </ul>
+                </li>
+            <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Get Involved <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="https://www.facebook.com/groups/AlamoBeardClub/">Facebook</a></li>
+                    <li><a href="https://www.facebook.com/groups/AlamoBeardClub/events/">Events</a></li>
+                  </ul>
+                </li>
+            <!-- <li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a href="#">Action</a>
+                </li>
+                <li>
+                  <a href="#">Another action</a>
+                </li>
+                <li>
+                  <a href="#">Something else here</a>
+                </li>
+                <li class="divider">
+                </li>
+                <li>
+                  <a href="#">Separated link</a>
+                </li>
+                <li class="divider">
+                </li>
+                <li>
+                  <a href="#">One more separated link</a>
+                </li>
+              </ul>
+            </li> -->
+          </ul>
+          <!-- <form class="navbar-form navbar-left" role="search">
+            <div class="form-group">
+              <input type="text" class="form-control">
+            </div> <button type="submit" class="btn btn-default">Submit</button>
+          </form> -->
+          <!-- <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a href="#">Link</a>
+            </li>
+            <li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a href="#">Action</a>
+                </li>
+                <li>
+                  <a href="#">Another action</a>
+                </li>
+                <li>
+                  <a href="#">Something else here</a>
+                </li>
+                <li class="divider">
+                </li>
+                <li>
+                  <a href="#">Separated link</a>
+                </li>
+              </ul>
+            </li>
+          </ul> -->
+        </div>
+        
+      </nav>
     </div>
   </div>
+  <!-- End Nav Bar -->
+  <!-- Banner -->
+  <div class="row clearfix">
+    <div class="col-md-12 column">
+      <a href="#beardcon"><img class="img-responsive" alt="140x140" src="img/BeardConBannerBanner2.png"></a>
+    </div>
+  </div>
+  <!-- About Section -->
+  <div class="row clearfix">
+    <div class="col-md-12 column" id="about">
+      <div class="tabbable" id="tabs-81297">
+        <ul class="nav nav-tabs">
+          <li class="active">
+            <a href="#panel-567876" data-toggle="tab">About</a>
+          </li>
+          <li>
+            <a href="#panel-731162" data-toggle="tab">Charitable Focus</a>
+          </li>
+          <li>
+            <a href="#panel-999937" data-toggle="tab">Officers</a>
+          </li>
+          <li>
+            <a href="#panel-999945" data-toggle="tab">Contact</a>
+          </li>
+        </ul>
+
+
+        <div class="tab-content">
+          <div class="tab-pane active" id="panel-567876">
+              
+    
+      <p>
+        <h2>About</h2>
+          <p>The Alamo Beard Club promotes facial hair, friendship, and the community of San Antonio.</p>
+
+          <p>The Alamo Beard Club was established in July 2012, bringing together a group of appreciators and cultivators of facial hair. The group began as a social club and soon grew to include competitions. Centred around the celebration of facial hair and a strong community charity focus. Alamo Beard Club&#8217;s competitions bring together the competitors and spectators to support San Antonio. </p>
+
+          <p>Currently, the Alamo Beard Club hosts an annual charity Beard and Moustache competition during San Antonio’s world famous Fiesta, volunteers to support local charities and businesses as well as sends competitors to local, regional and international competitions.</p>
+      </p>
+  
+          </div>
+          <div class="tab-pane" id="panel-731162">
+            <h2>Charitable Focus</h2>
+          <p>The Alamo Beard Club is founded as an altruistic organization, and has worked with many different local and national charities.</p>
+
+        <p>Our initial facial hair competition, in October 2012, raised $800 for the <a href="http://westsidedoginitiative.blogspot.com/p/about">Westside Dog Initiative</a>. The WDI is a community-based initiative developed to bring awareness to and to help remedy the rampant stray animal problem in San Antonio’s Westside community.</p>
+
+        <p>In November 2012, we raised $673 in conjunction with <a href="http://us.movember.com/">Movember</a>. Movember raises vital awareness and funds for men&#8217;s health issues, specifically prostate and testicular cancer initiatives.</p>
+
+        <p>In December 2012, Alamo Beard Club partnered with local business The Friendly Spot to collect toys and donations for USMC&#8217;s <a href="http://www.toysfortots.org/">Toys for Tots</a>. </p>
+
+        <p>In March 2013, we raised $400 as well as clothing and toy donations for the <a href="http://www.fvps.org/">Family Violence Prevention Services of San Antonio</a>. Who help to break the cycle of violence and to strengthen families, by providing the necessary tools for self-sufficiency</p>
+
+        <p>In April 2013, we raised over $1700 for <a href="http://www.casa-satx.org/">Child Advocates of San Antonio</a>. CASA recruits, trains, and supervises court-appointed volunteer Advocates who provide constancy for abused and neglected children and youth while advocating for services and placement in safe and permanent homes. The money raised during Beard Royal was enough to foster two children for one year.</p>
+          </div>
+          <div class="tab-pane" id="panel-999937">
+            <h2>Officers</h2>
+          <p><strong>President</strong>, Andrew Diehl<br/>
+          <strong>Vice President</strong>, Wes Dunn<br/>
+          <strong>Secretary</strong>, Cody Jobson<br/>
+          <strong>Treasurer</strong>, Potts (Chris)<br/>
+          <strong>Special Events Coordinator</strong>, Tyler Lutz<br/>
+          <strong>Public Affairs Officer</strong>, Danny Ramirez<br/>
+          <strong>Webmaster</strong>, Alan Bush<br/>
+          <strong>Sales/Acquisition Officer</strong>, Christian Oyler<br/>
+          <strong>Sgt. At Arms</strong>, Joel &#8220;Turtle&#8221; Cruz</p>
+          </div>
+
+          <div class="tab-pane" id="panel-999945">
+            <h2>Contact Us</h2>
+            <address> <strong>Alamo Beard Club</strong><br /> PO Box 34035<br /> San Antonio, TX 78265<br /> info@alamobeardclub.com</address>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- BeardCon -->
+  <div class="row clearfix">
+    <div class="col-md-12 column">
+      <div class="page-header" id="beardcon">
+        <h1>
+          Alamo City Beard Con <small>A Beard and Mustache Competition with a Comic-Con Twist</small>
+        </h1>
+      </div>
+    </div>
+  </div>
+  <div class="row clearfix">
+    <div class="col-md-4 column">
+      <img class="img-responsive" alt="Alamo Beard Club Presents: Alamo City Beard Con - a Beard and Mustache Competition with a Comic Con Twist" src="img/BeardCon Square Pic.jpg" />
+    </div>
+    <div class="col-md-8 column">
+      
+
+<p class="lead">Alamo Beard Club is hosting their 3rd annual Facial Hair Competition.
+
+The theme for this year&#8217;s competition is Beard-con, a comic-con based competition. Competitors and spectators are encouraged to dress up as their favorite cosplay character or create their own.<br/></p>
+
+<p>The Cover charge is $5 at the door and $5 to compete. All money raised will be donated to this year&#8217;s charity the <a href="http://www.woundedwarriorproject.org/" target="blank">Wounded Warrior Project</a>.<br/>
+Awesome prizes for competitors and raffle. Register now!</p>
+
+<a href="/register.html" class="btn btn-success btn-lg btn-responsive" type="button">Register</a>
+
+<h3 id="competitioncategories">Competition categories are:</h3>
+
+<ul>
+<li>Styled Mustache</li>
+<li>Natural Mustache</li>
+<li>Partial Beard/ Goatee</li>
+<li>Full Beard Under 6&quot;</li>
+<li>Full Beard over 6&quot;</li>
+<li>Full Beard with Styled Mustache</li>
+<li>Freestyle Beard</li>
+<li>Best Groomed</li>
+<li>&#8220;On Leave&#8221; Beard (Military leaning, Can be 5&#8217; o&#8217;clock shadow. Leaning towards those who can not grow out their beards due to occupational restrictions)</li>
+<li>Ladies Creative Beard</li>
+<li>Judges Favorite/ Best of Show</li>
+</ul>
+
+<p>Band: TBA</p>
+    </div>
+  </div>
+<!-- End BeardCon -->
+<!-- Donate -->
+<div class="row clearfix">
+    <div class="col-md-12 column">
+      <div class="page-header" id="donate">
+        <h1>
+          Donate Directly to Wounded Warriors Project <small>Help us help our wounded warriors</small>
+        </h1>
+        <p>All donations from this site will go directly to the Wounded Warrior Project in the name of Alamo Beard Club. Your donations are greatly apreciated.</p><br>
+          <a href="https://support.woundedwarriorproject.org/group-fundraising/alamobeardclub/" target="blank" class="btn btn-success btn-lg btn-responsive" type="button">Donate</a>
+      </div>
+    </div>
+</div>    
+<!-- End Register -->
+<!-- Register -->
+<!-- <div class="row clearfix">
+    <div class="col-md-12 column">
+      <div class="page-header" id="register">
+        <h1>
+          Register for Beard Con <small>Register now!</small>
+        </h1>
+        <iframe src="https://docs.google.com/forms/d/1ahG-fZlZNe9anme5He0i-hB6bn5HIq3etbK3Xd4gM3c/viewform?embedded=true" width="760" height="838" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+      </div>
+    </div>
+</div>     -->
+<!-- End Register -->
+<!-- Footer -->
+<footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2014 Alamo Beard Club &middot; </p>
+      </footer>
 </div>
-  </body>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="js/scripts.js"></script>
+</body>
 </html>
