@@ -16,12 +16,22 @@ a:focus {
   text-decoration: underline;
 }
 
+h1  {
+  font-family: "Syncopate"; 
+  padding-top: 40px; 
+  margin-top: -40px;
+}
+
 .page-header {
   font-family: 'Syncopate';
   padding-bottom: 9px;
   margin: 40px 0 20px;
   border-bottom: 1px solid #eeeeee;
   color: #c42126;
+}
+
+#footer{
+  color: #666;
 }
 
 .navbar-brand {
