@@ -1,0 +1,90 @@
+body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #000;
+  background-color: #fff;
+}
+
+a {
+  color: #c42126;
+  text-decoration: none;
+}
+
+.entry-content a {
+text-decoration: none;
+border-bottom: none;
+}
+
+a:hover,
+a:focus {
+  color: #c42126;
+  text-decoration: underline;
+}
+
+h1  {
+  font-family: "Syncopate"; 
+  padding-top: 40px; 
+  margin-top: -40px;
+}
+
+.page-header {
+  font-family: 'Syncopate';
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 1px solid #eeeeee;
+  color: #c42126;
+}
+
+#footer{
+  color: #666;
+}
+
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  font-family: "Syncopate";
+}
+
+.navbar-default {
+  background-color: #fff;
+  /*border-color: #e7e7e7;*/
+}
+
+.navbar-default .navbar-nav>li>a {
+color: #777;
+}
+.navbar-default .navbar-brand {
+  color: #c42126;
+}
+
+.entry-content a {
+text-decoration: none;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+}
