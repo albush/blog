@@ -56,20 +56,20 @@ xmlns:fb="https://www.facebook.com/2008/fbml">
 
     <!-- Bootstrap -->
     {% if BOOTSTRAP_THEME %}
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.css" type="text/css"/>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
     {% else %}
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
     {% endif %}
-    <link href="{{ SITEURL }}/theme/css/font-awesome.min.css" rel="stylesheet">
+    <!-- <link href="{{ SITEURL }}/theme/css/font-awesome.min.css" rel="stylesheet"> -->
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Syncopate|Open+Sans">
-    <link href="{{ SITEURL }}/theme/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet">
-    {% if DOCUTIL_CSS %}
+    <!-- <link href="{{ SITEURL }}/theme/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet"> -->
+    <!-- {% if DOCUTIL_CSS %}
     <link href="{{ SITEURL }}/theme/css/html4css1.css" rel="stylesheet">
     {% endif %}
     {% if TYPOGRIFY %}
     <link href="{{ SITEURL }}/theme/css/typogrify.css" rel="stylesheet">
-    {% endif %}
+    {% endif %} -->
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" type="text/css"/>
     {% if CUSTOM_CSS %}
     <link href="{{ SITEURL }}/{{ CUSTOM_CSS }}" rel="stylesheet">
@@ -176,7 +176,7 @@ xmlns:fb="https://www.facebook.com/2008/fbml">
                 {% include 'includes/aboutme.html' %}
             </div>
             {% endif %}
-	{% if not HIDE_SIDEBAR %}
+    {% if not HIDE_SIDEBAR %}
         <div class="col-sm-3 well well-sm" id="sidebar">
             {% include 'includes/sidebar.html' %}
         </div>
@@ -192,10 +192,10 @@ xmlns:fb="https://www.facebook.com/2008/fbml">
 {% include 'includes/ga.html' %}
 {% include 'includes/piwik.html' %}
 {% include 'includes/footer.html' %}
-<script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
 <script src="{{ SITEURL }}/theme/js/respond.min.js"></script>

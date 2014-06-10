@@ -43,7 +43,7 @@ EXTRA_PATH_METADATA = {
 RELATIVE_URLS = True
 DELETE_OUTPUT_DIRECTORY = True
 
-HIDE_SIDEBAR = False
+HIDE_SIDEBAR = True
 
 # Setting up static site with blog in subfolder
 ARTICLE_DIR = 'blog'

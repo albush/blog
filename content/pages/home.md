@@ -1,12 +1,12 @@
-Title: About
+Title: Alan Bush
 Date: 2014-05-27 10:56
 save_as: index.html 
 
 <div class="container">
   <div class="row clearfix">
-    <div class="col-md-3 column">
+    <div class="col-md-4 column">
        <img class="img-responsive" alt="fanatical jacket winner" src="/images/fanjackettrans.png"> </div>
-       <div class="col-md-5 column" id="about">
+       <div class="col-md-8 column" id="about">
         <p>
             Alan Bush is a founding member and architect of Rackspace's Cloud Launch Team. During his time on the Launch Team, Alan helped more than 100 new cloud consumers get started with cloud hosting, developed a weekly live video show - Office Hours Hangouts, was one of the first 175 Rackers to become certified "Cloud Savvy," and was awarded the Fanatical Jacket, Rackspace's highest honor for outstanding customer support.
         </p>

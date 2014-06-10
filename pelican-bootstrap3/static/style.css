@@ -65,6 +65,10 @@ color: #777;
 text-decoration: none;
 }
 
+.arttitle {
+  font-family: "Syncopate";
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 
@@ -75,7 +79,7 @@ body {
 }
 
 /* Wrapper for page content to push down footer */
-#wrap {
+.wrap {
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */

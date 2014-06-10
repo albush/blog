@@ -3,7 +3,7 @@ Date: 2014-05-28 00:48
 
 <div class="container">
     <div class="row clearfix">
-        <div class="col-md-8 column">
+        <div class="col-md-12 column">
             <h2 id="officehourshangouts">Office Hours Hangouts</h2>
             <a href="http://go.rackspace.com/officehours"><img class="img-responsive" alt="Cloud Office Hours Hangouts" src="/images/officehours.jpeg" style="padding-bottom: 5px;"></a>
             <p>Office Hours is a weekly live video hangout discussing cloud best practices, new developments in the cloud, and helpful third party tools. Co Host Drew Cox and I have hosted over 50 hangouts with Rackers, Customers, and Rackspace Marketplace partners. Our shows continue to be used as a reference internally by Rackers in Sales, Marketing, and Support. </p>

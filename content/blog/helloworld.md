@@ -3,7 +3,6 @@ Date: 2014-06-02 20:14
 Template: blog/article
 Slug: Hello World
 Author: Alan Bush
-Summary: Here's to hoping that this static blog trend isn't a quick fad!
 
 ### The part where I welcome you to version X.Y of my blog. 
 
