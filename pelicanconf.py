@@ -19,7 +19,7 @@ DISPLAY_TAGS_ON_SIDEBAR = False
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
-THEME = '/home/al/albush.com/pelican-bootstrap3' 
+THEME = './pelican-bootstrap3' 
 CUSTOM_CSS = 'theme/style.css'
 # Blogroll
 LINKS =  (('Office Hours Cloud Hangout', 'http://go.rackspace.com/officehours'),('Pelican', 'http://getpelican.com/'),)
