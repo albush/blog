@@ -1,0 +1,19 @@
+Title: Easy Filesharing with Dropzone3 and Rackspace Cloud Files
+Date: 2014-08-14 08:49
+Author: Alan Bush
+
+![Image sharing just got a little easier](http://drops.albush.com/andtherewasmuchrejoicing.gif)
+
+From time to time I need to quickly share an image or file with a colleague, a friend or client, and that's usually something I would do on a one-off basis by emailing, or uploading to Dropbox or something. This is a pretty easy workflow, but it could probably be easier, right? That's where [Alex Chiri](http://www.alexchiri.com/) and his [Dropzone](https://aptonic.com/dropzone3/) action come in. 
+
+If you're not familiar, Dropzone is a great little Mac utility that allows you to perform quick actions by dragging a file up to the icon on the menu bar. (Disclosure: After tweeting about how cool I thought this was, Aptonic Software provided me with a free copy of Dropzone 3. This blog post is unsolicited.) Some default actions are to upload to Dropbox, but Dropzone also has pretty solid development options, and that's where Alex Chiri comes in. As he outlined [here][2] in his blog post, with some prompt help from John at Dropzone, Alex was able to create an action for Dropzone to upload to Rackspace Cloud Files, and then copy the resulting CDN enabled url to the clipboard. 
+
+I saw this blog post and instantly saw where this would be valuable. Now, when I want to send a file to a customer or friend, I can quickly upload it to my own Cloud Files container and send them the link via IM, email, or any other medium. I added a CNAME record, so that I can send a more clean url, and I hope that Alex can add in the feature to specify that CNAME when copying the url. 
+
+
+My next task is to add the ability to view all of the files already uploaded, so that I can reuse items I've already uploaded. I apologize to everyone who will now receive snarky animated gif replies at a greater speed and frequency. 
+
+   [2]: http://www.alexchiri.com/rackspace-cloud-files-action-for-dropzone-3/
+   [4]: https://twitter.com/alexchiri
+   [6]: http://www.alexchiri.com/
+
