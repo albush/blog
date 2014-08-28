@@ -10,6 +10,12 @@ a {
   color: #c42126;
   text-decoration: none;
 }
+
+.entry-content a {
+text-decoration: none;
+border-bottom: none;
+}
+
 a:hover,
 a:focus {
   color: #c42126;
@@ -20,6 +26,33 @@ h1  {
   font-family: "Syncopate"; 
   padding-top: 40px; 
   margin-top: -40px;
+}
+
+.sidebar {
+
+background-color: #fff;
+}
+
+#sidebarstatic {
+  height:100%;
+  float: left;
+  position: fixed;
+}
+
+#mainarea {
+  float:right;
+  padding-left: 30px;
+}
+
+.well {
+min-height: 20px;
+padding: 19px;
+margin-bottom: 20px;
+background-color: #fff;
+ border: none;
+ border-radius: 0px;
+ -webkit-box-shadow: none;
+ box-shadow: none;
 }
 
 .page-header {
@@ -48,6 +81,42 @@ h1  {
   /*border-color: #e7e7e7;*/
 }
 
+.navbar-default .navbar-nav>li>a {
+color: #777;
+}
 .navbar-default .navbar-brand {
   color: #c42126;
+}
+
+.entry-content a {
+text-decoration: none;
+}
+
+.arttitle {
+  font-family: "Syncopate";
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+.wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  text-align: right;
+  height: 60px;
 }
