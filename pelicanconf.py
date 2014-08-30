@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Alan Bush'
 SITENAME = "Alan Bush" 
 SITEURL = 'http://albush.com'
-USER_LOGO_URL = '/images/ab3head.png' 
+USER_LOGO_URL = '//drops.albush.com/ab3head.png' 
 TAGLINE = 'Nerd|Husband|Father|Improviser|More'
 
 TIMEZONE = 'America/Chicago'
@@ -24,6 +24,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 THEME = './pelican-svbhack-master' 
 CUSTOM_CSS = 'theme/style.css'
+CACHE_CONTENT = False
 
 # Blogroll
 #LINKS =  (('Projects', '/pages/projects.html'),('Pelican', 'http://getpelican.com/'),)

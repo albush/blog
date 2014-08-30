@@ -4,7 +4,7 @@ Status: hidden
 save_as: 404error.html
 ## Whoops!
 
-![404 not found](/images/404-beardnotfound.jpg)
+<img class="img-responsive" src="//drops.albush.com/404-beardnotfound.jpg">
 
 The page you're looking for isn't 'stached here. 
-*(see what we did there?)*
+*(see what I did there?)*
