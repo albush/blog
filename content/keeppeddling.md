@@ -2,9 +2,7 @@ Title: Keep Peddling
 Author: Alan Bush
 Date: 2014-07-11
 
-<img class="img-responsive" src="/images/keeppeddling.gif">
-
-<!-- ![keep peddaling](/images/keeppeddling.gif) -->
+<img class="img-responsive" src="//drops.albush.com/keeppeddling.gif">
 
 My four year old son has his first bike. I've been spending my evenings teaching him how to ride - he's catching on fast. One area he's struggling in is the turns. He's not confident, or not focused, and he tips over in the turns. I was jogging after him, shouting advice, when I realized my advice has implications far beyond beginners cycling - keep peddling and look where you want to be. Whatever twists and turns life throws your way, you can better navigate them if you keep peddling and look where you want to be. 
 

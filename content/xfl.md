@@ -2,7 +2,7 @@ Title: Making Assumptions about my Fellow Passengers
 Date: 2014-08-16 23:01
 Author: Alan Bush
 
-<img class="img-responsive" src="/images/XFL_Logo.svg" alt="A large (By their standards) XFL Crowd">
+<img class="img-responsive" src="//drops.albush.com/XFL_Logo.svg">
 
 _Editorial Note: I wrote this in June of 2012, while waiting on a delayed flight in the Phoenix airport. I wish I had written more of these._
 

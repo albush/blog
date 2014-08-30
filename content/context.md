@@ -2,7 +2,7 @@ Title: Songza Adds Context to Google Play Music
 Author: Alan Bush
 Date: 2014-07-02
 
-Hey, did you hear that Google is buying music curated music app [Songza](http://songza.com/)? I'm  very excited about this acquisition. Songza is a bit different than other streaming music apps, in that their playlists are carefully curated around context - What time of day are you listening? What's your mood? What activity are you participating in? - and then plays music based on that context. And I hope that Google will integrate this context directly into their own streaming music app.  
+Hey, did you hear that Google is buying music curated music app [Songza][1]? I'm  very excited about this acquisition. Songza is a bit different than other streaming music apps, in that their playlists are carefully curated around context - What time of day are you listening? What's your mood? What activity are you participating in? - and then plays music based on that context. And I hope that Google will integrate this context directly into their own streaming music app.  
 
 Google is already so good at context - Google Now proves this every day. But their music streaming app could really benefit from some additional contextual help. Play Music already has great music discovery features, including an "I'm feeling lucky" radio feature which plays a random playlist based on your previous listening habits. While they make good suggestions based on what I've already listened to, the service does miss out on context. 
 
@@ -24,4 +24,7 @@ The other interesting angle of this acquisition is that Google will now get to p
 
 Four of those options are pretty good guesses for any old Wednesday afternoon - but what if I work nights? What if I work outside, not in an office? What if I were, actually, going to a specific festival? By integrating with Google, Songza will have a much better idea of what I usually do, where I'm going and if I'm usually awake at this time. 
 
-I think that Songza is perfect for Google, and Google is perfect for Songza. I'm looking forward to seeing how this merger changes everything. 
+I think that Songza is perfect for Google, and Google is perfect for Songza. I'm looking forward to seeing how this merger changes everything.
+
+
+[1]: http://songza.com/ 
