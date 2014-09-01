@@ -27,7 +27,7 @@ CUSTOM_CSS = 'theme/style.css'
 CACHE_CONTENT = False
 
 # Blogroll
-#LINKS =  (('Projects', '/pages/projects.html'),('Pelican', 'http://getpelican.com/'),)
+# LINKS =  (('ComedySportz San Antonio', '//cszsa.com'),('Pelican', '//getpelican.com/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/alanbush'),
