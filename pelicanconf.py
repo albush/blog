@@ -1,12 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+# Production Version #
 from __future__ import unicode_literals
 
 AUTHOR = u'Alan Bush'
 SITENAME = "Alan Bush" 
 SITEURL = 'http://albush.com'
 USER_LOGO_URL = '//drops.albush.com/ab3head.png' 
-TAGLINE = 'Nerd|Husband|Father|Improviser|More'
+TAGLINE = 'Nerd|Husband|Father|Improviser'
 
 TIMEZONE = 'America/Chicago'
 DEFAULT_DATE = 'fs' 
@@ -25,6 +26,7 @@ TRANSLATION_FEED_ATOM = None
 THEME = './pelican-svbhack-master' 
 CUSTOM_CSS = 'theme/style.css'
 CACHE_CONTENT = False
+GOOGLE_ANALYTICS = 'UA-15275173-7'
 
 # Blogroll
 # LINKS =  (('ComedySportz San Antonio', '//cszsa.com'),('Pelican', '//getpelican.com/'),)
@@ -35,11 +37,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/alanbush'),
 
 DISQUS_SITENAME = 'albush'
 
-# AVATAR = '/images/avatar.jpg'
-# ABOUT_ME = 'Nerd|Husband|Father|Improviser|More'
-
-
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 7
 # Tell Pelican to add 'extra/style.css' to the output dir
 STATIC_PATHS = ['images', 'extra/style.css', 'extra/favicon.ico', 'extra/avatar.jpg']
 
@@ -49,27 +47,7 @@ EXTRA_PATH_METADATA = {
 }
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
 DELETE_OUTPUT_DIRECTORY = True
 
 HIDE_SIDEBAR = False
-
-# Setting up static site with blog in subfolder
-# ARTICLE_DIR = 'blog'
-# ARTICLE_URL = 'blog/{slug}.html'
-# ARTICLE_SAVE_AS = 'blog/{slug}.html'
-
-# PAGE_DIR = 'pages'
-# PAGE_URL = '{slug}.html'
-# PAGE_SAVE_AS = '{slug}.html'
-
-# AUTHOR_SAVE_AS = False
-
-# CATEGORY_SAVE_AS = 'blog/category/{slug}.html'
-# CATEGORY_URL = 'blog/category/{slug}.html'
-
-# TAG_SAVE_AS = 'blog/tag/{slug}.html'
-# TAG_URL = 'blog/tag/{slug}.html'	
-
-# DIRECT_TEMPLATES = (('index', 'blog/tags', 'blog/categories', 'blog/archives', 'blog/index'))
-# PAGINATED_DIRECT_TEMPLATES = (('index', 'blog/index', ))
