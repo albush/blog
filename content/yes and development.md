@@ -3,6 +3,8 @@ Author: Alan Bush
 Date: 2014-09-03 23:24
 Summary: A twitter joke and an improv "yes and" leads to an app two days later.
 
+You never know when a passing comment might turn into an actual product. I've been performing improv for over half of my life now. By this point, many of the concepts of improv are incorporated into my everyday life. Here's an example of a principle of improv applied to software development.
+
 Two days ago I saw a great tweet:
 
 <blockquote class="twitter-tweet" lang="en"><p>Why doesn&#39;t Hyperlapse have an &quot;Add Yackety Sax&quot; button?</p>&mdash; H. Wade Minter (@minter) <a href="https://twitter.com/minter/status/506551221579038720">September 1, 2014</a></blockquote>
@@ -22,9 +24,4 @@ And Wade did just that. After his initial tweet, and my first "yes and," Wade ad
 
 Just provide yaketylapse with your hyperlapse video and the app spits out a saxed up version. Pretty cool. And all because Wade kept saying yes. Thanks, Wade!
 
-Here's an example, taken from this [@MLBGIFs tweet](https://twitter.com/MLBGIFs/status/507322761157427200).
-
-
-<div class="video-container">
-<iframe width="384" height="216" src="//drops.albush.com/b15730f5-97c2-4929-accd-2b48e4e6611d.mov"></iframe>
-</div>
+[Check out my example](http://yacketylapse.com/videos/4c268af4-6761-4d19-b4de-24ba87cec59e), taken from this [@MLBGIFs tweet](https://twitter.com/MLBGIFs/status/507322761157427200).
