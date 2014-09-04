@@ -25,5 +25,5 @@ Here's an example, taken from this [@MLBGIFs tweet](https://twitter.com/MLBGIFs/
 
 
 <div class="video-container">
-<iframe width="640" height="360" src="//drops.albush.com/b15730f5-97c2-4929-accd-2b48e4e6611d.mov"></iframe>
+<iframe width="384" height="216" src="//drops.albush.com/b15730f5-97c2-4929-accd-2b48e4e6611d.mov"></iframe>
 </div>
