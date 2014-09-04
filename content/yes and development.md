@@ -1,6 +1,7 @@
 Title: Yes And Development
 Author: Alan Bush
-Summary: A twitter joke and an improv "yes and" leads to a an app two days later.
+Date: 2014-09-03 23:24
+Summary: A twitter joke and an improv "yes and" leads to an app two days later.
 
 Two days ago I saw a great tweet:
 
