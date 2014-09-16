@@ -24,4 +24,8 @@ And Wade did just that. After his initial tweet, and my first "yes and," Wade ad
 
 Just provide yaketylapse with your hyperlapse video and the app spits out a saxed up version. Pretty cool. And all because Wade kept saying yes. Thanks, Wade!
 
-[Check out my example](http://yacketylapse.com/videos/4c268af4-6761-4d19-b4de-24ba87cec59e), taken from this [@MLBGIFs tweet](https://twitter.com/MLBGIFs/status/507322761157427200).
+[Check out my example][1], taken from this [@MLBGIFs tweet][2].
+
+
+[1]: http://yacketylapse.com/videos/4c268af4-6761-4d19-b4de-24ba87cec59e
+[2]: https://twitter.com/MLBGIFs/status/507322761157427200
