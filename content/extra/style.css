@@ -11,6 +11,22 @@ a {
   text-decoration: none;
 }
 
+.g-post {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.g-post iframe,
+.g-post object,
+.g-post embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 .entry-content a {
 text-decoration: none;
 border-bottom: none;
