@@ -1,7 +1,10 @@
 Title: Minimizing the Impact of a Cloud Server Reboot
 Author: Alan Bush
 
-Last week at work, we had to reboot almost all of our Cloud servers. In anticipation of the reboots, my colleague Alison Oster and I wrote the following article for our customers. I think the advice is valid, regardless of where you host, so I'm reposting it here. 
+Last week at work, we had to reboot almost all of our Cloud servers. In anticipation of the reboots, my colleague Alison Oster and I wrote the following article for our customers. I think the advice is valid, regardless of where you host, so I'm reposting it here, and including the video hangout where we covered these tips.
+
+<div class="video-container">
+<iframe width="640" height="390" src="//www.youtube.com/embed/m9kg26vTGB0?list=UUG0VI_ayS-I0RQpBna4Tisw" frameborder="0" allowfullscreen></iframe></div>
 
 # Minimizing the Impact of a Cloud Server Reboot
 
