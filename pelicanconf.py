@@ -33,7 +33,8 @@ GOOGLE_ANALYTICS = 'UA-15275173-7'
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/alanbush'),
-	('Google+', 'http://plus.google.com/+AlanBush/'),)
+	('Google+', 'http://plus.google.com/+AlanBush/'),
+	('Known', 'http://youcancallme.albush.com'),)
 
 DISQUS_SITENAME = 'albush'
 
