@@ -28,13 +28,12 @@ CUSTOM_CSS = 'theme/style.css'
 CACHE_CONTENT = False
 GOOGLE_ANALYTICS = 'UA-15275173-7'
 
-# Blogroll
-# LINKS =  (('ComedySportz San Antonio', '//cszsa.com'),('Pelican', '//getpelican.com/'),)
+# Plugins
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/alanbush'),
 	('Google+', 'http://plus.google.com/+AlanBush/'),
-	('Known', 'http://youcancallme.albush.com'),)
+	('ls -al', 'http://youcancallme.albush.com'),("Improv Comedy", 'http://cszsa.com'))
 
 DISQUS_SITENAME = 'albush'
 
