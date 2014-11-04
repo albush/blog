@@ -1,5 +1,6 @@
 Title: Billy Butler Stole a Base
 Author: Alan Bush
+Date: 2014-10-06
 
 <div class="video-container">
 <video controls loop>

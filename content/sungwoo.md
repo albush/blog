@@ -1,5 +1,6 @@
 Title: SungWoo Lee Is Not A Lucky Charm, He's a Fan
 Author: Alan Bush
+Date: 2014-10-19
 
 <div style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;"><div style="overflow:hidden;position:relative;height:0;padding:67.508418% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/453500438?et=DU8MVMI1SA98Ar1R9yr1EA&similar=on&sig=KDFbjwdEMUNcWUtp8XQQUmj2LIIT6N5CbWF2mT5m13w=" width="594" height="401" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p style="margin:0;"></p><div style="padding:0;margin:0 0 0 10px;text-align:left;"><a href="http://www.gettyimages.com/detail/453500438" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">#453500438</a> / <a href="http://www.gettyimages.com" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">gettyimages.com</a></div></div>
 
