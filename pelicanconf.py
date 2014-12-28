@@ -12,7 +12,7 @@ TAGLINE = 'Nerd|Husband|Father|Improviser'
 TIMEZONE = 'America/Chicago'
 DEFAULT_DATE = 'fs' 
 DEFAULT_LANG = u'en'
-DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = False
 USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = 'misc'
@@ -28,6 +28,11 @@ CUSTOM_CSS = 'theme/style.css'
 CACHE_CONTENT = False
 GOOGLE_ANALYTICS = 'UA-15275173-7'
 
+DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives')
+CATEGORIES_SAVE_AS = 'categories.html'
+CATEGORY_URL = 'category/{slug}.html'
+CATEGORY_SAVE_AS = 'category/{slug}.html'
+
 # Plugins
 
 # Social widget
@@ -37,6 +42,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/alanbush'),
 
 DISQUS_SITENAME = 'albush'
 
+#ARTICLE_EXCLUDES = ['officehours']
 DEFAULT_PAGINATION = 7
 # Tell Pelican to add 'extra/style.css' to the output dir
 STATIC_PATHS = ['images', 'extra/style.css', 'extra/favicon.ico', 'extra/avatar.jpg']
