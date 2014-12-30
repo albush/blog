@@ -1,7 +1,8 @@
 image: linuturk/pelican
 script:
   - make -C $DRONE_BUILD_DIR html
-swift:
+publish:
+  swift:
     username: {{rax_username}}
     password: {{rax_apikey}}
     auth_url: https://identity.api.rackspacecloud.com/v2.0
