@@ -3,8 +3,8 @@ script:
   - make -C $DRONE_BUILD_DIR html
 publish:
     swift:
-      username: {{raxUsername}}
-      password: {{raxApikey}}
+      username: {{RAX_USERNAME}}
+      password: {{RAX_APIKEY}}
       auth_url: https://identity.api.rackspacecloud.com/v2.0
       region: DFW
       container: albush.com
