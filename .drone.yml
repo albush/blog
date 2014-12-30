@@ -4,7 +4,7 @@ script:
 publish:
     swift:
       username: albush
-      password: {{rax_apikey}}
+      password: abcd1234
       auth_url: https://identity.api.rackspacecloud.com/v2.0
       region: DFW
       container: albush.com
