@@ -3,7 +3,7 @@ albush.com
 
 Personal website for alan bush
 
-[![Build Status](http://162.242.241.72/github.com/albush/albush.com/status.svg?branch=master)](http://162.242.241.72/github.com/albush/albush.com)
+[![Build Status](https://23.253.107.9/api/badge/github.com/albush/albush.com/status.svg?branch=master)](https://23.253.107.9/github.com/albush/albush.com)
 
 Built with Pelican, deployed by Docker and Drone.io
 
