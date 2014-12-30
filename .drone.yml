@@ -1,11 +1,10 @@
 image: linuturk/pelican
 script:
   - make -C $DRONE_BUILD_DIR html
-publish:
-    swift:
-        username: {{rax_username}}
-        password: {{rax_apikey}}
-        auth_url: https://identity.api.rackspacecloud.com/v2.0
-        region: DFW
-        container: albush.com
-        source: $DRONE_BUILD_DIR/output
+swift:
+    username: {{rax_username}}
+    password: {{rax_apikey}}
+    auth_url: "https://identity.api.rackspacecloud.com/v2.0"
+    region: DFW
+    container: albush.com
+    source: $DRONE_BUILD_DIR/output
