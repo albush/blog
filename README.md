@@ -3,7 +3,7 @@ albush.com
 
 Personal website for alan bush
 
-[![Build Status](https://104.130.125.230/api/badge/github.com/albush/hugoblog/status.svg?branch=master)](https://104.130.125.230/github.com/albush/hugoblog)
+[![Build Status](https://104.130.125.230/api/badge/github.com/albush/hugoblog/status.svg?branch=master)](https://104.130.125.230/github.com/albush/albush.com)
 
 About
 -----
