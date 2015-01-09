@@ -15,3 +15,6 @@ Before Rackspace, I helped create the Stevie Award winning onboarding program fo
 [1]: http://cszsa.com/
 [2]: https://www.youtube.com/watch?v=iOxGVJ3Zv94
 [3]: https://community.rackspace.com/p/officehours
+
+
+<!-- updated drone.yml -->
