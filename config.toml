@@ -8,6 +8,7 @@
   Title = "Alan Bush"
   author = "Alan Bush"
 
+
 [indexes]
    category = "categories"
    tag = "tags"
@@ -19,7 +20,8 @@
   email = "al@albush.com"
   resume = "//resume.albush.com"
   linkedin = "adbush"
-  cover = "/images/background-cover.jpg"
+  cover = "http://drops.albush.com/background-cover.jpg"
   logo = "//drops.albush.com/ab3head.png"
   about = "/about"
   disqus = "albush"
+  cdnbaseurl = "http://hugo-css.albush.com"
