@@ -1,7 +1,7 @@
 +++
 
 Title = "Vices CD Release Party"
-Date = "2014-08-16 10:42"
+Date = "2014-08-16"
 
 +++
 
@@ -29,4 +29,3 @@ You can buy Danny's album "Vices" at [Bandcamp][3].
 
 
 [3]: http://oursleepinggiant.bandcamp.com/album/vices
-

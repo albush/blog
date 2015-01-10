@@ -1,7 +1,7 @@
 +++
 
 Title = "Getting Started With Redis Hangout"
-Date = "2014-08-18 08:00"
+Date = "2014-08-18"
 
 +++
 
@@ -10,9 +10,7 @@ Every week I host a live video hangout series called [Office Hours][99]. We disc
 
 [99]: http://go.rackspace.com/officehours
 
-<div class="video-container">
-<iframe width="640" height="360" src="//www.youtube.com/embed/-eIxC7oF4Ic?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
-</div>
+{{% youtube -eIxC7oF4Ic %}}
 
 ### Highlights
 
