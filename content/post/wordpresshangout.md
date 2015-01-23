@@ -22,14 +22,17 @@ Anthony Burchell - [@TheWPressGuy](//twitter.com/TheWPressGuy)
 
 ### Table of Contents
 
-* Learn WordPress with CloudU (5:28)
-* WordPressGuy videos (10:02)
-* WordCamp – WordPressGuy – Caching (13:49)
-* WordCamp – Garrett Heath – WordPress content/blogging (15:51) WordCamp – Drew Cox – Firedrills/Testing (20:13)
-* Contributing to WordPress (23:44) Digital Marketing with WordPress (32:44)
-* WordPress Flexibility (37:59)
-* WordPress Plug-ins recommendations (40:18)
-* Q&A – Wordpress with Windows servers (42:49) Wrap Up (46:44)
+* Learn WordPress with CloudU (5:28)  
+* WordPressGuy videos (10:02)  
+* WordCamp – WordPressGuy – Caching (13:49)  
+* WordCamp – Garrett Heath – WordPress content/blogging (15:51)  
+* WordCamp – Drew Cox – Firedrills/Testing (20:13)  
+* Contributing to WordPress (23:44) 
+* Digital Marketing with WordPress (32:44)  
+* WordPress Flexibility (37:59)  
+* WordPress Plug-ins recommendations (40:18)  
+* Q&A – Wordpress with Windows servers (42:49) 
+* Wrap Up (46:44)  
 
 ### Links
 
