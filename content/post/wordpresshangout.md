@@ -36,7 +36,11 @@ Anthony Burchell - [@TheWPressGuy](//twitter.com/TheWPressGuy)
 
 ### Links
 
-* [WordPress Guy](http://antpb.com/) -
-* [WordPress Guy Videos](https://www.youtube.com/channel/UCdhtuRtxyahXPij9UamkFKg) [CloudU WordPress Learning Series](http://cloudu.rackspace.com/diweb/catalog/item/id/405089/q/c=130) [WordCamp San Antonio 2015](http://2015.sanantonio.wordcamp.org/) [Contributing to WordPress](http://codex.wordpress.org/Contributing_to_WordPress) [Rackspace Digital Destinations: “Online Shopping Carts in Real Life: 7 Mishaps to Avoid”](http://www.rackspace.com/content/2015/01/20/online-shopping-carts-in-real-life-7-mishaps-to-avoid/)
-* [AppPresser Reactor – Mobile Apps with WordPress](http://reactor.apppresser.com/)
-* [Microsoft Windows and WordPress](http://www.microsoft.com/web/wordpress) [SAFlavor.com](http://www.saflavor.com/)
+* [WordPress Guy Website](http://antpb.com/)  
+* [WordPress Guy Videos](https://www.youtube.com/channel/UCdhtuRtxyahXPij9UamkFKg)
+* [CloudU WordPress Learning Series](http://cloudu.rackspace.com/diweb/catalog/item/id/405089/q/c=130)   
+* [WordCamp San Antonio 2015](http://2015.sanantonio.wordcamp.org/)   
+* [Contributing to WordPress](http://codex.wordpress.org/Contributing_to_WordPress)
+* [Rackspace Digital Destinations: “Online Shopping Carts in Real Life: 7 Mishaps to Avoid”](http://www.rackspace.com/content/2015/01/20/online-shopping-carts-in-real-life-7-mishaps-to-avoid/)  
+* [AppPresser Reactor – Mobile Apps with WordPress](http://reactor.apppresser.com/)  
+* [Microsoft Windows and WordPress](http://www.microsoft.com/web/wordpress)   [SAFlavor.com](http://www.saflavor.com/)  
