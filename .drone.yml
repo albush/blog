@@ -1,0 +1,11 @@
+image: albush/slagathor
+script:
+  - hugo --source="$DRONE_BUILD_DIR" --theme="hugo-uno"
+publish:
+    swift:
+      username: $$RAX_USERNAME
+      password: $$RAX_APIKEY
+      auth_url: https://identity.api.rackspacecloud.com/v2.0
+      region: DFW
+      container: albush.com
+      source: $DRONE_BUILD_DIR/public

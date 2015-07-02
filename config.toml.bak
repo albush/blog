@@ -1,0 +1,28 @@
+[Site]
+  languageCode = "en-us"
+  contentdir = "content"
+  publishdir = "public"
+  builddrafts = false
+  BaseUrl = "//albush.com/"
+  canonifyurls = true
+  Title = "Alan Bush"
+  author = "Alan Bush"
+
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  description = "Mustachioed Cloud Technology Mentor by day; Daddy, Husband and Improvisor by night."
+  AuthorName = "Alan"
+  github = "albush"
+  twitter = "alanbush"
+  email = "al@albush.com"
+  resume = "//resume.albush.com"
+  linkedin = "adbush"
+  gplus = "AlanBush"
+  cover = "//drops.albush.com/background-cover.jpg"
+  logo = "//drops.albush.com/ab3head.png"
+  about = "/about"
+  disqus = "albush"
+  cdnbaseurl = "http://hugo-css.albush.com"
