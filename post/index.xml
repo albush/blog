@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Alan Bush&#39;s Blog</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://albush.com/post/</link>
     <description>Recent content in Posts on Alan Bush&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2015 Alan Bush</copyright>
     <lastBuildDate>Tue, 24 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://albush.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Batting Practice with Marshall</title>
-      <link>http://localhost:1313/post/marshallbattingpractice/</link>
+      <link>http://albush.com/post/marshallbattingpractice/</link>
       <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/marshallbattingpractice/</guid>
+      <guid>http://albush.com/post/marshallbattingpractice/</guid>
       <description>&lt;p&gt;&lt;/br&gt;&lt;video class=&#34;video-responsive&#34; controls preload=&#34;none&#34; poster=&#34;//drops.albush.com/marshallBP.png&#34;&gt;
    &lt;source src=&#34;//drops.albush.com/marshallBP1.webm&#34; type=&#34;video/webm&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Unbreaking Email - 6 weeks later</title>
-      <link>http://localhost:1313/post/unbreakemail/</link>
+      <link>http://albush.com/post/unbreakemail/</link>
       <pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/unbreakemail/</guid>
+      <guid>http://albush.com/post/unbreakemail/</guid>
       <description>
 
 &lt;p&gt;The last thing I did at work last year was to delete all of the mail from my inbox. Don&amp;rsquo;t worry, I took a backup, first, but I wanted to try something new with email. The day before, I read a wonderful blog post by my colleague Cody Bunch on how he planned to &lt;a href=&#34;http://blog.codybunch.com/posts/2014-12-30-Unbreak-Email-3-folders-2-times-a-day-1-rule/&#34;&gt;&amp;ldquo;unbreak email in 2015.&amp;rdquo;&lt;/a&gt; by using a simple set of rules. I liked the simplicity, and decided to give his system a try. It&amp;rsquo;s been six weeks, here&amp;rsquo;s how it&amp;rsquo;s going.&lt;/p&gt;
@@ -67,10 +67,10 @@ Unfortunately, my system is not complete. I have one tool that alerts me to new 
     
     <item>
       <title>The problem with reply all</title>
-      <link>http://localhost:1313/post/killreplyall/</link>
+      <link>http://albush.com/post/killreplyall/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/killreplyall/</guid>
+      <guid>http://albush.com/post/killreplyall/</guid>
       <description>
 
 &lt;p&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://drops.albush.com/whatifbcc.jpg&#34;&gt;&lt;/p&gt;
@@ -102,10 +102,10 @@ Subject: Congratulate Bob or suffer social stigma in the workplace ;)
     
     <item>
       <title>WordPress Hangout</title>
-      <link>http://localhost:1313/post/wordpresshangout/</link>
+      <link>http://albush.com/post/wordpresshangout/</link>
       <pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/wordpresshangout/</guid>
+      <guid>http://albush.com/post/wordpresshangout/</guid>
       <description>
 
 &lt;p&gt;I really enjoyed hosting yesterday&amp;rsquo;s WordPress themed Office Hours Hangout. We had some great guests and a great discussion. I&amp;rsquo;m looking forward to hearing everyone speak this weekend at &lt;a href=&#34;http://2015.sanantonio.wordcamp.org/&#34;&gt;WordCamp San Antonio&lt;/a&gt;. If you&amp;rsquo;re there, look me up!&lt;/p&gt;
@@ -156,10 +156,10 @@ Anthony Burchell - &lt;a href=&#34;//twitter.com/TheWPressGuy&#34;&gt;@TheWPress
     
     <item>
       <title>Cloud Application Architecture Trends</title>
-      <link>http://localhost:1313/post/hangout2/</link>
+      <link>http://albush.com/post/hangout2/</link>
       <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/hangout2/</guid>
+      <guid>http://albush.com/post/hangout2/</guid>
       <description>
 
 &lt;h3 id=&#34;hosts:3dbffe01ca3931ca295e1e2c381ffb10&#34;&gt;Hosts&lt;/h3&gt;
@@ -200,10 +200,10 @@ Wrap Up (48:54)&lt;/p&gt;
     
     <item>
       <title>Did this work?</title>
-      <link>http://localhost:1313/post/diditwork/</link>
+      <link>http://albush.com/post/diditwork/</link>
       <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/diditwork/</guid>
+      <guid>http://albush.com/post/diditwork/</guid>
       <description>&lt;p&gt;Ok, so I just blog to &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, and I&amp;rsquo;ve deployed it with &lt;a href=&#34;http://drone.io&#34;&gt;drone.io&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://drops.albush.com/even_possible_aliens.gif&#34;&gt;&lt;/p&gt;
@@ -214,10 +214,10 @@ Wrap Up (48:54)&lt;/p&gt;
     
     <item>
       <title>Instant Instagram Gratification</title>
-      <link>http://localhost:1313/post/iftttinstagram/</link>
+      <link>http://albush.com/post/iftttinstagram/</link>
       <pubDate>Fri, 28 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/iftttinstagram/</guid>
+      <guid>http://albush.com/post/iftttinstagram/</guid>
       <description>
 
 &lt;p&gt;I want instant gratification. Especially on Twitter. It&amp;rsquo;s 140 characters short. Give me the info, and let me look at the next tweet. So when I see a tweet linking to Instagram, sometimes I don&amp;rsquo;t follow the link. I don&amp;rsquo;t want to wait an extra few seconds to open a new tab, wait for Instagram to load, look at the picture, then head back to Twitter. Especially on a mobile device. Especially because I don&amp;rsquo;t actually use Instagram and can&amp;rsquo;t find this content anywhere else.&lt;/p&gt;
@@ -232,10 +232,10 @@ Wrap Up (48:54)&lt;/p&gt;
     
     <item>
       <title>Performing with San Antonio ComedySportz</title>
-      <link>http://localhost:1313/post/cszsa2014-11-15/</link>
+      <link>http://albush.com/post/cszsa2014-11-15/</link>
       <pubDate>Wed, 12 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/cszsa2014-11-15/</guid>
+      <guid>http://albush.com/post/cszsa2014-11-15/</guid>
       <description>&lt;p&gt;The good news is I&amp;rsquo;m performing improv comedy on Saturday. The bad news is I don&amp;rsquo;t get to make stuff up with my friends as much as I would like. I think that&amp;rsquo;s just a fact of this stage of my life. I don&amp;rsquo;t have to like it, but there it is.&lt;/p&gt;
 
 &lt;div id=&#34;fb-root&#34;&gt;&lt;/div&gt; &lt;script&gt;(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = &#34;//connect.facebook.net/en_US/all.js#xfbml=1&#34;; fjs.parentNode.insertBefore(js, fjs); }(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;
@@ -247,10 +247,10 @@ Wrap Up (48:54)&lt;/p&gt;
     
     <item>
       <title>Recommended Android Apps</title>
-      <link>http://localhost:1313/post/androidapps/</link>
+      <link>http://albush.com/post/androidapps/</link>
       <pubDate>Tue, 04 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/androidapps/</guid>
+      <guid>http://albush.com/post/androidapps/</guid>
       <description>
 
 &lt;p&gt;A friend just got her first Android phone, so I put together a quick list of apps I think are well worth an install. This is by no means a complete list, just a start.&lt;/p&gt;
@@ -299,10 +299,10 @@ Wrap Up (48:54)&lt;/p&gt;
     
     <item>
       <title>World Series</title>
-      <link>http://localhost:1313/post/worldseries/</link>
+      <link>http://albush.com/post/worldseries/</link>
       <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/worldseries/</guid>
+      <guid>http://albush.com/post/worldseries/</guid>
       <description>&lt;p&gt;I was five years old when the Royals were last in the World Series. This year, they&amp;rsquo;re back again. Unlike other teams shutout from the World Series, the Royals haven&amp;rsquo;t even been to the postseason in 29 years. The won the title in 1985, and then went into a three decade slide. Some of us remained fans, others jumped to other teams and other sports - KC&amp;rsquo;s MLS franchise, Sporting KC, has won the only championship since the Royals won the World Series in &amp;lsquo;85. I stayed loyal as a way to keep connected to my friends and family in KC after I moved away.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://drops.albush.com/marshall85.jpg&#34;&gt;&lt;/p&gt;
@@ -315,10 +315,10 @@ Wrap Up (48:54)&lt;/p&gt;
     
     <item>
       <title>SungWoo Lee Is Not A Lucky Charm, He&#39;s a Fan</title>
-      <link>http://localhost:1313/post/sungwoo/</link>
+      <link>http://albush.com/post/sungwoo/</link>
       <pubDate>Sun, 19 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/sungwoo/</guid>
+      <guid>http://albush.com/post/sungwoo/</guid>
       <description>&lt;div style=&#34;background-color:#fff;display:inline-block;font-family:&#39;Helvetica Neue&#39;,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;&#34;&gt;&lt;div style=&#34;overflow:hidden;position:relative;height:0;padding:67.508418% 0 0 0;width:100%;&#34;&gt;&lt;iframe src=&#34;//embed.gettyimages.com/embed/453500438?et=DU8MVMI1SA98Ar1R9yr1EA&amp;similar=on&amp;sig=KDFbjwdEMUNcWUtp8XQQUmj2LIIT6N5CbWF2mT5m13w=&#34; width=&#34;594&#34; height=&#34;401&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p style=&#34;margin:0;&#34;&gt;&lt;/p&gt;&lt;div style=&#34;padding:0;margin:0 0 0 10px;text-align:left;&#34;&gt;&lt;a href=&#34;http://www.gettyimages.com/detail/453500438&#34; target=&#34;_blank&#34; style=&#34;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&#34;&gt;#453500438&lt;/a&gt; / &lt;a href=&#34;http://www.gettyimages.com&#34; target=&#34;_blank&#34; style=&#34;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&#34;&gt;gettyimages.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;If you&amp;rsquo;re looking at SungWoo Lee and only seeing a &amp;ldquo;Good Luck Charm,&amp;rdquo; you&amp;rsquo;re doing it wrong.&lt;/p&gt;
@@ -339,10 +339,10 @@ Wrap Up (48:54)&lt;/p&gt;
     
     <item>
       <title>Billy Butler Stole a Base</title>
-      <link>http://localhost:1313/post/billystealssecond/</link>
+      <link>http://albush.com/post/billystealssecond/</link>
       <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/billystealssecond/</guid>
+      <guid>http://albush.com/post/billystealssecond/</guid>
       <description>&lt;div class=&#34;video-container&#34;&gt;
 &lt;video controls loop&gt;
   &lt;source src=&#34;http://drops.albush.com/billystealssecond.mov&#34; type=&#34;video/mp4&#34;&gt;
@@ -358,10 +358,10 @@ Wrap Up (48:54)&lt;/p&gt;
     
     <item>
       <title>Minimizing the Impact of a Cloud Server Reboot</title>
-      <link>http://localhost:1313/post/reboots/</link>
+      <link>http://albush.com/post/reboots/</link>
       <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/reboots/</guid>
+      <guid>http://albush.com/post/reboots/</guid>
       <description>
 
 &lt;p&gt;Last week at work, we had to reboot almost all of our Cloud servers. In anticipation of the reboots, my colleague Alison Oster and I wrote the following article for our customers. I think the advice is valid, regardless of where you host, so I&amp;rsquo;m reposting it here, and including the video hangout where we covered these tips.&lt;/p&gt;
@@ -419,7 +419,7 @@ System images can be taken ad hoc, or on a recurring scheduled basis. Recurring 
 
 &lt;p&gt;&lt;a href=&#34;http://www.rackspace.com/knowledge_center/article/centos-chkconfig&#34;&gt;How to use chkconfig with RHEL/CentOS&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/products/f/25/t/4315&#34;&gt;How to use update-rc.d with Ubuntu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://albush.com/products/f/25/t/4315&#34;&gt;How to use update-rc.d with Ubuntu&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/windows/desktop/ms681957%28v=vs.85%29.aspx&#34;&gt;Automatically Starting Services with Windows&lt;/a&gt;&lt;/p&gt;
 
@@ -439,7 +439,7 @@ System images can be taken ad hoc, or on a recurring scheduled basis. Recurring 
 
 &lt;p&gt;&lt;strong&gt;FSCK (File System Consistency Check)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;A &lt;a href=&#34;http://localhost:1313/general/f/34/t/3756&#34;&gt;fsck&lt;/a&gt; generally runs automatically at boot time.  There are 2 common triggers for automatically executing a fsck.  Either the operating system detect that a file system is in an inconsistent state (likely due to a non graceful shutdown like crash or power loss) or after a certain number of times that the system is mounted.&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&#34;http://albush.com/general/f/34/t/3756&#34;&gt;fsck&lt;/a&gt; generally runs automatically at boot time.  There are 2 common triggers for automatically executing a fsck.  Either the operating system detect that a file system is in an inconsistent state (likely due to a non graceful shutdown like crash or power loss) or after a certain number of times that the system is mounted.&lt;/p&gt;
 
 &lt;p&gt;Once you reboot your server this fsck may happen automatically.  If it does, this could cause an increase in the delay for your server coming back online.  Delay&amp;rsquo;s are usually never good, but in this case the delay can save your server.  I would suggest just letting the fsck complete even though it may cause delays for you.  If you attempt to reboot the server again, it is just going to go right back into fsck which will only increase the delay.&lt;/p&gt;
 
@@ -455,16 +455,16 @@ System images can be taken ad hoc, or on a recurring scheduled basis. Recurring 
 
 &lt;p&gt;&lt;strong&gt;Custom Error Pages&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;One benefit of using a Cloud Load Balancer is the ability to set a custom error page in the event that a server connected to the Load Balancer is offline or unresponsive. By proactively configuring that error page, a visitor to your site will receive an error message designed by you, specific to your unique application. Custom Error Pages can be configured via the &lt;a href=&#34;http://docs.rackspace.com/loadbalancers/api/v1.0/clb-devguide/content/Erropage-d1e666.html&#34;&gt;API&lt;/a&gt; or the &lt;a href=&#34;http://localhost:1313/products/f/25/t/3612&#34;&gt;Control Pane&lt;/a&gt;l.&lt;/p&gt;
+&lt;p&gt;One benefit of using a Cloud Load Balancer is the ability to set a custom error page in the event that a server connected to the Load Balancer is offline or unresponsive. By proactively configuring that error page, a visitor to your site will receive an error message designed by you, specific to your unique application. Custom Error Pages can be configured via the &lt;a href=&#34;http://docs.rackspace.com/loadbalancers/api/v1.0/clb-devguide/content/Erropage-d1e666.html&#34;&gt;API&lt;/a&gt; or the &lt;a href=&#34;http://albush.com/products/f/25/t/3612&#34;&gt;Control Pane&lt;/a&gt;l.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Yes And Development</title>
-      <link>http://localhost:1313/post/yes%20and%20development/</link>
+      <link>http://albush.com/post/yes%20and%20development/</link>
       <pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/yes%20and%20development/</guid>
+      <guid>http://albush.com/post/yes%20and%20development/</guid>
       <description>&lt;p&gt;You never know when a passing comment might turn into an actual product. I&amp;rsquo;ve been performing improv for over half of my life now. By this point, many of the concepts of improv are incorporated into my everyday life. Here&amp;rsquo;s an example of a principle of improv applied to software development.&lt;/p&gt;
 
 &lt;p&gt;Two days ago I saw a great tweet:&lt;/p&gt;
@@ -492,10 +492,10 @@ System images can be taken ad hoc, or on a recurring scheduled basis. Recurring 
     
     <item>
       <title>Becoming a Community Manager</title>
-      <link>http://localhost:1313/post/communitymanager/</link>
+      <link>http://albush.com/post/communitymanager/</link>
       <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/communitymanager/</guid>
+      <guid>http://albush.com/post/communitymanager/</guid>
       <description>&lt;p&gt;Next week I transition to my second job at Rackspace, a Technical Community Manager. I&amp;rsquo;m very excited, since this role will allow me to spend more of my time extending one-to-many support. I think that my strengths lie in expanding individual support interactions for broader consumption.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ll be working in our Community Forums and answering as many questions as I can and then looping in other teams for help as needed. I get to work with many additional teams, learning more with each interaction. I&amp;rsquo;ll also be able to work toward my goal of more consistently representing Rackspace and sharing our vision of the future of cloud computing.&lt;/p&gt;
