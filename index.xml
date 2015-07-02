@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan Bush&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Alan Bush&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Alan Bush</copyright>
+    <lastBuildDate>Tue, 24 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Batting Practice with Marshall</title>
+      <link>http://localhost:1313/post/marshallbattingpractice/</link>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/marshallbattingpractice/</guid>
+      <description>&lt;p&gt;&lt;/br&gt;&lt;video class=&#34;video-responsive&#34; controls preload=&#34;none&#34; poster=&#34;//drops.albush.com/marshallBP.png&#34;&gt;
+   &lt;source src=&#34;//drops.albush.com/marshallBP1.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;p&gt;Over the weekend my almost 5 year old son and I had a guys day. We had flapjacks for breakfast, went to the coffee shop, and ate at our favorite restaurant, and read some books together. But our favorite part of the day was hitting up the batting cages for to hit some balls.&lt;/p&gt;
+
+&lt;p&gt;Marshall has always loved baseball. He gets home from school, and asks to go right outside and start playing. He&amp;rsquo;d play all day, if we let him. He&amp;rsquo;s also got a pretty decent swing, and has recently started hitting &amp;ldquo;home runs&amp;rdquo; out of our little backyard. So we went to the batting cages and let him swing away.&lt;/p&gt;
+
+&lt;video class=&#34;video-responsive&#34; controls
+   &lt;source src=&#34;//drops.albush.com/marshallBP2.webm&#34; type=&#34;video/webm&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;The kid can hit. Especially off of a tee. He&amp;rsquo;s pretty good when we pitch to him, but he &lt;em&gt;really&lt;/em&gt; likes to swing the bat. His plate discipline reminds me of Royals catcher &lt;a href=&#34;http://www.fangraphs.com/blogs/theres-nothing-salvador-perez-wont-swing-at/&#34;&gt;Salvador Perez&lt;/a&gt;, who has a cannon for an arm, lots of power, but sometimes looks like he might be a better cricket than baseball player.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://cdn.fangraphs.com/blogs/wp-content/uploads/2014/10/perez-foul.gif&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t think I can quite retire, yet, but I&amp;rsquo;m sure we&amp;rsquo;ll be back for more fun at the batting cages soon - we just had too much fun.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unbreaking Email - 6 weeks later</title>
+      <link>http://localhost:1313/post/unbreakemail/</link>
+      <pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/unbreakemail/</guid>
+      <description>
+
+&lt;p&gt;The last thing I did at work last year was to delete all of the mail from my inbox. Don&amp;rsquo;t worry, I took a backup, first, but I wanted to try something new with email. The day before, I read a wonderful blog post by my colleague Cody Bunch on how he planned to &lt;a href=&#34;http://blog.codybunch.com/posts/2014-12-30-Unbreak-Email-3-folders-2-times-a-day-1-rule/&#34;&gt;&amp;ldquo;unbreak email in 2015.&amp;rdquo;&lt;/a&gt; by using a simple set of rules. I liked the simplicity, and decided to give his system a try. It&amp;rsquo;s been six weeks, here&amp;rsquo;s how it&amp;rsquo;s going.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-implementation:01b13649e2995e05eec9c36736d02d9b&#34;&gt;My Implementation&lt;/h3&gt;
+
+&lt;p&gt;A bit on how this method works for me. I am using this system for my work email. I use Outlook for Mac (If you have to use exchange, there&amp;rsquo;s really nothing better). I use a variety of tools to communicate in real-time: IM (Google Hangouts, Lync), IRC, and occasionally an actual phone. The hard part now becomes training everyone else to use those intentionally instant communication methods instead of email when they need to get in touch immediately; That&amp;rsquo;s another battle.&lt;br /&gt;
+Unfortunately, my system is not complete. I have one tool that alerts me to new tasks which is currently broken. This means I&amp;rsquo;ve had to adjust my filters to keep those messages in my Inbox. It also requires me to check my email in real-time, something I had hoped to eliminate by now. Hopefully that will change soon.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-good:01b13649e2995e05eec9c36736d02d9b&#34;&gt;The Good&lt;/h3&gt;
+
+&lt;p&gt;One aspect that I like about this system is the almost constantly empty inbox. If something is in my Inbox, it&amp;rsquo;s a task. And it sits there, haunting me, reminding me to do something about it. That&amp;rsquo;s been good for me. I&amp;rsquo;m happy to report that, as I sit and sip coffee on a rainy Sunday morning, my Inbox consists of 5 items - all tasks I need to follow up on early next week. This one email habit change has turned my Inbox from a mass collection ground into a useful to-do list.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-less-good:01b13649e2995e05eec9c36736d02d9b&#34;&gt;The Less Good&lt;/h3&gt;
+
+&lt;p&gt;As I mentioned above, I&amp;rsquo;m not yet able to turn off my email client for hours at a time, so I haven&amp;rsquo;t had the option to fully test the setup. I also suffer from an inability to control how others utilize email. This is, of course, an inherent flaw in email. I cannot opt in or out of an email thread - I&amp;rsquo;m in if someone includes me, and I&amp;rsquo;m stuck in there until all participants remove me from the thread. We compound this with varied user behavior - some users treat email as an instantaneous communication tool, others asynchronously (as it was intended). This leads to massively forked conversations, with some participants &amp;ldquo;captive&amp;rdquo; to a conversation they cannot escape. This is not necessarily a flaw of Cody&amp;rsquo;s system; I only want to point out that we still have lots of work to do to educate our coworkers on better email usage.&lt;/p&gt;
+
+&lt;h3 id=&#34;let-s-keep-this-up:01b13649e2995e05eec9c36736d02d9b&#34;&gt;Let&amp;rsquo;s keep this up&lt;/h3&gt;
+
+&lt;p&gt;All-in-all, I definitely like this method. I have a very clean Inbox which functions as a to-do list. I have really cut down on the amount of emails I read - simply by acknowledging that most of them don&amp;rsquo;t relate to me at all. I&amp;rsquo;m definitely going to keep up with this method.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The problem with reply all</title>
+      <link>http://localhost:1313/post/killreplyall/</link>
+      <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/killreplyall/</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://drops.albush.com/whatifbcc.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the problem with email: You can&amp;rsquo;t opt in and you can&amp;rsquo;t opt out. Once someone decides that you need to be included in an email conversation, you&amp;rsquo;re in until someone else (lots of someones, usually) decide to remove you from the thread. Until then, you&amp;rsquo;re stuck getting every single reply, even those that provide absolutely no benefit to anyone - &amp;ldquo;+Bob from accounting;&amp;rdquo; &amp;ldquo;Let me get back to you on that;&amp;rdquo; &amp;ldquo;Congrats!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;One email convention is responsible for all of this - &amp;ldquo;reply all.&amp;rdquo; reply all certainly makes sense for a variety of scenarios - all of which involve the sender being aware of the vital recipients of the email. reply all becomes an even bigger inconvenience when the original sender of the email includes as many mailing lists as they can find and actively encourages everyone to reply to the email - I&amp;rsquo;m looking at you &amp;ldquo;hey, let&amp;rsquo;s all congratulate our co-worker on putting up with my reply all email bombs for exactly one year now!&amp;rdquo; emails.&lt;/p&gt;
+
+&lt;h2 id=&#34;two-strategies-to-avoid-annoying-your-coworkers:e39006063f372091d3b62ce5f68e8ae4&#34;&gt;Two strategies to avoid annoying your coworkers&lt;/h2&gt;
+
+&lt;h4 id=&#34;1-if-you-re-sending-an-email-to-a-large-group-of-people-use-the-bcc-functionality:e39006063f372091d3b62ce5f68e8ae4&#34;&gt;1. If you&amp;rsquo;re sending an email to a large group of people, use the BCC functionality.&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;To: Bob
+BCC: LotsOfPeople@lists.examle.com
+Subject: Congratulate Bob or suffer social stigma in the workplace ;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;So here&amp;rsquo;s what happens: Everyone, including Bob, gets an email congratulating Bob. Some people walk 7 feet across the office and congratulate Bob in person. Others reply directly to Bob, congratulating him on his continued employment. A final contingent reflexively uses reply all, but only Bob receives the reply - because Bob is the only official recipient of the email; everyone else is blind copied. Everyone is happy.&lt;/p&gt;
+
+&lt;h4 id=&#34;2-think-before-you-use-reply-all:e39006063f372091d3b62ce5f68e8ae4&#34;&gt;2. Think before you use reply all.&lt;/h4&gt;
+
+&lt;p&gt;That&amp;rsquo;s it. Just think before you reply all. Ask yourself - is what I&amp;rsquo;m sending going to help everyone on this list? If the answer is even remotely &amp;ldquo;no,&amp;rdquo; find out who actually needs to be included, and only send it to them. Just be aware, exercise discretion. This is generally good advice about sending &lt;em&gt;any&lt;/em&gt; email, but especially if you&amp;rsquo;re using that dreaded reply all button.&lt;/p&gt;
+
+&lt;h2 id=&#34;or-just-don-t-use-email:e39006063f372091d3b62ce5f68e8ae4&#34;&gt;Or, just don&amp;rsquo;t use email.&lt;/h2&gt;
+
+&lt;p&gt;There&amp;rsquo;s also the option to not use email. Many new collaboration and communication platforms allow for better alternatives to email, which can all but completely eliminate the need for email between coworkers - we still need to work on communication outside of the corporate firewall.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WordPress Hangout</title>
+      <link>http://localhost:1313/post/wordpresshangout/</link>
+      <pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/wordpresshangout/</guid>
+      <description>
+
+&lt;p&gt;I really enjoyed hosting yesterday&amp;rsquo;s WordPress themed Office Hours Hangout. We had some great guests and a great discussion. I&amp;rsquo;m looking forward to hearing everyone speak this weekend at &lt;a href=&#34;http://2015.sanantonio.wordcamp.org/&#34;&gt;WordCamp San Antonio&lt;/a&gt;. If you&amp;rsquo;re there, look me up!&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/9QwlNZnelno&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;hosts:b8c7b112ee03866713fa7b80a2b1d87b&#34;&gt;Hosts&lt;/h3&gt;
+
+&lt;p&gt;Alan Bush - &lt;a href=&#34;//twitter.com/AlanBush&#34;&gt;@AlanBush&lt;/a&gt;
+Drew Cox - &lt;a href=&#34;//twitter.com/drewcoxsa&#34;&gt;@DrewCoxSA&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;guests:b8c7b112ee03866713fa7b80a2b1d87b&#34;&gt;Guests&lt;/h3&gt;
+
+&lt;p&gt;Steven Villarreal - &lt;a href=&#34;http://cloudu.rackspace.com/&#34;&gt;CloudU&lt;/a&gt; Learning Strategist
+Garrett Heath - &lt;a href=&#34;//twitter.com/pinojo&#34;&gt;@pinojo&lt;/a&gt; - Rackspace Social Media Marketer
+Anthony Burchell - &lt;a href=&#34;//twitter.com/TheWPressGuy&#34;&gt;@TheWPressGuy&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;table-of-contents:b8c7b112ee03866713fa7b80a2b1d87b&#34;&gt;Table of Contents&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn WordPress with CloudU (5:28)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;WordPressGuy videos (10:02)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;WordCamp – WordPressGuy – Caching (13:49)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;WordCamp – Garrett Heath – WordPress content/blogging (15:51)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;WordCamp – Drew Cox – Firedrills/Testing (20:13)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Contributing to WordPress (23:44) &lt;/li&gt;
+&lt;li&gt;Digital Marketing with WordPress (32:44)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;WordPress Flexibility (37:59)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;WordPress Plug-ins recommendations (40:18)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Q&amp;amp;A – Wordpress with Windows servers (42:49) &lt;/li&gt;
+&lt;li&gt;Wrap Up (46:44)&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links:b8c7b112ee03866713fa7b80a2b1d87b&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://antpb.com/&#34;&gt;WordPress Guy Website&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCdhtuRtxyahXPij9UamkFKg&#34;&gt;WordPress Guy Videos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cloudu.rackspace.com/diweb/catalog/item/id/405089/q/c=130&#34;&gt;CloudU WordPress Learning Series&lt;/a&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://2015.sanantonio.wordcamp.org/&#34;&gt;WordCamp San Antonio 2015&lt;/a&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codex.wordpress.org/Contributing_to_WordPress&#34;&gt;Contributing to WordPress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rackspace.com/content/2015/01/20/online-shopping-carts-in-real-life-7-mishaps-to-avoid/&#34;&gt;Rackspace Digital Destinations: “Online Shopping Carts in Real Life: 7 Mishaps to Avoid”&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://reactor.apppresser.com/&#34;&gt;AppPresser Reactor – Mobile Apps with WordPress&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/web/wordpress&#34;&gt;Microsoft Windows and WordPress&lt;/a&gt;   &lt;a href=&#34;http://www.saflavor.com/&#34;&gt;SAFlavor.com&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud Application Architecture Trends</title>
+      <link>http://localhost:1313/post/hangout2/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/hangout2/</guid>
+      <description>
+
+&lt;h3 id=&#34;hosts:3dbffe01ca3931ca295e1e2c381ffb10&#34;&gt;Hosts&lt;/h3&gt;
+
+&lt;p&gt;  Alan Bush - &lt;a href=&#34;//twitter.com/AlanBush&#34;&gt;@AlanBush&lt;/a&gt;
+ Bill Hertzing - &lt;a href=&#34;//twitter.com/billhertzing&#34;&gt;@BillHertzing &lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;guests:3dbffe01ca3931ca295e1e2c381ffb10&#34;&gt;Guests&lt;/h3&gt;
+
+&lt;p&gt;BK Box - &lt;a href=&#34;//twitter.com/gondoi&#34;&gt;@gondoi&lt;/a&gt; - Principal Engineer 
+Ryan Walker -&lt;a href=&#34;//twitter.com/theryanwalker&#34;&gt;@theryanwalker&lt;/a&gt; - DevOps Automation Engineer&lt;/p&gt;
+
+&lt;iframe width=&#34;640&#34; height=&#34;390&#34; src=&#34;//www.youtube.com/embed/2SvEewYysuA?t=8m50s&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Table of Contents
+Cloud News TechStars San Antonio (2:48)
+ Microsoft CityNext (6:01)
+Cloud Architecture Trends Controlling Hardware Through Code (11:46)
+ Implementing Services (20:08)
+Container Based Architecture (29:50)
+ Docker Q&amp;amp;A (35:02)
+ Service Discovery (41:17)
+Wrap Up (48:54)&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;br/&gt;
+&lt;a href=&#34;http://www.rackspace.com/knowledge_center/whitepaper/cloud-application-architecture-trends&#34;&gt;Cloud Application Architecture Trends White Paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.techstars.com/announcing-techstars-cloud-class-of&amp;amp;#8211;2015/&#34;&gt;TechStars San Antonio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.microsoft.com/en-us/citynext/default.aspx#fbid=pfmjOfCZU4r&#34;&gt;Microsoft&lt;/a&gt;
+&lt;a href=&#34;http://www.bloomberg.com/article/2015&amp;amp;#8211;01&amp;amp;#8211;15/aGZ98hVaGHYc.html&#34;&gt;CityNext&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nature.com/news/ipython-interactive-demo&amp;amp;#8211;7.21492?article=1.16261&#34;&gt;IPython Interactive Demo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://community.rackspace.com/products/f/25/t/4787&#34;&gt;Rackspace Q&amp;amp;A about First Gen to Next Gen Server Migration&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Did this work?</title>
+      <link>http://localhost:1313/post/diditwork/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/diditwork/</guid>
+      <description>&lt;p&gt;Ok, so I just blog to &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, and I&amp;rsquo;ve deployed it with &lt;a href=&#34;http://drone.io&#34;&gt;drone.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://drops.albush.com/even_possible_aliens.gif&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re reading this, it worked.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about</guid>
+      <description>&lt;p&gt;I help connect people with the information they need to make awesome things in the cloud. I enjoy creating new teams. I&amp;rsquo;m currently building the Technical Community Manager team at Rackspace. I also was a founding member &amp;amp; architect of Rackspace&amp;rsquo;s Cloud Launch Team.&lt;/p&gt;
+
+&lt;p&gt;During my time on the Launch Team, I helped more than 100 new cloud consumers get started with cloud hosting, developed a weekly live video show - &lt;a href=&#34;https://community.rackspace.com/p/officehours&#34;&gt;Office Hours Hangouts&lt;/a&gt;, was one of the first 175 Rackers to become certified &amp;ldquo;Cloud Savvy,&amp;rdquo; and was awarded the &lt;a href=&#34;https://www.youtube.com/watch?v=iOxGVJ3Zv94&#34;&gt;Fanatical Jacket, Rackspace&amp;rsquo;s highest honor&lt;/a&gt; for outstanding customer support.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#34;fanatical jacket winner&#34; src=&#34;//drops.albush.com/fanjackettrans.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Before Rackspace, I helped create the &lt;a href=&#34;http://www.centraldesktop.com/press-releases?id=68&#34;&gt;Stevie Award winning&lt;/a&gt; onboarding program for cloud collaboration suite Central Desktop, where I worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When I&amp;rsquo;m not helping customers learn how to build awesome things in the cloud, I can be found performing improv comedy with &lt;a href=&#34;http://cszsa.com/&#34;&gt;ComedySportz San Antonio&lt;/a&gt;, or dreaming up new styles for my award-winning mustache.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instant Instagram Gratification</title>
+      <link>http://localhost:1313/post/iftttinstagram/</link>
+      <pubDate>Fri, 28 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/iftttinstagram/</guid>
+      <description>
+
+&lt;p&gt;I want instant gratification. Especially on Twitter. It&amp;rsquo;s 140 characters short. Give me the info, and let me look at the next tweet. So when I see a tweet linking to Instagram, sometimes I don&amp;rsquo;t follow the link. I don&amp;rsquo;t want to wait an extra few seconds to open a new tab, wait for Instagram to load, look at the picture, then head back to Twitter. Especially on a mobile device. Especially because I don&amp;rsquo;t actually use Instagram and can&amp;rsquo;t find this content anywhere else.&lt;/p&gt;
+
+&lt;h2 id=&#34;there-is-a-better-way:e9f625b7629ccb319d0f28d8849f06c8&#34;&gt;There is a better way&lt;/h2&gt;
+
+&lt;p&gt;Enter If This Then That, a great service that uses &amp;ldquo;recipes&amp;rdquo; to run workflows, connecting apps together. Here&amp;rsquo;s one for you Instagram users to natively embed Instagram images into the Twitter timeline&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ifttt.com/view_embed_recipe/103249-post-your-instagram-pictures-as-native-twitter-pictures&#34; target = &#34;_blank&#34; class=&#34;embed_recipe embed_recipe-l_55&#34; id= &#34;embed_recipe-103249&#34;&gt;&lt;img src= &#39;https://ifttt.com/recipe_embed_img/103249&#39; alt=&#34;IFTTT Recipe: Post your Instagram pictures as native Twitter pictures connects instagram to twitter&#34; width=&#34;370px&#34; style=&#34;max-width:100%&#34;/&gt;&lt;/a&gt;&lt;script async type=&#34;text/javascript&#34; src= &#34;//ifttt.com/assets/embed_recipe.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performing with San Antonio ComedySportz</title>
+      <link>http://localhost:1313/post/cszsa2014-11-15/</link>
+      <pubDate>Wed, 12 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/cszsa2014-11-15/</guid>
+      <description>&lt;p&gt;The good news is I&amp;rsquo;m performing improv comedy on Saturday. The bad news is I don&amp;rsquo;t get to make stuff up with my friends as much as I would like. I think that&amp;rsquo;s just a fact of this stage of my life. I don&amp;rsquo;t have to like it, but there it is.&lt;/p&gt;
+
+&lt;div id=&#34;fb-root&#34;&gt;&lt;/div&gt; &lt;script&gt;(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = &#34;//connect.facebook.net/en_US/all.js#xfbml=1&#34;; fjs.parentNode.insertBefore(js, fjs); }(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;
+&lt;div class=&#34;fb-post&#34; data-href=&#34;https://www.facebook.com/CSzSA/photos/gm.1560060184209906/10152849754265763/?type=1&#34; data-width=&#34;466&#34;&gt;&lt;div class=&#34;fb-xfbml-parse-ignore&#34;&gt;&lt;a href=&#34;https://www.facebook.com/CSzSA/photos/gm.1560060184209906/10152849754265763/?type=1&#34;&gt;Post&lt;/a&gt; by &lt;a href=&#34;https://www.facebook.com/CSzSA&#34;&gt;ComedySportz San Antonio&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I started performing improv in High School. That&amp;rsquo;s over half a lifetime ago. We practiced or performed at least once a week then. In college, I performed as often as possible - not as much as I would like, but several times a month. The magical period between college and married with children was filled almost exclusively with improv. I don&amp;rsquo;t want to go back to the rest of that lifestyle, but I do miss the community of improvisors we built up during that time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommended Android Apps</title>
+      <link>http://localhost:1313/post/androidapps/</link>
+      <pubDate>Tue, 04 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/androidapps/</guid>
+      <description>
+
+&lt;p&gt;A friend just got her first Android phone, so I put together a quick list of apps I think are well worth an install. This is by no means a complete list, just a start.&lt;/p&gt;
+
+&lt;h3 id=&#34;all-of-the-google-apps-most-of-them-aren-t-the-default-on-a-samsung-device-and-it-s-well-worth-it-to-either-install-them-or-set-them-up-as-your-default:40e694edaf7c11f756cc31a19765435f&#34;&gt;All of the Google Apps. Most of them aren&amp;rsquo;t the default on a Samsung device, and it&amp;rsquo;s well worth it to either install them or set them up as your default.&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.google.android.launcher&#34;&gt;Google Now Launcher&lt;/a&gt; - provides the default Google Android Experience - No Samsung/HTC crap interface.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.google.android.apps.adm&#34;&gt;Android Device Manager&lt;/a&gt; - remotely manage your device. Locate it when it&amp;rsquo;s lost. Remote wipe.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks&#34;&gt;Google Opinion Rewards&lt;/a&gt; - Answer the occasional survey, get some change added to your Play account. Buy more games.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.google.android.apps.inbox&#34;&gt;Inbox by Gmail&lt;/a&gt; - replacement for standard Gmail app. Allows you to quickly manage email, and take action on your mail.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.google.android.music&#34;&gt;Google Play Music&lt;/a&gt; - Now with Songza integration. Great way to pick out music for whatever you&amp;rsquo;re doing.&lt;/li&gt;
+&lt;li&gt;Google+ - Just a fan, don&amp;rsquo;t mind me. But it comes with the Photos app, which has some great editing tools.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.android.chrome&#34;&gt;Chrome Browser&lt;/a&gt; - Don&amp;rsquo;t use the default browser. Just don&amp;rsquo;t.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;misc:40e694edaf7c11f756cc31a19765435f&#34;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=spinninghead.carhome&#34;&gt;Car Home Ultra&lt;/a&gt; - Turns your phone into a dashboard while you drive.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.authy.authy&#34;&gt;Authy 2-Factor Authentication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=mobi.beyondpod&#34;&gt;BeyondPod&lt;/a&gt; - Podcast catcher/player w/ beautiful design and variable speed playback&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.pushbullet.android&#34;&gt;Pushbullet&lt;/a&gt; - Mirror selected notifications from your device to your computer. Great to see who&amp;rsquo;s calling, etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.linkbubble.playstore&#34;&gt;Link Bubble Browser&lt;/a&gt; - Open links in a &amp;lsquo;bubble,&amp;rsquo; then open those bubbles individually. Prevents you from having to jump back and forth between apps.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.mcc.alarmclocklifetime&#34;&gt;Life Time Alarm Clock&lt;/a&gt; - A great alarm clock app. Easy to use, and works well.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.lastpass.lpandroid&#34;&gt;LastPass&lt;/a&gt; - Keeps all of your passwords safe. Will copy/paste your passwords into new apps. Huge time saver.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;work:40e694edaf7c11f756cc31a19765435f&#34;&gt;Work&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.mappedin.shuriken&#34;&gt;MappedIn&lt;/a&gt; - Internal Maps. My workplace is mapped here, and I can find my way around much better.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.ninefolders.hd3&#34;&gt;Nine&lt;/a&gt; - Exchange/Active Sync client. Holy crap, this is a great app. Easily worth the $10 price tag.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.rsa.securidapp&#34;&gt;RSA Token&lt;/a&gt; - Instead of the key fob&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;fun-distraction-just-plain-dumb-apps:40e694edaf7c11f756cc31a19765435f&#34;&gt;Fun/Distraction/Just Plain Dumb Apps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.richapps.hodorkeyboard.app&#34;&gt;Hodor Keyboard&lt;/a&gt; - Hodor! Hodor hodor, hodor; hodor hodor?! Hodor. Hodor hodor hodor hodor&amp;hellip; Hodor hodor hodor&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.imgur.mobile&#34;&gt;Imgur&lt;/a&gt; - Cats, gifs, etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.photofy.android&#34;&gt;Photofy Photo Editing Collage&lt;/a&gt; - Make photo collages. Add words to them. Share them.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>World Series</title>
+      <link>http://localhost:1313/post/worldseries/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/worldseries/</guid>
+      <description>&lt;p&gt;I was five years old when the Royals were last in the World Series. This year, they&amp;rsquo;re back again. Unlike other teams shutout from the World Series, the Royals haven&amp;rsquo;t even been to the postseason in 29 years. The won the title in 1985, and then went into a three decade slide. Some of us remained fans, others jumped to other teams and other sports - KC&amp;rsquo;s MLS franchise, Sporting KC, has won the only championship since the Royals won the World Series in &amp;lsquo;85. I stayed loyal as a way to keep connected to my friends and family in KC after I moved away.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://drops.albush.com/marshall85.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://drops.albush.com/simon85.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;My sons are 4 and 1, and sharing this post season with them has been one of the highlights of my life. I don&amp;rsquo;t remember much from the 1985 season, but I do remember how excited my dad was. Dad&amp;rsquo;s not here to celebrate this postseason with us, so I&amp;rsquo;m making sure I get to spend as much time with my boys as possible. They might not remember it, but I will.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SungWoo Lee Is Not A Lucky Charm, He&#39;s a Fan</title>
+      <link>http://localhost:1313/post/sungwoo/</link>
+      <pubDate>Sun, 19 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/sungwoo/</guid>
+      <description>&lt;div style=&#34;background-color:#fff;display:inline-block;font-family:&#39;Helvetica Neue&#39;,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;&#34;&gt;&lt;div style=&#34;overflow:hidden;position:relative;height:0;padding:67.508418% 0 0 0;width:100%;&#34;&gt;&lt;iframe src=&#34;//embed.gettyimages.com/embed/453500438?et=DU8MVMI1SA98Ar1R9yr1EA&amp;similar=on&amp;sig=KDFbjwdEMUNcWUtp8XQQUmj2LIIT6N5CbWF2mT5m13w=&#34; width=&#34;594&#34; height=&#34;401&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p style=&#34;margin:0;&#34;&gt;&lt;/p&gt;&lt;div style=&#34;padding:0;margin:0 0 0 10px;text-align:left;&#34;&gt;&lt;a href=&#34;http://www.gettyimages.com/detail/453500438&#34; target=&#34;_blank&#34; style=&#34;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&#34;&gt;#453500438&lt;/a&gt; / &lt;a href=&#34;http://www.gettyimages.com&#34; target=&#34;_blank&#34; style=&#34;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&#34;&gt;gettyimages.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you&amp;rsquo;re looking at SungWoo Lee and only seeing a &amp;ldquo;Good Luck Charm,&amp;rdquo; you&amp;rsquo;re doing it wrong.&lt;/p&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t know who SungWoo Lee is, take a minute to read his story. (&lt;a href=&#34;http://www.ranyontheroyals.com/2014/08/to-sung-woo-thanks-for-everything-rany.html&#34;&gt;Rany Jazayerli has a perfect recap.&lt;/a&gt;)  SungWoo Lee isn&amp;rsquo;t a magical creature capable of making the Royals win. He&amp;rsquo;s not a good luck charm that can propel the Royals to victory in the World Series. He is a great guy that helped a franchise, their city, and their fans remember why they love the game, and this team.&lt;/p&gt;
+
+&lt;p&gt;SungWoo reminded us what it&amp;rsquo;s like to be a fan. He&amp;rsquo;s full of excitement for this team. He loves the sport. His arrival in KC last August brought that excitement to a city that had all but lost their ability to get excited about the Royals. The Royals were chugging along on the verge of another medicare season - one with almost no possibility of seeing the postseason. And then SungWoo hit town, and things started to click for the Royals.&lt;/p&gt;
+
+&lt;p&gt;Baseball is a superstitious game. The players, the fans, they all have a tendency toward believing that random events are connected. &lt;strong&gt;Random Event 1&lt;/strong&gt;: The Royals start to warm up and play some great baseball. &lt;strong&gt;Random Event 2&lt;/strong&gt;: A kid from Korea shows up in Kansas City and catches a few games. In the mind of a KC Baseball fan, it&amp;rsquo;s easy to forever link those two events together. We all know that correlation does not prove causation, but after nearly 3 decades of abysmal baseball, we&amp;rsquo;ll take anything.&lt;/p&gt;
+
+&lt;p&gt;To say that SungWoo&amp;rsquo;s visit didn&amp;rsquo;t have a positive impact on the Royals, the city, and the fans would be to miss his biggest contribution: Fandom. He reminded us what it&amp;rsquo;s like to be an optimistic Royals fan. And I truly believe that message made it all the way to the players and management of the Kansas City Royals. What a great reminder for the team that they have fans all around the world. Fans who get up in the middle of the night to catch a game; Fans that could so easily have walked away from the Royals, jumped on the Yankees, Red Sox, or any other bandwagon out there; Fans that love and support the Royals, when frankly the Royals have done nothing in the last three decades to deserve that love. That&amp;rsquo;s a strong message, and the Royals received it and acted on it.&lt;/p&gt;
+
+&lt;p&gt;To take that experience, the lessons that the Royals, the Fans, and the City all learned from it, and to turn it into &amp;ldquo;SungWoo is a good luck charm&amp;rdquo; cheapens the entire experience. It&amp;rsquo;s not fair to SungWoo, who never wanted any of this celebrity. And it&amp;rsquo;s not fair to the team, that, in case you didn&amp;rsquo;t notice, made it to the postseason for the first time in 29 years and then preceded to win 8 games in a row - All while SungWoo was half a planet away. The Royals are winning - they&amp;rsquo;ve found some #RoyalsDevilMagic or something. Whatever it is, they&amp;rsquo;re winning. And they&amp;rsquo;re winning without SungWoo in the stadium/city/time zone/country/hemisphere. Don&amp;rsquo;t take that away from the guys who have worked their asses off to achieve a record setting postseason performance.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not saying that we shouldn&amp;rsquo;t be happy that SungWoo is coming back to KC. We should be happy &lt;em&gt;for&lt;/em&gt; SungWoo, not because we believe that his presence will further the Royals odds of winning it all. So if you&amp;rsquo;re lucky enough to see SungWoo at the stadium this week, thank him for his fandom. Thank him for his energy and enthusiasm. Thank him for reminding the rest of us how great it is to be a fan.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Billy Butler Stole a Base</title>
+      <link>http://localhost:1313/post/billystealssecond/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/billystealssecond/</guid>
+      <description>&lt;div class=&#34;video-container&#34;&gt;
+&lt;video controls loop&gt;
+  &lt;source src=&#34;http://drops.albush.com/billystealssecond.mov&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;So this happened. Crazy world we live in. Crazy world.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://yacketylapse.com/&#34;&gt;yaketyfied via YaketyLapse, a silly idea from H. Wade Minter&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minimizing the Impact of a Cloud Server Reboot</title>
+      <link>http://localhost:1313/post/reboots/</link>
+      <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/reboots/</guid>
+      <description>
+
+&lt;p&gt;Last week at work, we had to reboot almost all of our Cloud servers. In anticipation of the reboots, my colleague Alison Oster and I wrote the following article for our customers. I think the advice is valid, regardless of where you host, so I&amp;rsquo;m reposting it here, and including the video hangout where we covered these tips.&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;390&#34; src=&#34;//www.youtube.com/embed/m9kg26vTGB0?list=UUG0VI_ayS-I0RQpBna4Tisw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h1 id=&#34;minimizing-the-impact-of-a-cloud-server-reboot:5e2ffb32118c907becf66c3877500c70&#34;&gt;Minimizing the Impact of a Cloud Server Reboot&lt;/h1&gt;
+
+&lt;p&gt;We all try to prevent it, but from time to time you might find that your server needs to be rebooted. While the reboot is generally a fast process, it can sometimes present additional headaches. Fortunately, a little bit of  planning can prevent a lot of headache. Let&amp;rsquo;s go over a few tips to make sure that any server reboots are fast and minimally disruptive.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-system-image-for-restoration-and-scaling:5e2ffb32118c907becf66c3877500c70&#34;&gt;Create a System Image for restoration and scaling&lt;/h2&gt;
+
+&lt;p&gt;A system image is a snapshot of your server at a given point in time. You can use an image to build a replacement server, or to create redundancy and scalability.&lt;br /&gt;
+Images are intended to capture the relatively static operating system, installed packages and configurations - not the dynamic data on the server. For Performance Cloud Servers only the System partition is imaged, which is why we recommend pairing system images with a Cloud Backup regimen.&lt;br /&gt;
+System images can be taken ad hoc, or on a recurring scheduled basis. Recurring images are given a retention policy which saves new images for a fixed number of days before being replaced by the newest image. We recommend at least 3 days of images at any time.&lt;/p&gt;
+
+&lt;p&gt;For more information on Images see &lt;a href=&#34;http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-overview&#34;&gt;this Rackspace guide to creating and restoring from images&lt;/a&gt; and this &lt;a href=&#34;http://www.rackspace.com/knowledge_center/article/backing-up-an-ms-sql-server-2008-database&#34;&gt; Rackspace FAQ on scheduled images&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;ensure-server-has-backups-configured-and-running:5e2ffb32118c907becf66c3877500c70&#34;&gt;Ensure server has backups configured and running.&lt;/h2&gt;
+
+&lt;p&gt;We recommend everyone use backups to keep their data up-to-date. The Rackspace Cloud Backup product runs a differential backup on a set frequency. This backup can be set to run on any number of directories. It is also important to remember that on Performance Cloud Servers with a data disc the data partition is not included in any image snapshots taken. Make sure those data partitions are included in your backup scheme.&lt;/p&gt;
+
+&lt;p&gt;For additional information on Cloud Backup, please review &lt;a href=&#34;http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-overview&#34;&gt;the Rackspace Cloud Backup Overview in their Knowledge Center&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;For many Linux servers these directories will need to be backed up:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;/home&lt;/li&gt;
+&lt;li&gt;/root&lt;/li&gt;
+&lt;li&gt;/etc (This will contain most of your configuration files)&lt;/li&gt;
+&lt;li&gt;/var/www (This will often contain your websites and files)&lt;/li&gt;
+&lt;li&gt;/var/lib/mysqlbackup (Servers built using Rackspace Managed Operations will have an automated process that automatically runs a mysql dump to this folder.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For Windows Servers we recommend you backup where your data might be stored, e.g.:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;C:\inetpub&lt;/li&gt;
+&lt;li&gt;C:\Users&lt;/li&gt;
+&lt;li&gt;Any additional drives such D:, E: and so on.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;ms-sql-backup:5e2ffb32118c907becf66c3877500c70&#34;&gt;MS-SQL Backup&lt;/h4&gt;
+
+&lt;p&gt;Remember, Cloud Backup will not backup live databases. &lt;a href=&#34;http://www.rackspace.com/knowledge_center/article/backing-up-an-ms-sql-server-2008-database&#34;&gt;Backup must be done through Microsoft SQL Server Management Studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Of course we recommend that you carefully consider your specific applications, and their backup needs.&lt;/p&gt;
+
+&lt;p&gt;For additional reading, see: &lt;a href=&#34;http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-vs-cloud-server-image-backups&#34;&gt;notes on the differences between Cloud Backup and Image Snapshots.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ensure-services-are-configured-to-start-after-boot:5e2ffb32118c907becf66c3877500c70&#34;&gt;Ensure services are configured to start after boot.&lt;/h2&gt;
+
+&lt;p&gt;When installing a service it does not automatically configure this to start again once the server is rebooted.  However, there is an easy way to resolve this.  Below are some links on how to do this on RHEL/CentOS, Ubuntu and even Windows servers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.rackspace.com/knowledge_center/article/centos-chkconfig&#34;&gt;How to use chkconfig with RHEL/CentOS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/products/f/25/t/4315&#34;&gt;How to use update-rc.d with Ubuntu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/windows/desktop/ms681957%28v=vs.85%29.aspx&#34;&gt;Automatically Starting Services with Windows&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ensure IPtables/Windows Firewall rules are saved and configured to restart on reboot.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It is important to ensure that the firewall rules that you have worked hard to configure stay active upon reboot.  Below are a couple of links on how to ensure that this is the case for both &lt;a href=&#34;https://www.centos.org/docs/5/html/5.1/Deployment_Guide/s2-basic-firewall-activate-iptables.html&#34;&gt;iptables&lt;/a&gt; and &lt;a href=&#34;http://technet.microsoft.com/en-us/library/cc749262%28v=ws.10%29.aspx&#34;&gt;Windows Firewall.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SSL passphrase&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We generally do not recommend using a passphrase when generating a SSL certificate.  If you do already have a passphrase in place for your SSL certificate however, you will need to input that into the server upon reboot.  The services on the server will not be able to start without first having to input that passphrase.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ensure that Cloud Block Storage Volumes Attach on Reboot&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have data on a Cloud Block Storage volume, you&amp;rsquo;ll want to make sure that any volumes are properly connected after a reboot. To ensure this, you need to add your volume to the static file system information in the fstab file. See &lt;a href=&#34;http://www.rackspace.com/knowledge_center/article/prepare-your-cloud-block-storage-volume&#34;&gt;step 5 in this guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For Windows users, mounted block storage should remain mounted after reboot.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FSCK (File System Consistency Check)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&#34;http://localhost:1313/general/f/34/t/3756&#34;&gt;fsck&lt;/a&gt; generally runs automatically at boot time.  There are 2 common triggers for automatically executing a fsck.  Either the operating system detect that a file system is in an inconsistent state (likely due to a non graceful shutdown like crash or power loss) or after a certain number of times that the system is mounted.&lt;/p&gt;
+
+&lt;p&gt;Once you reboot your server this fsck may happen automatically.  If it does, this could cause an increase in the delay for your server coming back online.  Delay&amp;rsquo;s are usually never good, but in this case the delay can save your server.  I would suggest just letting the fsck complete even though it may cause delays for you.  If you attempt to reboot the server again, it is just going to go right back into fsck which will only increase the delay.&lt;/p&gt;
+
+&lt;h2 id=&#34;test-all-the-things:5e2ffb32118c907becf66c3877500c70&#34;&gt;Test All The Things!&lt;/h2&gt;
+
+&lt;p&gt;Having images, backups, configurations, and redundancies in place are vital, but we strongly recommend taking a few minutes to test the entire process of getting your environment back up and running, so that you know how your servers and other cloud products will react during and after the reboot. Want to know how your server will react to a reboot? There&amp;rsquo;s no better way to get that answer than to just try it out and see. Of course we recommend doing any testing during the development phase, or on separate servers to limit any customer impact.&lt;/p&gt;
+
+&lt;h2 id=&#34;mitigating-reboot-impact:5e2ffb32118c907becf66c3877500c70&#34;&gt;Mitigating Reboot Impact&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Horizontal Scaling&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the best ways to prevent prolonged impact from a reboot is to distribute your application over multiple redundant, tiered, servers. We call this &amp;ldquo;Horizontal Scaling,&amp;rdquo; and it&amp;rsquo;s a great way to minimize the risk of downtime due to any single server going down. There&amp;rsquo;s a very good &lt;a href=&#34;http://www.rackspace.com/blog/examining-horizontal-scaling-google-hangout-recap/&#34;&gt;discussion of Horizontal Scaling&lt;/a&gt; in one of the Rackspace Office Hours Hangouts I host.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Custom Error Pages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One benefit of using a Cloud Load Balancer is the ability to set a custom error page in the event that a server connected to the Load Balancer is offline or unresponsive. By proactively configuring that error page, a visitor to your site will receive an error message designed by you, specific to your unique application. Custom Error Pages can be configured via the &lt;a href=&#34;http://docs.rackspace.com/loadbalancers/api/v1.0/clb-devguide/content/Erropage-d1e666.html&#34;&gt;API&lt;/a&gt; or the &lt;a href=&#34;http://localhost:1313/products/f/25/t/3612&#34;&gt;Control Pane&lt;/a&gt;l.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yes And Development</title>
+      <link>http://localhost:1313/post/yes%20and%20development/</link>
+      <pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/yes%20and%20development/</guid>
+      <description>&lt;p&gt;You never know when a passing comment might turn into an actual product. I&amp;rsquo;ve been performing improv for over half of my life now. By this point, many of the concepts of improv are incorporated into my everyday life. Here&amp;rsquo;s an example of a principle of improv applied to software development.&lt;/p&gt;
+
+&lt;p&gt;Two days ago I saw a great tweet:&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;Why doesn&amp;#39;t Hyperlapse have an &amp;quot;Add Yackety Sax&amp;quot; button?&lt;/p&gt;&amp;mdash; H. Wade Minter (@minter) &lt;a href=&#34;https://twitter.com/minter/status/506551221579038720&#34;&gt;September 1, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;So I did what any good improvisor would do: I &amp;ldquo;yes anded.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;To the startup mobile! &amp;quot;YacketyGram?&amp;quot; &amp;quot;InstaSax?&amp;quot; &amp;quot;HyperYakr?&amp;quot; &amp;gt; &amp;quot;&lt;a href=&#34;https://twitter.com/minter&#34;&gt;@minter&lt;/a&gt;: Why doesn&amp;#39;t Hyperlapse have an &amp;quot;Add Yackety Sax&amp;quot; button?&amp;quot;&lt;/p&gt;&amp;mdash; Alan Bush (@alanbush) &lt;a href=&#34;https://twitter.com/alanbush/status/506554440359223296&#34;&gt;September 1, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;In improvisational comedy, we have a concept of &amp;ldquo;yes and.&amp;rdquo; To keep a scene growing and building, we not only agree with the initial offering from our scene partners, but we also add something to that offering, raising the stakes and furthering the scene. I haven&amp;rsquo;t had much of an opportunity to improvise with Wade; he moved away from San Antonio shortly before I arrived, but we both performed improv with Comedy Sportz San Antonio. We have a common language, a common reflex to say yes, and take it to the next level.&lt;/p&gt;
+
+&lt;p&gt;And Wade did just that. After his initial tweet, and my first &amp;ldquo;yes and,&amp;rdquo; Wade added his own &amp;ldquo;yes and&amp;rdquo; by &lt;strong&gt;actually building the application he joked about.&lt;/strong&gt; He came up with a better name than I could, and did the development work that I can&amp;rsquo;t do, and built &lt;a href=&#34;http://yacketylapse.com/&#34;&gt;yakeylapse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/alanbush&#34;&gt;@alanbush&lt;/a&gt; God help me, I built this thing. &lt;a href=&#34;http://t.co/8c1C88hW0p&#34;&gt;http://t.co/8c1C88hW0p&lt;/a&gt; - Example: &lt;a href=&#34;http://t.co/a4KnTYy0v9&#34;&gt;http://t.co/a4KnTYy0v9&lt;/a&gt;&lt;/p&gt;&amp;mdash; H. Wade Minter (@minter) &lt;a href=&#34;https://twitter.com/minter/status/507360692908077057&#34;&gt;September 4, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Just provide yaketylapse with your hyperlapse video and the app spits out a saxed up version. Pretty cool. And all because Wade kept saying yes. Thanks, Wade!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://yacketylapse.com/videos/4c268af4-6761-4d19-b4de-24ba87cec59e&#34;&gt;Check out my example&lt;/a&gt;, taken from this &lt;a href=&#34;https://twitter.com/MLBGIFs/status/507322761157427200&#34;&gt;@MLBGIFs tweet&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
