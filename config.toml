@@ -1,5 +1,5 @@
 theme="material-design"
-baseurl = "http://albush.github.io/albush.com"
+baseurl = "http://albush.github.io/blog/"
 languageCode = "en-us"
 title = "Alan Bush's Blog"
 MetaDataFormat = "toml"
