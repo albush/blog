@@ -1,5 +1,5 @@
 theme="material-design"
-baseurl = "http://albush.github.io/blog/"
+baseurl = "http://albush.com"
 languageCode = "en-us"
 title = "Alan Bush's Blog"
 MetaDataFormat = "toml"
@@ -14,5 +14,6 @@ copyright = "© 2015 Alan Bush"
   # facebook = "Your facebook Name" # optional
   gplus = "AlanBush" # optional
   linkedin = "adbush" # optional
+  about = "about"
   headerCover = "http://share.albush.com/fyKF4BgPAO/background.jpg" # optional
   footerCover = "http://drops.albush.com/background-cover.jpg" # optional
