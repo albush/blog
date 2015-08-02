@@ -7,9 +7,7 @@ machine:
 
 dependencies:
   pre:
-    - bash ./ci-install-sassc.sh
     - bash ./ci-install-hugo.sh
-    - go get -v github.com/albush/blog
   cache_directories:
     - bin
 
@@ -17,7 +15,6 @@ test:
   pre:
     - pygmentize -V
   override:
-    - sassc sass/all.sass static/all.css --style compressed
     - hugo -v
 
 deployment:
