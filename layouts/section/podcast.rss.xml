@@ -38,8 +38,8 @@
         <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
         <description>{{ .Params.summary }}</description>
 
-        <enclosure url="{{ .Params.aac_asset_link }}" length="{{ .Params.length }}" type="audio/mpeg" />
-        <guid>{{ .Params.aac_asset_link }}</guid>
+        <enclosure url="{{ .Params.mp3 }}" length="{{ .Params.length }}" type="audio/mpeg" />
+        <guid>{{ .Params.mp3 }}</guid>
 
         <itunes:author>{{ .Params.author }}</itunes:author>
         <itunes:summary>{{ .Content | html }}</itunes:summary>

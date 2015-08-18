@@ -2,6 +2,15 @@
 
 Title = "Getting Started With Redis Hangout"
 Date = "2014-08-18"
+author = "Alan Bush"
+number = "68"
+duration = "52:08"
+length = "37,536,078"
+mp3 = "http://drops.albush.com/Getting%20Started%20With%20Redis.mp3"
+ogg = "http://drops.albush.com/Getting%20Started%20With%20Redis.ogg"
+youtube_id = "-eIxC7oF4Ic"
+summary = "This podcast was all about Redis. We talked about Redis and some other stuff."
+tags = [ "Redis", "ObjectRocket", "NoSQL", ]
 
 +++
 
@@ -10,7 +19,10 @@ Every week I host a live video hangout series called [Office Hours][99]. We disc
 
 [99]: http://go.rackspace.com/officehours
 
-{{% youtube -eIxC7oF4Ic %}}
+{{< audio >}}
+
+{{< youtube >}}
+
 
 ### Highlights
 

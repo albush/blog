@@ -6,8 +6,9 @@ author = "Alan Bush"
 number = "109"
 duration = "50:01"
 length = "36,010,736"
-aac_asset_link = "http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.mp3"
-ogg_asset_link = "http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.ogg"
+mp3 = "http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.mp3"
+ogg = "http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.ogg"
+youtube_id = "t384JnmvcuQ"
 summary = "Justin Phelps is one of the first two people to earn the Ansible Certified Engineer Award. He's our guest on our Rackspace Office Hours Hangout."
 tags = [ "Ansible", "GitHub", "Static Websites", ]
 
@@ -19,13 +20,9 @@ We took the time to ask Justin about Ansible, how it can help our customers, and
 
 I had a hard time choosing highlights this week; I could pretty much recommend the entire episode. I have a few links to highlights in the sections below, and the entire video is embedded at the end of the blog post. I hope you enjoy watching as much as I enjoyed hosting.
 
-<audio controls>
-        <source src="http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.mp3" type="audio/mp4">
-        <source src="http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.ogg" type="audio/ogg">
-        Sorry, your browser does not support the <code>audio</code> element.
-    </audio>
+{{< audio >}}
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/t384JnmvcuQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube >}}
 
 ## Ansible's simplicity and consistency
 
