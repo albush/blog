@@ -9,7 +9,7 @@ mp3 = "http://drops.albush.com/Brace%20Yourselves%252C%20Our%20Annual%20Winter%2
 ogg = "http://drops.albush.com/Brace%20Yourselves%252C%20Our%20Annual%20Winter%20is%20Coming%20Shows%20are%20Coming.ogg"
 summary = "Our annual roundup of new products, features, and tools to not just survive, but thrive on Black Friday."
 tags = ["Black Friday", "Rackspace", "ecommerce"]
-title = "Winter is Coming: New and Improved Rackspace Tools for Black Friday Success"
+title = "Winter is Coming New and Improved Rackspace Tools for Black Friday Success"
 youtube_id = "AHK7EnELGN4"
 
 +++
