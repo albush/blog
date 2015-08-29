@@ -1,4 +1,5 @@
 +++
+
 author = "Alan Bush"
 date = "2015-08-20"
 number = "111"
@@ -6,7 +7,7 @@ duration = "01:01:31"
 length = "44,290,173"
 mp3 = "http://drops.albush.com/Brace%20Yourselves%252C%20Our%20Annual%20Winter%20is%20Coming%20Shows%20are%20Coming.mp3"
 ogg = "http://drops.albush.com/Brace%20Yourselves%252C%20Our%20Annual%20Winter%20is%20Coming%20Shows%20are%20Coming.ogg"
-summary = "We were joined by Rackspace Developer Don Schenck, to talk about his OpenStack automation utility for PowerShell: PoshStack. We also discussed how Don went about building PoshStack, and many of the lessons he learned while developing it."
+summary = "Our annual roundup of new products, features, and tools to not just survive, but thrive on Black Friday."
 tags = ["Black Friday", "Rackspace", "ecommerce"]
 title = "Winter is Coming: New and Improved Rackspace Tools for Black Friday Success"
 youtube_id = "AHK7EnELGN4"
