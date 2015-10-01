@@ -1,9 +1,7 @@
-+++
-
-Title = "The Customer Isn't Always Right"
-Date = "2014-07-05"
-
-+++
+---
+Date: 2014-07-05
+Title: The Customer Isn't Always Right
+---
 
 A few weeks ago I participated in a round of interviews for an open position on our Customer Success Team. I conducted my portion of the interview with my teammate Bill. I always like listening to Bill - he has wonderful insights, and asks great questions. I truly appreciated one question he asked in the interview: "Is the customer always right?" Fortunately, not one of the candidates answered "Yes." 
 

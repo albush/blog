@@ -1,9 +1,7 @@
-+++
-
-Title = "Minimizing the Impact of a Cloud Server Reboot"
-Date = "2014-09-30"
-
-+++
+---
+Date: 2014-09-30
+Title: Minimizing the Impact of a Cloud Server Reboot
+---
 
 Last week at work, we had to reboot almost all of our Cloud servers. In anticipation of the reboots, my colleague Alison Oster and I wrote the following article for our customers. I think the advice is valid, regardless of where you host, so I'm reposting it here, and including the video hangout where we covered these tips.
 

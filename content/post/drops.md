@@ -1,9 +1,7 @@
-+++
-
-Title = "Easy Filesharing with Dropzone3 and Rackspace Cloud Files"
-Date = "2014-08-15"
-
-+++
+---
+Date: 2014-08-15
+Title: Easy Filesharing with Dropzone3 and Rackspace Cloud Files
+---
 
 <img class="img-responsive" src="//drops.albush.com/andtherewasmuchrejoicing.gif">
 

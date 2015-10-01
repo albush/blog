@@ -1,9 +1,7 @@
-+++
-
-Title = "Billy Butler Stole a Base"
-Date = "2014-10-06"
-
-+++
+---
+Date: 2014-10-06
+Title: Billy Butler Stole a Base
+---
 
 <div class="video-container">
 <video controls loop>

@@ -1,9 +1,7 @@
-+++
-
-Title = "Yes And Development"
-Date = "2014-09-03"
-
-+++
+---
+Date: 2014-09-03
+Title: Yes And Development
+---
 
 You never know when a passing comment might turn into an actual product. I've been performing improv for over half of my life now. By this point, many of the concepts of improv are incorporated into my everyday life. Here's an example of a principle of improv applied to software development.
 

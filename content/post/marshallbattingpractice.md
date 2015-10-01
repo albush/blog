@@ -1,9 +1,7 @@
-+++
-
-Title = "Batting Practice with Marshall"
-Date = "2015-03-24"
-
-+++
+---
+Date: 2015-03-24
+Title: Batting Practice with Marshall
+---
 
 </br><video class="video-responsive" controls preload="none" poster="//drops.albush.com/marshallBP.png">
    <source src="//drops.albush.com/marshallBP1.webm" type="video/webm">

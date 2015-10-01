@@ -1,9 +1,7 @@
-+++
-
-Title = "Keep Peddling"
-Date = "2014-07-11"
-
-+++
+---
+Date: 2014-07-11
+Title: Keep Peddling
+---
 
 <img class="img-responsive" src="//drops.albush.com/keeppeddling.gif">
 

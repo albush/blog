@@ -1,9 +1,7 @@
-+++
-
-Title = "Did this work?"
-Date = "2015-01-02"
-
-+++
+---
+Date: 2015-01-02
+Title: Did this work?
+---
 
 Ok, so I just blog to [Hugo](http://gohugo.io/), and I've deployed it with [drone.io](http://drone.io). 
 

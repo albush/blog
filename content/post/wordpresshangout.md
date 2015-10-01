@@ -1,9 +1,7 @@
-+++
-
-Title = "WordPress Hangout"
-Date = "2015-01-23"
-
-+++
+---
+Date: 2015-01-23
+Title: WordPress Hangout
+---
 
 I really enjoyed hosting yesterday's WordPress themed Office Hours Hangout. We had some great guests and a great discussion. I'm looking forward to hearing everyone speak this weekend at [WordCamp San Antonio](http://2015.sanantonio.wordcamp.org/). If you're there, look me up!
 

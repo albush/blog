@@ -1,9 +1,7 @@
-+++
-
-Title = "Recommended Android Apps"
-Date = "2014-11-04"
-
-+++
+---
+Date: 2014-11-04
+Title: Recommended Android Apps
+---
 
 A friend just got her first Android phone, so I put together a quick list of apps I think are well worth an install. This is by no means a complete list, just a start. 
 

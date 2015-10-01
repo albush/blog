@@ -21,14 +21,8 @@ copyright = "© 2015 Alan Bush"
   about = "about"
   headerCover = "http://drops.albush.com/coffee-bgcover.jpg" # optional
   footerCover = "http://drops.albush.com/coffee-bgcover.jpg" # optional
-
+  
 [taxonomies]
   tag = "tags"
   category = "categories"
   series = "series"
-
-[podcasts]
-  podtitle = "Office Hours Hangouts"
-  description = "Educating and inspiring the cloud computing community."
-  image = "http://drops.albush.com/ooh-square.png"
-  headerCover = "http://drops.albush.com/RAX%20CLOUD%20OFFICE%20HANGOUT%20FINAL.png"
