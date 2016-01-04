@@ -7,6 +7,8 @@ draft: true
 
 ## Intro
 
+I've been producing the [Rackspace Office Hours Hangout](http://ohpodcast.com) for 2 and a half years now. From the beginning, we wanted to produce an audio-only version of the podcast. Our conversations 
+
 ## Base components
 
 ### Live Hangout
