@@ -2,6 +2,7 @@
 Author: Alan Bush
 Date: 2015-12-30
 Title: How I Became a Community Manager
+draft: true
 ---
 
 When I first started to appreciate the difference between a "job" and a "career," I was working for a small healthcare PPO network in Southwest Missouri, Employers Health Network (EHN). I have had my share of "jobs" and "gigs," but this role was one I could grow with. In theory I was hired to help with some filing and data entry, but more and more I was asked to work on special projects to select and implement the technology that EHN would use to operate and grow our business.
@@ -16,4 +17,4 @@ Two years later, I moved on to [Rackspace](https://www.rackspace.com) to help th
 
 One of the first meetings I attended at Rackspace was an informational session on the launch of the [Rackspace Community Forum](https://community.rackspace.com/). The Rackspace Community launched with an initial focus on explaining our products and providing guides. There was little emphasis on understanding our customers and helping them solve the problems they faced. Our customers organically turned the Community Forum into a question and answer forum. We realized this was a good opportunity for us to be helpful to our customers who were not interacting with us on the Cloud Launch Team, or who had been longtime customers and needed non-time-sensitive help. The role of Technical Community Manager was born.
 
-The role of a Technical Community Manager at Rackspace is mostly to help our customers find the information they need to be successful in their business. 
+The role of a Technical Community Manager at Rackspace is mostly to help our customers find the information they need to be successful in their business.
