@@ -1,8 +1,8 @@
-theme="material-design"
+theme="hugo-zen"
 baseurl = "http://albush.com"
 languageCode = "en-us"
 title = "Alan Bush's Blog"
-MetaDataFormat = "toml"
+MetaDataFormat = "yaml"
 paginate = 6 # To specify a multiple of 3
 # disqusShortname = "Your Disqus Name" # optional
 copyright = "© 2015 Alan Bush"
@@ -12,16 +12,13 @@ copyright = "© 2015 Alan Bush"
   email = "al@albush.com"
 
 [params]
+  logo      = "http://drops.albush.com/ab3head.png"
+  copyright = "albush All rights reserved."
+  twitter   = "https://twitter.com/alanbush"
+  github    = "https://github.com/albush/"
+  email     = "al@albush.com"
   description = "Mustachioed Cloud Technology Mentor by day; Daddy, Husband and Improvisor by night." # optional
-  twitter = "alanbush" # optional
-  github = "albush" # optional
-  # facebook = "Your facebook Name" # optional
-  gplus = "AlanBush" # optional
-  linkedin = "adbush" # optional
-  about = "about"
-  headerCover = "http://drops.albush.com/coffee-bgcover.jpg" # optional
-  footerCover = "http://drops.albush.com/coffee-bgcover.jpg" # optional
-  
+
 [taxonomies]
   tag = "tags"
   category = "categories"
