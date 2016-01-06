@@ -3,7 +3,8 @@ Date: 2015-03-24
 Title: Batting Practice with Marshall
 ---
 
-</br><video class="video-responsive" controls preload="none" poster="//drops.albush.com/marshallBP.png">
+</br>
+<video class="video-responsive" controls preload="none" poster="//drops.albush.com/marshallBP.png">
    <source src="//drops.albush.com/marshallBP1.webm" type="video/webm">
 </video>
 
@@ -19,4 +20,4 @@ The kid can hit. Especially off of a tee. He's pretty good when we pitch to him,
 
 <img class="img-responsive" src="http://cdn.fangraphs.com/blogs/wp-content/uploads/2014/10/perez-foul.gif">
 
-I don't think I can quite retire, yet, but I'm sure we'll be back for more fun at the batting cages soon - we just had too much fun. 
+I don't think I can quite retire, yet, but I'm sure we'll be back for more fun at the batting cages soon - we just had too much fun.

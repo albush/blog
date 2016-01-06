@@ -12,7 +12,7 @@ copyright = "© 2015 Alan Bush"
   email = "al@albush.com"
 
 [params]
-  logo      = "http://drops.albush.com/ab3head.png"
+  logo      = "http://drops.albush.com/ab3head.svg"
   copyright = "albush All rights reserved."
   twitter   = "https://twitter.com/alanbush"
   github    = "https://github.com/albush/"
