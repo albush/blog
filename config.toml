@@ -1,0 +1,25 @@
+theme="hugo-zen"
+baseurl = "http://albush.com"
+languageCode = "en-us"
+title = "Alan Bush's Blog"
+MetaDataFormat = "yaml"
+paginate = 6 # To specify a multiple of 3
+# disqusShortname = "Your Disqus Name" # optional
+copyright = "© 2015 Alan Bush"
+
+[author]
+  author = "Alan Bush"
+  email = "al@albush.com"
+
+[params]
+  logo      = "http://drops.albush.com/ab3head.svg"
+  copyright = "albush All rights reserved."
+  twitter   = "https://twitter.com/alanbush"
+  github    = "https://github.com/albush/"
+  email     = "al@albush.com"
+  description = "Mustachioed Cloud Technology Mentor by day; Daddy, Husband and Improvisor by night." # optional
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"

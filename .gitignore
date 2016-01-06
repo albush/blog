@@ -1,49 +1,31 @@
-# Created by http://www.gitignore.io
+# Created by https://www.gitignore.io
 
-### Python ###
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-
-# C extensions
+### Go ###
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
 *.so
 
-# Distribution / packaging
-.Python
-env/
-build/
-develop-eggs/
-dist/
-eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
+# Folders
+_obj
+_test
+public/
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.cache
-nosetests.xml
-coverage.xml
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
 
-# Translations
-*.mo
-*.pot
+_testmain.go
 
-# Django stuff:
-*.log
+*.exe
+*.test
+*.prof
+.DS_Store
 
-# Sphinx documentation
-docs/_build/
-
-*~
+content/pages/aboutme.md
