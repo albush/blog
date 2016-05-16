@@ -1,13 +1,15 @@
 ---
-Date: 2014-11-04
-Title: Recommended Android Apps
+Date: 2016-04-17T15:29:03+00:00
+Title: Getting Started with Android
 ---
+Among my friends, I'm often the looked on as the "Android Guy." I've been using Android devices longer than almost all of my friends. I've used both iOS and Android devices, and have a pretty good understanding of the benefits and difficulties with each. I'm often asked for assistance in making the transition from iOS to Android.
 
-A friend just got her first Android phone, so I put together a quick list of apps I think are well worth an install. This is by no means a complete list, just a start.
+A few years ago, I wrote up some [recommended Android apps]({{< relref "post/androidapps.md" >}}) for a friend. Most of those apps are still highly recommended, but a few are out of date, better alternatives exist, or the functionality has been incorporated into Android, itself.
 
 ### All of the Google Apps. Most of them aren't the default on a Samsung device, and it's well worth it to either install them or set them up as your default.
 
 * [Google Now Launcher][1] - provides the default Google Android Experience - No Samsung/HTC crap interface.
+* [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) - This is the best way to manage your photos. Automatic backup, exceptional search capabilities.
 * [Android Device Manager][2] - remotely manage your device. Locate it when it's lost. Remote wipe.
 * [Google Opinion Rewards][3] - Answer the occasional survey, get some change added to your Play account. Buy more games.
 * [Inbox by Gmail][4] - replacement for standard Gmail app. Allows you to quickly manage email, and take action on your mail.
@@ -17,13 +19,11 @@ A friend just got her first Android phone, so I put together a quick list of app
 
 ### Misc
 
-* [Car Home Ultra][7] - Turns your phone into a dashboard while you drive.
 * [Authy 2-Factor Authentication][8]
-* [BeyondPod][9] - Podcast catcher/player w/ beautiful design and variable speed playback
-* [Pushbullet][10] - Mirror selected notifications from your device to your computer. Great to see who's calling, etc.
-* [Link Bubble Browser][11] - Open links in a 'bubble,' then open those bubbles individually. Prevents you from having to jump back and forth between apps.
+* [PocketCasts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts) - Definitely the best podcast app out there. Very well designed. Can sync across devices.
 * [Life Time Alarm Clock][12] - A great alarm clock app. Easy to use, and works well.
 * [LastPass][13] - Keeps all of your passwords safe. Will copy/paste your passwords into new apps. Huge time saver.
+* [Car Home Ultra][7] - Turns your phone into a dashboard while you drive. *Update: still a good app, but less important to me now.*
 
 ### Work
 
@@ -33,9 +33,6 @@ A friend just got her first Android phone, so I put together a quick list of app
 
 ### Fun/Distraction/Just Plain Dumb Apps
 
-* [Hodor Keyboard][17] - Hodor! Hodor hodor, hodor; hodor hodor?! Hodor. Hodor hodor hodor hodor... Hodor hodor hodor...
-* [Imgur][18] - Cats, gifs, etc.
-* [Photofy Photo Editing Collage][19] - Make photo collages. Add words to them. Share them.
 
 
 [1]: https://play.google.com/store/apps/details?id=com.google.android.launcher
@@ -46,14 +43,8 @@ A friend just got her first Android phone, so I put together a quick list of app
 [6]: https://play.google.com/store/apps/details?id=com.android.chrome
 [7]: https://play.google.com/store/apps/details?id=spinninghead.carhome
 [8]: https://play.google.com/store/apps/details?id=com.authy.authy
-[9]: https://play.google.com/store/apps/details?id=mobi.beyondpod
-[10]: https://play.google.com/store/apps/details?id=com.pushbullet.android
-[11]: https://play.google.com/store/apps/details?id=com.linkbubble.playstore
 [12]: https://play.google.com/store/apps/details?id=com.mcc.alarmclocklifetime
 [13]: https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 [14]: https://play.google.com/store/apps/details?id=com.mappedin.shuriken
 [15]: https://play.google.com/store/apps/details?id=com.ninefolders.hd3
 [16]: https://play.google.com/store/apps/details?id=com.rsa.securidapp
-[17]: https://play.google.com/store/apps/details?id=com.richapps.hodorkeyboard.app
-[18]: https://play.google.com/store/apps/details?id=com.imgur.mobile
-[19]: https://play.google.com/store/apps/details?id=com.photofy.android
