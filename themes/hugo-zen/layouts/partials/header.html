@@ -20,5 +20,11 @@
 		<div class="header-logo">
 			<a href="/"><img src="{{ .Site.Params.logo }}" width="60" height="60"></a>
 		</div>
-		{{ if eq $isHomePage true }}<h1 class="site-title">{{ .Site.Title }}</h1>{{ end }}
+		<h1 class="site-title">{{ .Site.Title }}</h1>
+		<nav>
+			{{ $currentNode := . }}
+			{{ range .Site.Menus.main }}
+			<a class="sidebar-nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a>
+			{{ end }}
+	</nav>
 	</header>

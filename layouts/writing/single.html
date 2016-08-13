@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+{{ $article := .Params.article }}
+{{ $publication := .Params.publication }}
+	<main role="main">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
+		</article>
+		<div class="container">
+		      {{ $a :=  (index $.Site.Data.writing $article) }}
+					{{ $p :=  (index $.Site.Data.publications $publication) }}
+		      <div class="row">
+		            <div class="col-md-3">
+		              <a href	="{{ $a.Link }}"><img alt = "{{ $a.Title }}" src = "{{ $a.FeatureImage }}" class="img-responsive"></a>
+		            </div>
+		          <div>
+							</br>
+		            <h2><a href="{{ $p.PublicationLink}}" target="_blank">Article Title: {{ $a.Title }}</a></h2>
+		            {{ if isset $a "LongDescription" }}
+		              <p>{{ $a.LongDescription | markdownify }}</p>
+		            {{ end }}
+		            {{ if isset $p "Publication" }}
+		              <p>Published in <a href = "{{ $p.PublicationLink}}">{{ $p.Publication }}</a> on {{ dateFormat "January 2, 2006" $a.PublicationDate }}</p>
+		            {{ end }}
+		          </div>
+		      </div>
+		</div>
+	</main>
+
+
+
+
+{{ partial "footer.html" . }}
