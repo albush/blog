@@ -8,4 +8,4 @@ A monthly presentation to new technical Rackers. I share the story of the Racksp
 
 This presentation uses humor, analogous demonstrations, and
 
-{{% slideshare xtFAbFMtGXV8Je %}}
+{{% speakerdeck-16-9 6afbfe49a32a4edca794a88877ef55f1 %}}
