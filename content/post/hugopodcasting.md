@@ -13,7 +13,7 @@ I've been producing the [Rackspace Office Hours Hangout](http://ohpodcast.com) f
 
 After taking our own advice, we decided that we needed our site to do three things:
 
-1. Provide a single landing page where customers can go to always see the latest (or even live) show.
+1. Provide a single landing page where customers can go to always {---always---} see the latest (or even live) show.
 2. Require minimum maintenance and upkeep.
 3. Be virtually free.
 
