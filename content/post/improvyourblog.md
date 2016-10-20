@@ -6,8 +6,7 @@ Aliases:
 - iyb
 ---
 
-Thanks for checking out my talk at WordCamp 2016. The [slides](#slides) are embedded below, along with links to the [books](#books), [shows](#books) and [classes](#classes) mentioned in the talk. I'm collecting email addresses to gauge interest in additional content around ImprovYourBlog. If you're interested in receiving periodic updates, please subscribe below.
-
+Thanks for checking out my talk at WordCamp 2016. The [slides](#slides) are embedded below, along with links to the [books](#books), [shows](#books) and [classes](#classes) mentioned in the talk. I'm collecting email addresses to gauge interest in additional content around ImprovYourBlog. If you enjoyed the talk today, and want to receive additional periodic updates from me, please subscribe below.
 {{< mailchimp-iyb >}}
 
 <a name="slides"></a>{{% speakerdeck 7fc02986f99d4d4a80991b7d4da6e394 %}}

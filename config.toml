@@ -39,6 +39,7 @@ copyright = "© 2015 Alan Bush"
   email     = "al@albush.com"
   linkedin  = "http://www.linkedin.com/in/adbush"
   description = "Mustachioed Cloud Technology Mentor by day; Daddy, Husband and Improvisor by night." # optional
+  analytics = "UA-15275173-7"
 
 [taxonomies]
   tag = "tags"
