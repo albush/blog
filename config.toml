@@ -33,7 +33,7 @@ copyright = "© 2015 Alan Bush"
 [params]
   logo      = "http://drops.albush.com/ab3head.svg"
   phone     = "+1 210-704-7319"
-  copyright = "albush All rights reserved."
+  copyright = "albush"
   # twitter   = "https://twitter.com/alanbush"
   # github    = "https://github.com/albush/"
   email     = "al@albush.com"
