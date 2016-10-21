@@ -1,9 +1,10 @@
----
-Author: Alan Bush
-Date: 2015-12-30
-Title: How I Became a Community Manager
-draft: true
----
++++
+Author = "Alan Bush"
+Date = "2015-12-30"
+Title = "How I Became a Community Manager"
+draft = true
+
++++
 
 When I first started to appreciate the difference between a "job" and a "career," I was working for a small healthcare PPO network in Southwest Missouri, Employers Health Network (EHN). I have had my share of "jobs" and "gigs," but this role was one I could grow with. In theory I was hired to help with some filing and data entry, but more and more I was asked to work on special projects to select and implement the technology that EHN would use to operate and grow our business.
 

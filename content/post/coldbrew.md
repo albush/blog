@@ -1,7 +1,8 @@
----
-Date: 2014-06-20
-Title: Cold Brewed Benchmarks
----
++++
+Date = "2014-06-20"
+Title = "Cold Brewed Benchmarks"
+
++++
 
 Last week I read an article on Lifehacker about [a less messy way to cold brew coffee][1]. As a fan of cold brewed coffee, wanted to try this. Cold brewing is very easy, but it does leave a bit of a mess. I needed to be able to brew my coffee quickly, easily and with as little mess as possible.  
 The Lifehacker article describes what appears to be a very simple, no cleanup version of the cold brewing process with little to no filtering needed. - that's my Holy Grail, to be able to go straight from brewing to drinking without having to filter. I'm not there yet. 

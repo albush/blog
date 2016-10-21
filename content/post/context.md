@@ -1,7 +1,8 @@
----
-Date: 2014-07-02
-Title: Songza Adds Context to Google Play Music
----
++++
+Date = "2014-07-02"
+Title = "Songza Adds Context to Google Play Music"
+
++++
 
 Hey, did you hear that Google is buying music curated music app [Songza][1]? I'm  very excited about this acquisition. Songza is a bit different than other streaming music apps, in that their playlists are carefully curated around context - What time of day are you listening? What's your mood? What activity are you participating in? - and then plays music based on that context. And I hope that Google will integrate this context directly into their own streaming music app.  
 

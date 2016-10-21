@@ -1,7 +1,10 @@
----
-Date: 2016-04-17T15:29:03+00:00
-Title: Getting Started with Android
----
++++
+Date = "2016-04-17T15:29:03+00:00"
+Title = "Getting Started with Android"
+author = "alan"
+description = "Here's a description."
++++
+
 Among my friends, I'm often the looked on as the "Android Guy." I've been using Android devices longer than almost all of my friends. I've used both iOS and Android devices, and have a pretty good understanding of the benefits and difficulties with each. I'm often asked for assistance in making the transition from iOS to Android.
 
 A few years ago, I wrote up some [recommended Android apps]({{< relref "post/androidapps.md" >}}) for a friend. Most of those apps are still highly recommended, but a few are out of date, better alternatives exist, or the functionality has been incorporated into Android, itself.

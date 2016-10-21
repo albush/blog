@@ -1,8 +1,9 @@
----
-Author: Alan Bush
-Date: 2015-09-13
-Title: Hangout Setup
----
++++
+Author = "Alan Bush"
+Date = "2015-09-13"
+Title = "Hangout Setup"
+
++++
 
 I've been hosting and participating in additional hangouts lately. It's something I really enjoy, and I love that my job not just lets me, but encourages me to participate in them. I was recently asked to share the tools I use to produce the hangouts, so I thought I'd enumerate them here.
 

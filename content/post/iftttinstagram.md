@@ -1,7 +1,8 @@
----
-Date: 2014-11-28
-Title: Instant Instagram Gratification
----
++++
+Date = "2014-11-28"
+Title = "Instant Instagram Gratification"
+
++++
 
 I want instant gratification. Especially on Twitter. It's 140 characters short. Give me the info, and let me look at the next tweet. So when I see a tweet linking to Instagram, sometimes I don't follow the link. I don't want to wait an extra few seconds to open a new tab, wait for Instagram to load, look at the picture, then head back to Twitter. Especially on a mobile device. Especially because I don't actually use Instagram and can't find this content anywhere else. 
 

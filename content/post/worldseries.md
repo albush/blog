@@ -1,7 +1,8 @@
----
-Date: 2014-10-21
-Title: World Series
----
++++
+Date = "2014-10-21"
+Title = "World Series"
+
++++
 
 I was five years old when the Royals were last in the World Series. This year, they're back again. Unlike other teams shutout from the World Series, the Royals haven't even been to the postseason in 29 years. The won the title in 1985, and then went into a three decade slide. Some of us remained fans, others jumped to other teams and other sports - KC's MLS franchise, Sporting KC, has won the only championship since the Royals won the World Series in '85. I stayed loyal as a way to keep connected to my friends and family in KC after I moved away. 
 

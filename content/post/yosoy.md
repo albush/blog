@@ -1,8 +1,9 @@
----
-title: "Beer review: Yo Soy Un Berliner"
-date: 2016-07-20T12:32:49-05:00
-draft: true
----
++++
+date = "2016-07-20T12:32:49-05:00"
+draft = true
+title = "Beer review: Yo Soy Un Berliner"
+
++++
 
 [Originally published in San Antonio Flavor](http://www.saflavor.com/freetails-yo-soy-un-berliner-san-antonio-beers/ "Permalink to Freetail's Yo Soy Ün Berliner: San Antonio Beers")
 

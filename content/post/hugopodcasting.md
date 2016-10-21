@@ -1,9 +1,10 @@
----
-Author: Alan Bush
-Date: 2015-10-01
-Title: Podcast Hosting
-draft: true
----
++++
+Author = "Alan Bush"
+Date = "2015-10-01"
+Title = "Podcast Hosting"
+draft = true
+
++++
 
 ## Intro
 

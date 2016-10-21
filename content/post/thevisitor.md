@@ -1,8 +1,9 @@
----
-date: 2016-09-10T14:50:29-05:00
-title: "Branchline Brewing's The Visitor: San Antonio Beers"
-draft: true
----
++++
+date = "2016-09-10T14:50:29-05:00"
+draft = true
+title = "Branchline Brewing's The Visitor: San Antonio Beers"
+
++++
 
 [Originally published in San Antonio Flavor](http://www.saflavor.com/branchline-brewings-visitor-san-antonio-beers/ "Permalink to Branchline Brewing's The Visitor: San Antonio Beers")
 

@@ -1,9 +1,10 @@
----
-Title: 404 Page Not Stached
-Slug: 404
-Status: hidden
-save_as: 404error.html
----
++++
+Slug = 404
+Status = "hidden"
+Title = "404 Page Not Stached"
+save_as = "404error.html"
+
++++
 
 ## Whoops!
 

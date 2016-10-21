@@ -1,7 +1,10 @@
----
-Date: 2015-02-04
-Title: The problem with reply all
----
++++
+Date = "2015-02-04"
+Title = "The problem with reply all"
+images = [
+  "http://drops.albush.com/whatifbcc.jpg"
+]
++++
 
 <img class="img-responsive" src="http://drops.albush.com/whatifbcc.jpg">
 

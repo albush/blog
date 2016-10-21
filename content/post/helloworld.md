@@ -1,7 +1,8 @@
----
-Date: 2014-06-02
-Title: Hello World
----
++++
+Date = "2014-06-02"
+Title = "Hello World"
+
++++
 
 ### The part where I welcome you to version X.Y of my blog. 
 

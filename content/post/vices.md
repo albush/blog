@@ -1,7 +1,8 @@
----
-Date: 2014-08-16
-Title: Vices CD Release Party
----
++++
+Date = "2014-08-16"
+Title = "Vices CD Release Party"
+
++++
 
 <img class="img-responsive" src="//drops.albush.com/danny.jpg">
 

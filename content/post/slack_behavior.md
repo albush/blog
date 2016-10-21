@@ -1,8 +1,10 @@
----
-Date: 2016-08-03T08:55:24-05:00
-Title: Slack is the amplifier, not the problem
-slug: "ditch-your-behavior-not-your-slack-channel"
----
++++
+Date = "2016-08-03T08:55:24-05:00"
+Title = "Slack is the amplifier, not the problem"
+slug = "ditch-your-behavior-not-your-slack-channel"
+
++++
+
 Some thoughts in response to [a great bit of discussion popping up around Slack](https://www.facebook.com/kr8tr/posts/10157718444703125), some of the annoyances of the platform, and whether or not Slack is delivering on its promise to "be less busy." In his post on Facebook, Rob has a valid point. Slack _can_ help you be more productive, but people can make it less so. More specifically, a lack of purpose and direction allows user behavior to wreck the user experience, leading to lower adoption rates, and an inadequate collaboration experience.
 
 My career has focused on customer success and onboarding - including many years implementing collaboration platforms. This is a topic I've put a lot of thought and effort into. I've been a part of implementations that worked, and ones that didn't. I can tell you that without clearly defined purpose, clearly defined behavioral expectations, and smart environmental decisions, it is difficult if not impossible to successfully roll out new collaboration tools, and realize the benefits of those tools.

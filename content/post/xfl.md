@@ -1,7 +1,8 @@
----
-Date: 2014-08-16
-Title: Making Assumptions about my Fellow Passengers
----
++++
+Date = "2014-08-16"
+Title = "Making Assumptions about my Fellow Passengers"
+
++++
 
 <img class="img-responsive" src="//drops.albush.com/XFL_Logo.svg">
 

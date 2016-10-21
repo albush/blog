@@ -1,7 +1,8 @@
----
-Date: 2014-08-20
-Title: Becoming a Community Manager
----
++++
+Date = "2014-08-20"
+Title = "Becoming a Community Manager"
+
++++
 
 Next week I transition to my second job at Rackspace, a Technical Community Manager. I'm very excited, since this role will allow me to spend more of my time extending one-to-many support. I think that my strengths lie in expanding individual support interactions for broader consumption. 
 

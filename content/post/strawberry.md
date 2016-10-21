@@ -1,8 +1,9 @@
----
-title: "Beer review: Ranger Creek Strawberry Milk Stout"
-date: 2016-07-10T12:32:49-05:00
-draft: true
----
++++
+date = "2016-07-10T12:32:49-05:00"
+draft = true
+title = "Beer review: Ranger Creek Strawberry Milk Stout"
+
++++
 
 [Originally published in San Antonio Flavor](http://www.saflavor.com/ranger-creek-strawberry-milk-stout-san-antonio-beers/ "Permalink to Freetail's Yo Soy Ün Berliner: San Antonio Beers")
 

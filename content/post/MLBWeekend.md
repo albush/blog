@@ -1,7 +1,8 @@
----
-Date: 2016-03-07
-Title: What to do in San Antonio
----
++++
+Date = "2016-03-07"
+Title = "What to do in San Antonio"
+
++++
 
 I'm looking forward to the upcoming [Big League Weekend](http://www.bigleagueweekend.com/), San Antonio's only chance to see Major League Baseball played in our town. It'll be interesting to see how they convert the Alamodome to a baseball stadium, and the Fan Fest looks like it'll be a lot of fun.
 

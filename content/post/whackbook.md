@@ -1,7 +1,8 @@
----
-Date: 2016-02-28
-Title: Making a Whackbook
----
++++
+Date = "2016-02-28"
+Title = "Making a Whackbook"
+
++++
 
 I've had my old, white, cracked placstic MacBook 4,1 (Mid 2008) since mid 2008. It's been a great little machine for me, but it's way past its prime. It's no longer able to run the latest version of OS X, and the latest applciations aren't remotely capable of running on Snow Leopard, or whatever version of OS X that the hardware is capable of handling. Speaking of hardware, I maxed out the RAM, upgraded the HDD, and replaced the battery; this little laptop has some life in it, yet.
 
