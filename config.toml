@@ -34,10 +34,10 @@ copyright = "© 2015 Alan Bush"
   logo      = "http://drops.albush.com/ab3head.svg"
   phone     = "+1 210-704-7319"
   copyright = "albush All rights reserved."
-  twitter   = "https://twitter.com/alanbush"
-  github    = "https://github.com/albush/"
+  # twitter   = "https://twitter.com/alanbush"
+  # github    = "https://github.com/albush/"
   email     = "al@albush.com"
-  linkedin  = "http://www.linkedin.com/in/adbush"
+  # linkedin  = "http://www.linkedin.com/in/adbush"
   description = "Mustachioed Cloud Technology Mentor by day; Daddy, Husband and Improvisor by night." # optional
   analytics = "UA-15275173-7"
     [params.social]
@@ -46,26 +46,26 @@ copyright = "© 2015 Alan Bush"
       facebook_admin  = "1554398007"  # This needs to be a page admin to get domain insights
       twitter     = "alanbush"
       twitter_domain  = "albush.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-      googleplus      = "AlanBush"
+      googleplus      = "+AlanBush"
       instagram       = "youcancallmealbush"
       # youtube     = "nozzleio"
       linkedin        = "adbush"
     [params.authors]
       [params.authors.alan]
-      name          = "John Connor"
+      name          = "Alan Bush"
       thumbnail     = "http://2.gravatar.com/avatar/4b434a5f9b17613e7eae559726e31b99"
       images        = [
                       "http://drops.albush.com/bush_alan_04_small.jpg",
                     ]
       bio           = "Alan Bush is a Community Manager at Rackspace by day, a husband, daddy and comedian by night. Alan likes beer, coffee, puns and the Kansas City Royals. He dislikes writing about himself in the third person."
       email         = "al@albush.com"
-        [params.authors.John.social]
+        [params.authors.Alan.social]
         github      = "albush"
         facebook        = "alan.bush"
         facebook_admin  = "1554398007"  # This needs to be a page admin to get domain insights
         twitter     = "alanbush"
         twitter_domain  = "albush.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-        googleplus      = "AlanBush"
+        googleplus      = "+AlanBush"
         instagram       = "youcancallmealbush"
         linkedin        = "adbush"
 

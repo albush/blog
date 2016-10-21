@@ -2,10 +2,11 @@
 	<footer role="contentinfo">
 		<div class="hr"></div>
 		<div class="footer-link">
-			{{ with .Site.Params.email }}<a href="mailto:{{ . }}" target="_blank">Email</a></span>{{ end }}
-			{{ with .Site.Params.twitter }}<a href="{{ . }}" target="_blank">Twitter</a></span>{{ end }}
-			{{ with .Site.Params.linkedin }}<a href="{{ . }}" target="_blank">Linkedin</a></span>{{ end }}
-			{{ with .Site.Params.github }}<a href="{{ . }}" target="_blank">GitHub</a></span>{{ end }}
+			{{ with .Site.Params.email }}<a rel="me" href="mailto:{{ . }}" target="_blank">Email</a></span>{{ end }}
+			{{ with .Site.Params.social.twitter }}<a rel="me" href="https://twitter.com/{{ . }}" target="_blank">Twitter</a></span>{{ end }}
+			{{ with .Site.Params.social.linkedin }}<a rel="me" href="http://www.linkedin.com/in/{{ . }}" target="_blank">Linkedin</a></span>{{ end }}
+			{{ with .Site.Params.social.github }}<a rel="me" href="https://github.com/{{ . }}" target="_blank">GitHub</a></span>{{ end }}
+			{{ with .Site.Params.social.googleplus }}<a rel="me" href="https://plus.google.com/{{ . }}" target="_blank">Google</a></span>{{ end }}
 		</div>
 		<div class="copyright">Copyright &copy; {{ .Site.Params.copyright }}</div>
 	</footer>
