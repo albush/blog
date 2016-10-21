@@ -6,11 +6,11 @@ title = "Improv Your Blog"
 images = [
 "http://43310d0b49cbbc38a442-10bdc67bd7b784b5366a25d9eb4e34cd.r81.cf1.rackcdn.com/iyb.png"
 ]
-news_keywords = [ "Improv", "WordCamp", "WordCamp San Antonio", "WCSATX16"] 
+news_keywords = [ "Improv", "WordCamp", "WordCamp San Antonio", "WCSATX16"]
 
 +++
 
-Thanks for checking out my talk at WordCamp 2016. The [slides](#slides) are embedded below, along with links to the [books](#books), [shows](#books) and [classes](#classes) mentioned in the talk. I'm collecting email addresses to gauge interest in additional content around ImprovYourBlog. If you enjoyed the talk today, and want to receive additional periodic updates from me, please subscribe below.
+<a name="thanks"></a>Thanks for checking out my talk at WordCamp 2016. The [slides](#slides) are embedded below, along with links to the [books](#books), [shows](#books) and [classes](#classes) mentioned in the talk. I'm collecting email addresses to gauge interest in additional content around ImprovYourBlog. If you enjoyed the talk today, and want to receive additional periodic updates from me, please subscribe below.
 {{< mailchimp-iyb >}}
 
 <a name="slides"></a>{{% speakerdeck 7fc02986f99d4d4a80991b7d4da6e394 %}}
