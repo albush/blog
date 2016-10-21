@@ -2,7 +2,7 @@
 	<footer role="contentinfo">
 		<div class="hr"></div>
 		<div class="footer-link">
-			{{ with .Site.Params.email }}<a rel="me" href="mailto:{{ . }}" target="_blank">Email</a></span>{{ end }}
+			{{ with .Site.Params.email }}<a rel="me" class="u-email" href="mailto:{{ . }}" target="_blank">Email</a></span>{{ end }}
 			{{ with .Site.Params.social.twitter }}<a rel="me" href="https://twitter.com/{{ . }}" target="_blank">Twitter</a></span>{{ end }}
 			{{ with .Site.Params.social.linkedin }}<a rel="me" href="http://www.linkedin.com/in/{{ . }}" target="_blank">Linkedin</a></span>{{ end }}
 			{{ with .Site.Params.social.github }}<a rel="me" href="https://github.com/{{ . }}" target="_blank">GitHub</a></span>{{ end }}

@@ -1,5 +1,5 @@
 theme="hugo-zen"
-baseurl = "http://albush.com"
+BaseURL = "http://albush.com"
 languageCode = "en-us"
 title = "Alan Bush"
 MetaDataFormat = "yaml"
