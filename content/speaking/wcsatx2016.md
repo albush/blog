@@ -5,6 +5,6 @@ Title = "WordCamp San Antonio 2016"
 
 +++
 
-I'll be presenting a talk on using Improv Comedy philosophy and techniques to overcome writers block and improve content creation.
+I presented "How to Improve Your Blog with Improv Principles" at WordCamp San Antonio, 2016. What a great experience. The slides and resources are available in my blog post [Improv Your Blog](/post/improvyourblog/). Video will be here when it's available. 
 
 Date: October 22nd, 2016

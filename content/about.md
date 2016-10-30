@@ -1,9 +1,15 @@
 +++
 date = "2014-12-31"
-title = "about"
+title = "Me"
 url = "/about"
 
 +++
+
+## Looking for a business card?
+
+{{%bizcard%}}  
+
+## About Me
 
 I help connect people with the information they need to make awesome things in the cloud. I enjoy creating new teams. I'm currently building the Technical Community Manager team at Rackspace. I also was a founding member & architect of Rackspace's Cloud Launch Team.
 
