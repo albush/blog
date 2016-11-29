@@ -2,9 +2,14 @@
 title = "How to make Outlook act like Google Inbox"
 date = "2016-11-29T12:02:44-06:00"
 slug = "how-to-make-outlook-act-like-google-inbox"
+author = "Alan"
+images = [
+"http://drops.albush.com/outlook-rawquery.png"
+]
+news_keywords = [ "Google Inbox", "Microsoft Outlook", "Productivity", "GTD", "Getting things done"]
 +++
 
-Last year I shared a colleague's [method to deal with email overload]({{< relref "unbreakemail.md" >}}). I've been using it for a year, and these three simple rules have been a great help for email sanity at work. In my personal life, Google's Inbox has provided a great way for me to "snooze" email that isn't relevant until a certain date. This keeps my inbox clean, and prompts me to action at the appropriate time. I've been looking for something similar in Outlook, for my work email. Today I think I figured it out. 
+Last year I shared a colleague's [method to deal with email overload]({{< relref "unbreakemail.md" >}}). I've been using it for a year, and these three simple rules have been a great help for email sanity at work. In my personal life, Google's Inbox has provided a great way for me to "snooze" email that isn't relevant until a certain date. This keeps my inbox clean, and prompts me to action at the appropriate time. I've been looking for something similar in Outlook, for my work email. Today I think I figured it out.
 
 My hack uses Smart Folders, and the "Raw Query" feature in Outlook for Mac 2016; I'm not sure how this equates to Outlook for Windows or Outlook Web Access/Office 365[^1]. The goal is to have one smart folder "Do it now" display unread email only from my inbox (remember, I've triaged that with the 3 rules from Cody's post above so it's only the most relevant), and email I've marked for follow up with a due date of today or earlier. These are the things I need to triage, or work on right now; everything else can wait.
 
