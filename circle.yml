@@ -21,4 +21,4 @@ deployment:
   prod:
     branch: master
     commands:
-      - aws s3 sync $HOME/$CIRCLE_PROJECT_REPONAME/public s3://albush.com/ --delete
+      - aws s3 sync $HOME/$CIRCLE_PROJECT_REPONAME/public --region us-west-1 s3://albush.com/ --delete
