@@ -2,7 +2,7 @@
 title = "How to make Outlook act like Google Inbox"
 date = "2016-11-29T12:02:44-06:00"
 slug = "how-to-make-outlook-act-like-google-inbox"
-author = "Alan"
+author = "alan"
 images = [
 "http://drops.albush.com/outlook-rawquery.png"
 ]

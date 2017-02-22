@@ -11,7 +11,7 @@ url = "/about"
 
 ## About Me
 
-I help connect people with the information they need to make awesome things in the cloud. I enjoy creating new teams. I'm currently building the Technical Community Manager team at Rackspace. I also was a founding member & architect of Rackspace's Cloud Launch Team.
+I help connect people with the information they need to make awesome things in the cloud. I enjoy creating new teams. I recently helped build the Technical Community Manager team at Rackspace. I also was a founding member & architect of Rackspace's Cloud Launch Team.
 
 During my time on the Launch Team, I helped more than 100 new cloud consumers get started with cloud hosting, developed a weekly live video show - [Office Hours Hangouts][3], was one of the first 175 Rackers to become certified "Cloud Savvy," and was awarded the [Fanatical Jacket, Rackspace's highest honor][2] for outstanding customer support.
 

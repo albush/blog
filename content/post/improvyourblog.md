@@ -1,6 +1,6 @@
 +++
 Aliases = ["iyb"]
-author = "Alan"
+author = "alan"
 date = "2016-10-22T10:35:15-05:00"
 title = "Improv Your Blog"
 blah = "Hello World"

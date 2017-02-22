@@ -37,7 +37,8 @@ paginate = 6 # To specify a multiple of 3
   # github    = "https://github.com/albush/"
   email     = "al@albush.com"
   # linkedin  = "http://www.linkedin.com/in/adbush"
-  description = "Mustachioed Cloud Technology Mentor by day; Daddy, Husband and Improvisor by night." # optional
+  description = "Mustachioed [Nerd-For-Hire](http://resume.albush.com) by day; Daddy, Writer and [Improvisor](//cszsa.com) by night. Host of [Office Hours Podcast](//ohpodcast.com), and the [SATechDad Podcast](http://satechdad.com)."
+  # optional
   analytics = "UA-15275173-7"
     [params.social]
       github      = "albush"
@@ -47,7 +48,7 @@ paginate = 6 # To specify a multiple of 3
       twitter_domain  = "albush.com" # This domain shows in twitter cards as "View on `twitter_domain`"
       googleplus      = "+AlanBush"
       instagram       = "youcancallmealbush"
-      # youtube     = "nozzleio"
+      # youtube     = ""
       linkedin        = "adbush"
     [params.authors]
       [params.authors.alan]
@@ -56,7 +57,7 @@ paginate = 6 # To specify a multiple of 3
       images        = [
                       "http://drops.albush.com/bush_alan_04_small.jpg",
                     ]
-      bio           = "Alan Bush is a Community Manager at Rackspace by day, a husband, daddy and comedian by night. Alan likes beer, coffee, puns and the Kansas City Royals. He dislikes writing about himself in the third person."
+      bio           = "Alan Bush is a nerd for hire by day, and a daddy and comedian by night. Alan likes beer, coffee, puns and the Kansas City Royals. He dislikes writing about himself in the third person."
       email         = "al@albush.com"
         [params.authors.Alan.social]
         name = "Alan Bush"

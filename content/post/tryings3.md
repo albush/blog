@@ -1,5 +1,5 @@
 +++
-author = "Alan"
+author = "alan"
 date = "2017-02-11T10:35:15-05:00"
 title = "Just trying S3"
 slug = "s3test"

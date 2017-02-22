@@ -1,5 +1,5 @@
 +++
-author = "Alan"
+author = "alan"
 date = "2016-10-26T17:24:40-05:00"
 title = "Beer Review: Branchline Brewing Silver and Black"
 draft = true
