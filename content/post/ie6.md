@@ -11,7 +11,7 @@ news_keywords = [ "Customer Success", "Rackspace", "San Antonio", "Career"]
 Description = "Facebook just reconnected me with one of my first documented experiences with #BeHelpful."
 +++
 
-_Note: My "On this day" over on Facebook just reconnected me with a blog post I wrote 5 years ago, today. Let's hop into the Wayback Machine to understand why the heck I was writing about this 5 years ago._
+_Note: My "On this day" over on Facebook just reconnected me with a blog post I wrote 7 years ago, today. Let's hop into the Wayback Machine to understand why the heck I was writing about this 7 years ago._
 
 While working for a health care startup, I researched, evaluated, and eventually implemented a software as a service (SaaS) collaboration platform called Central Desktop (now [iMeet Central](http://imeetcentral.com/)) for the company. We used it to collaborate internally and externally on many different projects. Over the course of my time implementing and administering Central Desktop, I relied heavily on their community forums for troubleshooting and answering questions. I gave back to the community, by answering questions and proactively sharing new tips and tricks I had implemented. One day, the trick I wanted to share outgrew their community platform, so I created [Central Desktop Hero](https://centraldesktophero.wordpress.com/) - likely my first foray into WordPress - to give me more control over content publication. Today I learned that site is still online.
 
@@ -21,7 +21,7 @@ I'm very grateful to have found this old blog post. I know that I've been a prac
 
 As I write this, I've found myself looking for [the next step in my career path](http://albush.com/post/allgoodthings/). I'm not sure what that will be, but this has served as a great reminder that whatever I do, it will be in the service of \#BeHelpful.
 
-So here it is, a 5 year old blog post about a browser that was then 10 years old, in all of its glory.
+So here it is, a 7 year old blog post about a browser that was then 10 years old, in all of its glory.
 
 ---
 
