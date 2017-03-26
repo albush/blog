@@ -20,7 +20,7 @@ In this old post, I reacted to recent criticism of Central Desktop's 2.0 release
 I'm very grateful to have found this old blog post. I know that I've been a practitioner of the \#BeHelpful philosophy for a long time, but it's nice to have a recorded history of it in action. It's fun for me to take a look back at the journey that I've taken since then. About 3 months after I wrote this, I learned that the startup I was working for went out of business. Because of my help in the community forums and the \#BeHelpful attitude of this blog, I was asked to join Central Desktop as employee number 46 to build out an implementation program for their award winning customer success program. I took that experience and moved to Rackspace to build out their proactive customer success program - and then eventually moved into a new role building the technical community at Rackspace - back to the forums. Everything came full-circle. All because I chose to \#BeHelpful.
 
 As I write this, I've found myself looking for [the next step in my career path](http://albush.com/post/allgoodthings/). I'm not sure what that will be, but this has served as a great reminder that whatever I do, it will be in the service of \#BeHelpful.
-
+  
 So here it is, a 7 year old blog post about a browser that was then 10 years old, in all of its glory.
 
 ---
