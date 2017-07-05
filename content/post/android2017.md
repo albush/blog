@@ -11,7 +11,8 @@ Among my friends, I'm often the looked on as the "Android Guy." I've been using 
 
 A few years ago, I wrote up some [recommended Android apps]({{< relref "post/androidapps.md" >}}) for a friend (and a few [updates](http://albush.com/post/android2016/) along the way). Most of those apps are still highly recommended, but a few are out of date, better alternatives exist, or the functionality has been incorporated into Android, itself.
 
-### All of the Google Apps. Most of them aren't the default on a Samsung device, and it's well worth it to either install them or set them up as your default.
+### All of the Google Apps.
+Most of them aren't the default on a Samsung device, and it's well worth it to either install them or set them up as your default.
 
 * [Google Now Launcher][1] - provides the default Google Android Experience - No Samsung/HTC crap interface.
 * [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) - This is the best way to manage your photos. Automatic backup, exceptional search capabilities.
@@ -21,19 +22,38 @@ A few years ago, I wrote up some [recommended Android apps]({{< relref "post/and
 * [Google Play Music][5] - Now with Songza integration. Great way to pick out music for whatever you're doing.
 * [Chrome Browser][6] - Don't use the default browser. Just don't.
 
-### Misc
+### Communication Apps
+If you don't have a Nexus/Pixel, you're likely using the manufacturer's messaging app. And it's likely not great. Besides, texting is so 2009; use one of these messaging apps - that can often also do SMS.
 
-* [Authy 2-Factor Authentication][8]
+* [Facebook Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en) - Yeah. I said it. It's a great messaging app, it does video chat, and even does snapchat-like filters _live_ on the call. But it's all getting indexed by Facebook. Probably.
+* [Signal Private Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) - Keeps messages private. Only you and the recipient can read them. Also does encrypted calls and can act as your (unencrypted) SMS client.
+* [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp&hl=en)
+* [Duo Video Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon&hl=en) - It's like Facetime, except this one's cross-platform. It's crazy easy to use, even for the less technically inclined members of your family.
+
+
+### Security
+
+* [Authy 2-Factor Authentication][8] - Enabling 2-Factor auth is one of the fastest ways to secure your online accounts. Authy makes that process even easier. It's literally the first app I install on a new device.
+* [LastPass][13] - Keeps all of your passwords safe. Will copy/paste your passwords into new apps. Huge time saver.
+* [PIA VPN](https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en) - You can choose any number of VPN apps, but I've been using [PIA](https://www.privateinternetaccess.com/) for a few years and it's been everything I've needed. Be sure to turn on your VPN every time you're connected to public WiFi - at Starbucks, the hotel, etc.
+
+
+### Daily Life Apps
+
 * [PocketCasts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts) - Definitely the best podcast app out there. Very well designed. Can sync across devices.
 * [Life Time Alarm Clock][12] - A great alarm clock app. Easy to use, and works well.
-* [LastPass][13] - Keeps all of your passwords safe. Will copy/paste your passwords into new apps. Huge time saver.
 * [Android Auto][7] - Turns your phone into a dashboard while you drive. A great way to turn your phone into a dashboard for controlling audio, calls, and navigation all from a simplified, driver-friendly interface. And all with Google's additional contextual awareness.
+* [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&hl=en) - If you have little ones, and want them to have their own Android devices, you can use Google Family Link to set content guidelines, set usage limits, and approve app installs.
 
 ### Work
 
 * [Nine][15] - Exchange/Active Sync client. Holy crap, this is a great app. Easily worth the $10 price tag.
+* [Slack](https://play.google.com/store/apps/details?id=com.Slack&hl=en) - It's pretty much the same as the app on your desktop. You can configure the app to wait two minutes before alerting you on the phone if your desktop app is active. That'll save you from over-notification.
 
-### Fun/Distraction/Just Plain Dumb Apps
+### Fun & Games
+
+* [Star Wars: Knights of the Old Republic (KOTOR)](https://play.google.com/store/apps/details?id=com.aspyr.swkotor&hl=en) - Yep. KOTOR. On your phone/tablet. It's pretty great.
+* [Google Earth - Just got an upgrade, and now it's even better than ever.](https://play.google.com/store/apps/details?id=com.google.earth&hl=en)
 
 
 
