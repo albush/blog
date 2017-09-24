@@ -4,7 +4,7 @@ Title = "Easy Filesharing with Dropzone3 and Rackspace Cloud Files"
 
 +++
 
-<img class="img-responsive" src="//drops.albush.com/andtherewasmuchrejoicing.gif">
+<img class="img-responsive" src="http://drops.albush.com/andtherewasmuchrejoicing.gif">
 
 From time to time I need to quickly share an image or file with a colleague, a friend or client, and that's usually something I would do on a one-off basis by emailing, or uploading to Dropbox or something. This is a pretty easy workflow, but it could probably be easier, right? That's where [Alex Chiri][1] and his [Dropzone][2] action come in.
 

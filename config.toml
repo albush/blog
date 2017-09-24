@@ -30,7 +30,7 @@ paginate = 6 # To specify a multiple of 3
   email = "al@albush.com"
 
 [params]
-  logo      = "//drops.albush.com/ab3head.svg"
+  logo      = "/images/ab3head.svg"
   phone     = "+1 210-704-7319"
   copyright = "albush"
   # twitter   = "https://twitter.com/alanbush"
@@ -55,7 +55,7 @@ paginate = 6 # To specify a multiple of 3
       name          = "Alan Bush"
       thumbnail     = "//2.gravatar.com/avatar/4b434a5f9b17613e7eae559726e31b99"
       images        = [
-                      "//drops.albush.com/bush_alan_04_small.jpg",
+                      "http://drops.albush.com/bush_alan_04_small.jpg",
                     ]
       bio           = "Alan Bush is a nerd for hire by day, and a daddy and comedian by night. Alan likes beer, coffee, puns and the Kansas City Royals. He dislikes writing about himself in the third person."
       email         = "al@albush.com"

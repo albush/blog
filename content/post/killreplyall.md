@@ -2,11 +2,11 @@
 Date = "2015-02-04"
 Title = "The problem with reply all"
 images = [
-  "//drops.albush.com/whatifbcc.jpg"
+  "http://drops.albush.com/whatifbcc.jpg"
 ]
 +++
 
-<img class="img-responsive" src="//drops.albush.com/whatifbcc.jpg">
+<img class="img-responsive" src="http://drops.albush.com/whatifbcc.jpg">
 
 Here's the problem with email: You can't opt in and you can't opt out. Once someone decides that you need to be included in an email conversation, you're in until someone else (lots of someones, usually) decide to remove you from the thread. Until then, you're stuck getting every single reply, even those that provide absolutely no benefit to anyone - "+Bob from accounting;" "Let me get back to you on that;" "Congrats!"
 

@@ -4,7 +4,7 @@ Title = "Making Assumptions about my Fellow Passengers"
 
 +++
 
-<img class="img-responsive" src="//drops.albush.com/XFL_Logo.svg">
+<img class="img-responsive" src="http://drops.albush.com/XFL_Logo.svg">
 
 _Editorial Note: I wrote this in June of 2012, while waiting on a delayed flight in the Phoenix airport. I wish I had written more of these._
 

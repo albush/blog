@@ -7,7 +7,7 @@ Title = "Hangout Setup"
 
 I've been hosting and participating in additional hangouts lately. It's something I really enjoy, and I love that my job not just lets me, but encourages me to participate in them. I was recently asked to share the tools I use to produce the hangouts, so I thought I'd enumerate them here.
 
-{{% img src="//drops.albush.com/hangout_setup.jpg" caption="Getting ready for a recent #CMGRHangout, most of my equipment on display." %}}
+{{% img src="http://drops.albush.com/hangout_setup.jpg" caption="Getting ready for a recent #CMGRHangout, most of my equipment on display." %}}
 
 ## Audio
 

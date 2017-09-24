@@ -8,7 +8,7 @@ save_as = "404error.html"
 
 ## Whoops!
 
-<img class="img-responsive" src="//drops.albush.com/404-beardnotfound.jpg">
+<img class="img-responsive" src="http://drops.albush.com/404-beardnotfound.jpg">
 
 The page you're looking for isn't 'stached here.
 *(see what I did there?)*

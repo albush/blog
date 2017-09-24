@@ -6,7 +6,7 @@ Title = "Billy Butler Stole a Base"
 
 <div class="video-container">
 <video controls loop>
-  <source src="//drops.albush.com/billystealssecond.mov" type="video/mp4">
+  <source src="http://drops.albush.com/billystealssecond.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </div>
