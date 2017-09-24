@@ -12,7 +12,7 @@ Since I have once again been delayed on my flight, I thought I would pass the ti
 
 First up: The middle aged man in the [XFL][1] tshirt.
 
-   [1]: http://en.wikipedia.org/wiki/XFL
+   [1]: //en.wikipedia.org/wiki/XFL
 
 I can only assume that this passenger discovered time travel sometime in early 2001. Wanting to make sure he fit in with people from our when, he donned what he could only assume would be the most celebrated sport in America.
 

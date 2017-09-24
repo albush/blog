@@ -9,7 +9,7 @@ Title = "Vices CD Release Party"
 Last night my wife and I attended the CD release party for our friend Danny Gibbons who performs as [Our Sleeping Giant][1]. We had a fun time with great people, listened to some good music, and got to celebrate Danny's achievement.
 
 
-[1]: http://oursleepinggiant.bandcamp.com/
+[1]: //oursleepinggiant.bandcamp.com/
 
 The show was at The 1011 in San Antonio. It's a great little dive bar that specializes in live music and beer - and they do both well. They're also Spurs fans, so things like this aren't much of a surprise:
 
@@ -22,9 +22,9 @@ Danny launched this album via a [Kickstarter campaign][2], and my wife and I bac
 
 [2]: https://www.kickstarter.com/projects/533046996/recording-new-our-sleeping-giant-ep-sonic-ranch
 
-<a href="http://oursleepinggiant.bandcamp.com/album/vices"><img class="img-responsive" src="//drops.albush.com/osgcover.jpg"></a>
+<a href="//oursleepinggiant.bandcamp.com/album/vices"><img class="img-responsive" src="//drops.albush.com/osgcover.jpg"></a>
 
 You can buy Danny's album "Vices" at [Bandcamp][3].
 
 
-[3]: http://oursleepinggiant.bandcamp.com/album/vices
+[3]: //oursleepinggiant.bandcamp.com/album/vices

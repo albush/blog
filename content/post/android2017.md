@@ -9,7 +9,7 @@ _Updated for 2017_
 
 Among my friends, I'm often the looked on as the "Android Guy." I've been using Android devices longer than almost all of my friends. I've used both iOS and Android devices, and have a pretty good understanding of the benefits and difficulties with each. I'm often asked for assistance in making the transition from iOS to Android.
 
-A few years ago, I wrote up some [recommended Android apps]({{< relref "post/androidapps.md" >}}) for a friend (and a few [updates](http://albush.com/post/android2016/) along the way). Most of those apps are still highly recommended, but a few are out of date, better alternatives exist, or the functionality has been incorporated into Android, itself.
+A few years ago, I wrote up some [recommended Android apps]({{< relref "post/androidapps.md" >}}) for a friend (and a few [updates](//albush.com/post/android2016/) along the way). Most of those apps are still highly recommended, but a few are out of date, better alternatives exist, or the functionality has been incorporated into Android, itself.
 
 ### All of the Google Apps.
 Most of them aren't the default on a Samsung device, and it's well worth it to either install them or set them up as your default.

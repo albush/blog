@@ -17,8 +17,8 @@ Marshall has always loved baseball. He gets home from school, and asks to go rig
    <source src="//drops.albush.com/marshallBP2.webm" type="video/webm">
 </video>
 
-The kid can hit. Especially off of a tee. He's pretty good when we pitch to him, but he _really_ likes to swing the bat. His plate discipline reminds me of Royals catcher [Salvador Perez](http://www.fangraphs.com/blogs/theres-nothing-salvador-perez-wont-swing-at/), who has a cannon for an arm, lots of power, but sometimes looks like he might be a better cricket than baseball player.
+The kid can hit. Especially off of a tee. He's pretty good when we pitch to him, but he _really_ likes to swing the bat. His plate discipline reminds me of Royals catcher [Salvador Perez](//www.fangraphs.com/blogs/theres-nothing-salvador-perez-wont-swing-at/), who has a cannon for an arm, lots of power, but sometimes looks like he might be a better cricket than baseball player.
 
-<img class="img-responsive" src="http://cdn.fangraphs.com/blogs/wp-content/uploads/2014/10/perez-foul.gif">
+<img class="img-responsive" src="//cdn.fangraphs.com/blogs/wp-content/uploads/2014/10/perez-foul.gif">
 
 I don't think I can quite retire, yet, but I'm sure we'll be back for more fun at the batting cages soon - we just had too much fun.

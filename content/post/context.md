@@ -29,4 +29,4 @@ Four of those options are pretty good guesses for any old Wednesday afternoon - 
 I think that Songza is perfect for Google, and Google is perfect for Songza. I'm looking forward to seeing how this merger changes everything.
 
 
-[1]: http://songza.com/ 
+[1]: //songza.com/ 

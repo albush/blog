@@ -5,7 +5,7 @@ date = "2016-10-22T10:35:15-05:00"
 title = "Improv Your Blog"
 blah = "Hello World"
 images = [
-"http://43310d0b49cbbc38a442-10bdc67bd7b784b5366a25d9eb4e34cd.r81.cf1.rackcdn.com/iyb.png"
+"//43310d0b49cbbc38a442-10bdc67bd7b784b5366a25d9eb4e34cd.r81.cf1.rackcdn.com/iyb.png"
 ]
 news_keywords = [ "Improv", "WordCamp", "WordCamp San Antonio", "WCSATX16"]
 

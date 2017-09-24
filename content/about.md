@@ -17,8 +17,8 @@ During my time on the Launch Team, I helped more than 100 new cloud consumers ge
 
 <img alt="fanatical jacket winner" src="//drops.albush.com/fanjackettrans.png">
 
-Before Rackspace, I helped create the [Stevie Award winning](http://www.centraldesktop.com/press-releases?id=68) onboarding program for cloud collaboration suite Central Desktop, where I worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When I'm not helping customers learn how to build awesome things in the cloud, I can be found performing improv comedy with [ComedySportz San Antonio][1], or dreaming up new styles for my award-winning mustache.
+Before Rackspace, I helped create the [Stevie Award winning](//www.centraldesktop.com/press-releases?id=68) onboarding program for cloud collaboration suite Central Desktop, where I worked directly with companies and organizations like MLB.com, Sesame Workshop, and IEEE. When I'm not helping customers learn how to build awesome things in the cloud, I can be found performing improv comedy with [ComedySportz San Antonio][1], or dreaming up new styles for my award-winning mustache.
 
-[1]: http://cszsa.com/
+[1]: //cszsa.com/
 [2]: https://www.youtube.com/watch?v=iOxGVJ3Zv94
 [3]: https://community.rackspace.com/p/officehours

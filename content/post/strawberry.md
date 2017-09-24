@@ -5,7 +5,7 @@ title = "Beer review: Ranger Creek Strawberry Milk Stout"
 
 +++
 
-[Originally published in San Antonio Flavor](http://www.saflavor.com/ranger-creek-strawberry-milk-stout-san-antonio-beers/ "Permalink to Freetail's Yo Soy Ün Berliner: San Antonio Beers")
+[Originally published in San Antonio Flavor](//www.saflavor.com/ranger-creek-strawberry-milk-stout-san-antonio-beers/ "Permalink to Freetail's Yo Soy Ün Berliner: San Antonio Beers")
 
 The only thing I like better than a good beer is a good local beer. San Antonio has several great breweries, from long-established brewpubs like Freetail and Blue Star, to breweries like Branchline, Busted Sandal and [Ranger Creek][1]. I hope to write these—and many more—in this new column for SA Flavor. But to get started, I grabbed a four-pack of the Ranger Creek Strawberry Milk Stout.
 
@@ -23,5 +23,5 @@ While Ranger Creek describes their beer as "a stout for spring time," I think I 
 
 All told, I'm now a fan of the Ranger Creek Strawberry Milk Stout. It's unique. It's local. It's great for dessert. I highly recommend pulling the beer from the fridge up to half an hour before you're ready to drink it, enabling the beer to become much more fragrant and interesting as it warms.
 
-[1]: http://www.drinkrangercreek.com/
-[2]: http://saflavor.wpengine.com/wp-content/uploads/2016/07/Ranger-Creek-Strawberry-Milk-Stout-2-640x480.jpg
+[1]: //www.drinkrangercreek.com/
+[2]: //saflavor.wpengine.com/wp-content/uploads/2016/07/Ranger-Creek-Strawberry-Milk-Stout-2-640x480.jpg

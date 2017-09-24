@@ -5,7 +5,7 @@ title = "Beer review: Yo Soy Un Berliner"
 
 +++
 
-[Originally published in San Antonio Flavor](http://www.saflavor.com/freetails-yo-soy-un-berliner-san-antonio-beers/ "Permalink to Freetail's Yo Soy Ün Berliner: San Antonio Beers")
+[Originally published in San Antonio Flavor](//www.saflavor.com/freetails-yo-soy-un-berliner-san-antonio-beers/ "Permalink to Freetail's Yo Soy Ün Berliner: San Antonio Beers")
 
 It was six o'clock on a Sunday and still almost 100 degrees out. Thanks to the city of San Antonio's bulky item trash collection day—and only one very gentle, not at all nagging reminder from my wife—my two car garage could once again contain two cars. I was hot. I was tired. I was ready for a tasty beverage. So I opened my beer fridge in the garage and pulled out a Yo Soy Ün Berliner from [Freetail Brewing Co][1]. This Berliner Weisse was the perfect beer to quench my thirst.
 
@@ -23,5 +23,5 @@ This is a great, local, summer beer, perfect for drinking after yard work, at a 
 
 
 [1]: https://freetailbrewing.com
-[2]: http://www.nytimes.com/2015/12/15/business/craft-brewers-face-competition-for-beer-cans.html?_r=0
-[3]: http://saflavor.wpengine.com/wp-content/uploads/2016/07/Freetail-Yo-Soy-Un-Berliner-San-Antonio-Beer-640x426.jpg
+[2]: //www.nytimes.com/2015/12/15/business/craft-brewers-face-competition-for-beer-cans.html?_r=0
+[3]: //saflavor.wpengine.com/wp-content/uploads/2016/07/Freetail-Yo-Soy-Un-Berliner-San-Antonio-Beer-640x426.jpg

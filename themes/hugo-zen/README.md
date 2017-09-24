@@ -15,7 +15,7 @@ Clone this repository to your hugo theme directory.
 
 In this theme you can add variables to your site config file. The following is the example config:
 
-	baseurl = "http://rakuishi.com/"
+	baseurl = "//rakuishi.com/"
 	languageCode = "ja"
 	title = "rakuishi.com"
 	author = "rakuishi"

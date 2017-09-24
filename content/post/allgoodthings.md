@@ -19,13 +19,13 @@ But while I understand the rationale, and support their decision in the abstract
 
 In the four and a half years since I started with Rackspace, the tech community in San Antonio has blown up. Dozens of startups have been founded - many through Geekdom and other coworking spaces which barely existed when I moved here five years ago. The opportunities to launch the next phase of my career are so much greater than they were only a few years ago. I'm extremely optimistic about the future.
 
-While I'm working toward that next step in my career, I'm also taking a little time to work on projects that are important to me, and which align with my skillset. I'm working with [ComedySportz San Antonio](http://cszsa.com) to implement better website analytics, and to introduce a more targeted social media strategy. I'm collaborating with other content creators to launch new podcasts, and share our knowledge and thoughts to a wider audience. One thing that will not change is my "#BeHelpful" attitude.
+While I'm working toward that next step in my career, I'm also taking a little time to work on projects that are important to me, and which align with my skillset. I'm working with [ComedySportz San Antonio](//cszsa.com) to implement better website analytics, and to introduce a more targeted social media strategy. I'm collaborating with other content creators to launch new podcasts, and share our knowledge and thoughts to a wider audience. One thing that will not change is my "#BeHelpful" attitude.
 
 \#BeHelpful was our motto on the Social and Community Teams at Rackspace. It was a guidng principle. "Is what I'm doing helpful?" We might not always have the answer that a customer/collaborator/friend needs, but we can help get them to that answer.
 
 I'll take so much with me from Rackspace: Friendships, knowledge, skills; but the most important thing I'll always have with me is the resolution to always \#BeHelpful.
 
-Anyway, if you're looking for someone to help build a culture of helpfulness and customer success, hit me up. My resume is over here at [resume.albush.com](http://resume.albush.com).
+Anyway, if you're looking for someone to help build a culture of helpfulness and customer success, hit me up. My resume is over here at [resume.albush.com](//resume.albush.com).
 
 
 

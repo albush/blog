@@ -3,7 +3,7 @@ hugoThemes
 
 All Themes Hugo
 
-See a complete listing of all of these themes along with screenshots and demos at http://themes.gohugo.io (coming soon).
+See a complete listing of all of these themes along with screenshots and demos at //themes.gohugo.io (coming soon).
 
 Every theme in this list will automatically be added to the theme site.
 
@@ -45,21 +45,21 @@ The following fields are required
 
     name = "Hyde"
     license = "MIT"
-    licenselink = "http://github.com/spf13/hugo/.."
+    licenselink = "//github.com/spf13/hugo/.."
     description = "An elegant open source and mobile first theme"
-    homepage = "http://siteforthistheme.com"
+    homepage = "//siteforthistheme.com"
     tags = ["blog", "company"]
     features = ["blog", ]
     
     [author]
         name = "spf13"
-        homepage = "http://spf13.com"
+        homepage = "//spf13.com"
     
     # If Porting existing theme
     [original]
         author =  "mdo"
-        homepage = "http://andhyde.com"
-        repo = "http://www.github.com/mdo/hyde"
+        homepage = "//andhyde.com"
+        repo = "//www.github.com/mdo/hyde"
 
 
 ## Media

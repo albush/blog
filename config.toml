@@ -1,5 +1,5 @@
 theme="hugo-zen"
-BaseURL = "http://albush.com"
+BaseURL = "//albush.com"
 languageCode = "en-us"
 title = "Alan Bush"
 MetaDataFormat = "yaml"
@@ -30,14 +30,14 @@ paginate = 6 # To specify a multiple of 3
   email = "al@albush.com"
 
 [params]
-  logo      = "http://drops.albush.com/ab3head.svg"
+  logo      = "//drops.albush.com/ab3head.svg"
   phone     = "+1 210-704-7319"
   copyright = "albush"
   # twitter   = "https://twitter.com/alanbush"
   # github    = "https://github.com/albush/"
   email     = "al@albush.com"
-  # linkedin  = "http://www.linkedin.com/in/adbush"
-  description = "Mustachioed [Nerd-For-Hire](http://resume.albush.com) by day; Daddy, Writer and [Improvisor](//cszsa.com) by night. Host of [Office Hours Podcast](//ohpodcast.com), and the [SATechDad Podcast](http://satechdad.com)."
+  # linkedin  = "//www.linkedin.com/in/adbush"
+  description = "Mustachioed [Nerd-For-Hire](//resume.albush.com) by day; Daddy, Writer and [Improvisor](//cszsa.com) by night. Host of [Office Hours Podcast](//ohpodcast.com), and the [SATechDad Podcast](//satechdad.com)."
   # optional
   analytics = "UA-15275173-7"
     [params.social]
@@ -53,9 +53,9 @@ paginate = 6 # To specify a multiple of 3
     [params.authors]
       [params.authors.alan]
       name          = "Alan Bush"
-      thumbnail     = "http://2.gravatar.com/avatar/4b434a5f9b17613e7eae559726e31b99"
+      thumbnail     = "//2.gravatar.com/avatar/4b434a5f9b17613e7eae559726e31b99"
       images        = [
-                      "http://drops.albush.com/bush_alan_04_small.jpg",
+                      "//drops.albush.com/bush_alan_04_small.jpg",
                     ]
       bio           = "Alan Bush is a nerd for hire by day, and a daddy and comedian by night. Alan likes beer, coffee, puns and the Kansas City Royals. He dislikes writing about himself in the third person."
       email         = "al@albush.com"

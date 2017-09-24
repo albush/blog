@@ -5,7 +5,7 @@ title = "Branchline Brewing's The Visitor: San Antonio Beers"
 
 +++
 
-[Originally published in San Antonio Flavor](http://www.saflavor.com/branchline-brewings-visitor-san-antonio-beers/ "Permalink to Branchline Brewing's The Visitor: San Antonio Beers")
+[Originally published in San Antonio Flavor](//www.saflavor.com/branchline-brewings-visitor-san-antonio-beers/ "Permalink to Branchline Brewing's The Visitor: San Antonio Beers")
 
 My whistle-stop tour of San Antonio beers pulled into [Branchline Brewing][1] this week, to try The Visitor, their new West Coast style IPA. Branchline is one of the newer breweries in the area, but in only four years, they have managed to build a respectable business with great beers on bar taps and store shelves around town. And as of August 20, their taproom is open from 2:00 to 9:00 p.m. every day!
 
@@ -17,8 +17,8 @@ A West Coast IPA doesn't just need to have big citrus flavor, it also needs a bi
 
 When I travel, I often bring a part of the region back with me. The brewers at Branchline brought the big, hoppy, citrusy IPA style back from the West Coast and made a faithful version with The Visitor. Give this beer a try if you're already a hophead, or if you're looking to take a trip to the hoppy side.
 
-[1]: http://www.branchlinebrewing.com/
-[2]: http://store.saflavor.com/?utm_source=blog&utm_medium=saflavor&utm_content=2016blogfooter&utm_campaign=storefront
-[3]: http://saflavor.us3.list-manage.com/subscribe?u=fa130b3de2bd1e9510fee23c0&id=2c091cc19f "SA Flavor Newsletter"
-[4]: http://facebook.com/saflavor "SA Flavor | Facebook"
-[5]: http://twitter.com/saflavor "SA Flavor | Twitter"
+[1]: //www.branchlinebrewing.com/
+[2]: //store.saflavor.com/?utm_source=blog&utm_medium=saflavor&utm_content=2016blogfooter&utm_campaign=storefront
+[3]: //saflavor.us3.list-manage.com/subscribe?u=fa130b3de2bd1e9510fee23c0&id=2c091cc19f "SA Flavor Newsletter"
+[4]: //facebook.com/saflavor "SA Flavor | Facebook"
+[5]: //twitter.com/saflavor "SA Flavor | Twitter"

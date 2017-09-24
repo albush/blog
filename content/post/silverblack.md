@@ -5,7 +5,7 @@ title = "Beer Review: Branchline Brewing Silver and Black"
 draft = true
 +++
 
-I promised myself I wouldn't cry. As we start our first season without Tim Duncan, I reached into my fridge to grab the tall,  slender can. It reminds me that our tall, slender power forward isn't starting this tonight. Or at all this year. It will be ok. I'll be fine; I've got a Silver and Black IPA from [Branchline Brewing](http://www.branchlinebrewing.com/).
+I promised myself I wouldn't cry. As we start our first season without Tim Duncan, I reached into my fridge to grab the tall,  slender can. It reminds me that our tall, slender power forward isn't starting this tonight. Or at all this year. It will be ok. I'll be fine; I've got a Silver and Black IPA from [Branchline Brewing](//www.branchlinebrewing.com/).
 
 Silver and black IPA is a year round tribute to the 5-time NBA Champions from San Antonio. It's a black IPA, which means Silver and Black features the hoppy bitterness that you come to expect from an IPA, but also features darker, often heavily roasted grains that give it a nice roasty flavor.
 

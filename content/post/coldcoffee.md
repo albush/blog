@@ -4,7 +4,7 @@ author = "alan"
 date = "2017-07-09T12:35:15-06:00"
 title = "Cold Brew Coffee Recipe"
 images = [
-"http://albush.com/images/coffee.jpg"
+"//albush.com/images/coffee.jpg"
 ]
 tags = ["coffee", "cold brew", "cold brew coffee recipe"]
 news_keywords = ["coffee", "cold brew", "cold brew coffee recipe"]

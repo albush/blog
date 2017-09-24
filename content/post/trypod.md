@@ -10,7 +10,7 @@ tags = [ "#TryPod", "podcasting", "podcasts", "recommendation"]
 Description = "March is #TryPod month. Here are some podcasts I appreciate."
 +++
 
-I know I'm super late to the party, but March is [\#trypod month](http://www.npr.org/about-npr/516454568/top-podcast-hosts-ask-their-listeners-to-try-a-pod). See, it's a pun, based on the idea that people who are already fans of podcasts - me - and who already might appreciate their value would be able to introduce their friends and family to the podcasts they love. So I'm going to do just that.
+I know I'm super late to the party, but March is [\#trypod month](//www.npr.org/about-npr/516454568/top-podcast-hosts-ask-their-listeners-to-try-a-pod). See, it's a pun, based on the idea that people who are already fans of podcasts - me - and who already might appreciate their value would be able to introduce their friends and family to the podcasts they love. So I'm going to do just that.
 
 So, two quick things, before the list:
 
@@ -29,9 +29,9 @@ These are a few of my favorite podcasts, the ones I listen to just about every w
 (In no particular order.)
 
 1. [This Week in Google](https://twit.tv/shows/this-week-in-google)
-2. [Hello From the Magic Tavern](http://www.earwolf.com/show/hello-from-the-magic-tavern/) (NSFW)
-3. [Judge John Hodgman](http://www.maximumfun.org/shows/judge-john-hodgman)
-4. [Stuff You Should Know](http://www.stuffyoushouldknow.com/)
+2. [Hello From the Magic Tavern](//www.earwolf.com/show/hello-from-the-magic-tavern/) (NSFW)
+3. [Judge John Hodgman](//www.maximumfun.org/shows/judge-john-hodgman)
+4. [Stuff You Should Know](//www.stuffyoushouldknow.com/)
 5. [Reply All](https://gimletmedia.com/reply-all/) (Sometimes NSFW)
 
 Reply All and This Week in Google (TWiG) are both largely about consumer technology, and how that impacts our lives. TWiG is hosted by Leo Laporte, as part of the TWiT Network, and features cohosts Jeff Jarvis and Stacey Higginbotham as they cover the latest news about Google, Facebook, Journalism, and connected smart home devices. Reply All is part of the Gimlet Network, and is hosted by PJ Vogt and Alex Goldman. It covers the internet, and all of the weird things on it. Shows have covered trained rats used to make hoax videos, why one house in particular showed up as the location for lost iPhones, and a regular segment that helps you understand why that dank meme is so dank.
@@ -45,13 +45,13 @@ Hello From the Magic Tavern is an improvised podcast from some improvisors in Ch
 ### A few more of my favorites
 
 * [All About Android](https://twit.tv/shows/all-about-android) - Weekly show about Android phones and apps
-* [Ask Me Another](http://www.npr.org/programs/ask-me-another/?showDate=2017-03-24) - a fun trivia show from NPR
-* [Dead Pilots Society](http://maximumfun.org/shows/dead-pilots-society) - comedy tv shows that were written, sold to networks, but never made it to the pilot. They get a staged reading on this podcast (Potentially NSFW)
-* [OH NO Ross and Carrie](http://ohnopodcast.com/) - They try out fringe science (healing crystals, electric brain stimulation, cults) so you don't have to (NSFW)
-* [Season One Podcast](http://www.season1pod.com/) - A review of TV Shows that only made it one season or less. Firefly, Cavemen, Freaks and Geeks. (NSFW)
-* [Starting Point](http://shoutengine.com/StartingPoint/) - Game news and insights from Brian and Corey. \#TeamBrian
+* [Ask Me Another](//www.npr.org/programs/ask-me-another/?showDate=2017-03-24) - a fun trivia show from NPR
+* [Dead Pilots Society](//maximumfun.org/shows/dead-pilots-society) - comedy tv shows that were written, sold to networks, but never made it to the pilot. They get a staged reading on this podcast (Potentially NSFW)
+* [OH NO Ross and Carrie](//ohnopodcast.com/) - They try out fringe science (healing crystals, electric brain stimulation, cults) so you don't have to (NSFW)
+* [Season One Podcast](//www.season1pod.com/) - A review of TV Shows that only made it one season or less. Firefly, Cavemen, Freaks and Geeks. (NSFW)
+* [Starting Point](//shoutengine.com/StartingPoint/) - Game news and insights from Brian and Corey. \#TeamBrian
 * [The Moth](https://themoth.org/) - Stories told live on stage from the people who lived them. Funny, touching, always unique
-* [The Upgrade](http://feeds.panoply.fm/FGM2944312041) - a new podcast from Lifehacker
+* [The Upgrade](//feeds.panoply.fm/FGM2944312041) - a new podcast from Lifehacker
 * [This American Life](https://www.thisamericanlife.org/) - one of the original shows that got me into podcasts. Stories about just about everything
 * [This Week in Tech](https://twit.tv/shows/this-week-in-tech) (TWiT) - Weekly show about (mostly consumer) tech news
-* [Wait Wait, Don't Tell Me](http://www.npr.org/programs/wait-wait-dont-tell-me/) - NPR's weekly news quiz show
+* [Wait Wait, Don't Tell Me](//www.npr.org/programs/wait-wait-dont-tell-me/) - NPR's weekly news quiz show

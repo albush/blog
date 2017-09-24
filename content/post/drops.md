@@ -71,8 +71,8 @@ Now when you go to your container's url (or the CNAME associated with it) you'll
 
 **Edit:** Updated from a previous version before the action developer added the CNAME functionality. Thanks Alex!
 
-[1]: http://www.alexchiri.com/
+[1]: //www.alexchiri.com/
 [2]: https://aptonic.com/dropzone3/
-[3]: http://www.alexchiri.com/rackspace-cloud-files-action-for-dropzone-3/
-[4]: http://docs.rackspace.com/loadbalancers/api/v1.0/clb-getting-started/content/Generating_Auth_Token.html
-[5]: http://docs.rackspace.com/files/api/v1/cf-devguide/content/Create_Static_Website-dle4000.html
+[3]: //www.alexchiri.com/rackspace-cloud-files-action-for-dropzone-3/
+[4]: //docs.rackspace.com/loadbalancers/api/v1.0/clb-getting-started/content/Generating_Auth_Token.html
+[5]: //docs.rackspace.com/files/api/v1/cf-devguide/content/Create_Static_Website-dle4000.html

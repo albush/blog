@@ -25,9 +25,9 @@ I also wanted to move away from the standard theme, and I'd already built a simp
 Who knows? If history is any indication, probably four or five more blog posts, and then a brief break, followed by a slower release of helpful posts. I'm also working to import some of my better content from my previous blog iterations.
 
 
-[1]: http://www.onitato.com/no-hassle-blog-automation.html
-[2]: http://www.onitato.com/no-hassle-blog-automation-redux.html
-[3]: http://blog.getpelican.com/
-[4]: http://stackful-dev.com/static-site-jinja-pelican-shared-templates.html#comment-901669793
+[1]: //www.onitato.com/no-hassle-blog-automation.html
+[2]: //www.onitato.com/no-hassle-blog-automation-redux.html
+[3]: //blog.getpelican.com/
+[4]: //stackful-dev.com/static-site-jinja-pelican-shared-templates.html#comment-901669793
 [5]: https://github.com/DandyDev/pelican-bootstrap3
 

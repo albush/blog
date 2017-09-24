@@ -4,7 +4,7 @@ Title = "Unbreaking Email - 6 weeks later"
 
 +++
 
-The last thing I did at work last year was to delete all of the mail from my inbox. Don't worry, I took a backup, first, but I wanted to try something new with email. The day before, I read a wonderful blog post by my colleague Cody Bunch on how he planned to ["unbreak email in 2015."](http://blog.codybunch.com/2014/12/30/Unbreak-Email-3-folders-2-times-a-day-1-rule/) by using a simple set of rules. I liked the simplicity, and decided to give his system a try. It's been six weeks, here's how it's going.
+The last thing I did at work last year was to delete all of the mail from my inbox. Don't worry, I took a backup, first, but I wanted to try something new with email. The day before, I read a wonderful blog post by my colleague Cody Bunch on how he planned to ["unbreak email in 2015."](//blog.codybunch.com/2014/12/30/Unbreak-Email-3-folders-2-times-a-day-1-rule/) by using a simple set of rules. I liked the simplicity, and decided to give his system a try. It's been six weeks, here's how it's going.
 
 ### My Implementation
 

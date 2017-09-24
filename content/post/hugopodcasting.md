@@ -8,7 +8,7 @@ draft = true
 
 ## Intro
 
-I've been producing the [Rackspace Office Hours Hangout](http://ohpodcast.com) for over three years now. From the beginning, we wanted to produce an audio-only version of the podcast, which would mean a website, media storage, an RSS feed, and hosting for all of it. WordPress is the easy, relatively simple answer, but it's also significantly more than we needed. We wanted to do this following our own show's repeated theme of prioritizing what is important, what you are good at, and offloading the rest to experts and services to handle the all of the other parts.
+I've been producing the [Rackspace Office Hours Hangout](//ohpodcast.com) for over three years now. From the beginning, we wanted to produce an audio-only version of the podcast, which would mean a website, media storage, an RSS feed, and hosting for all of it. WordPress is the easy, relatively simple answer, but it's also significantly more than we needed. We wanted to do this following our own show's repeated theme of prioritizing what is important, what you are good at, and offloading the rest to experts and services to handle the all of the other parts.
 
 <!--- This needs to be a question, or at least make the reader ask the question. Why is this even noteworthy? --->
 

@@ -10,7 +10,7 @@ draft = true
 
 Last month, the USPS shipped a [book][5] to my sister. The book went from San Antonio, TX to Kansas City, MO. Over the course of 17 days and more than 7700 miles, the package traveled to both coasts, got lost in a loop between Nebraska City and Kansas City, and was unaccounted for on multiple occasions. It was my fault that the package went off course.
 
-{{< img src="http://drops.albush.com/ridiculousjourney.png" title="Here's the full, ridiculous journey." >}}
+{{< img src="//drops.albush.com/ridiculousjourney.png" title="Here's the full, ridiculous journey." >}}
 
 I take full responsibility for my handwriting. It's never been good, and 15 years in IT has done nothing to improve it. If my handwriting had been legible to the worker at the Post Office, the book would have arrived without delay or comment. But that's not what happened. My sister's zip code 64155 turned into 69155 — that's a 450 mile mistake. That's my mistake. I don't fault the Post Office for my poor handwriting. I absolutely fault them for their policies, procedures, and culture which hindered their ability to be helpful during this situation, even if they wanted to.
 

@@ -4,7 +4,7 @@ Title = "What to do in San Antonio"
 
 +++
 
-I'm looking forward to the upcoming [Big League Weekend](http://www.bigleagueweekend.com/), San Antonio's only chance to see Major League Baseball played in our town. It'll be interesting to see how they convert the Alamodome to a baseball stadium, and the Fan Fest looks like it'll be a lot of fun.
+I'm looking forward to the upcoming [Big League Weekend](//www.bigleagueweekend.com/), San Antonio's only chance to see Major League Baseball played in our town. It'll be interesting to see how they convert the Alamodome to a baseball stadium, and the Fan Fest looks like it'll be a lot of fun.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zxVpRHmccBms.k9_iHXcovP5U" width="100%" height="480"></iframe>
 

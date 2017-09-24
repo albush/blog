@@ -18,9 +18,9 @@ So I did what any good improvisor would do: I "yes anded."
 
 In improvisational comedy, we have a concept of "yes and." To keep a scene growing and building, we not only agree with the initial offering from our scene partners, but we also add something to that offering, raising the stakes and furthering the scene. I haven't had much of an opportunity to improvise with Wade; he moved away from San Antonio shortly before I arrived, but we both performed improv with Comedy Sportz San Antonio. We have a common language, a common reflex to say yes, and take it to the next level.
 
-And Wade did just that. After his initial tweet, and my first "yes and," Wade added his own "yes and" by **actually building the application he joked about.** He came up with a better name than I could, and did the development work that I can't do, and built [yakeylapse](http://yacketylapse.com/).
+And Wade did just that. After his initial tweet, and my first "yes and," Wade added his own "yes and" by **actually building the application he joked about.** He came up with a better name than I could, and did the development work that I can't do, and built [yakeylapse](//yacketylapse.com/).
 
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/alanbush">@alanbush</a> God help me, I built this thing. <a href="http://t.co/8c1C88hW0p">http://t.co/8c1C88hW0p</a> - Example: <a href="http://t.co/a4KnTYy0v9">http://t.co/a4KnTYy0v9</a></p>&mdash; H. Wade Minter (@minter) <a href="https://twitter.com/minter/status/507360692908077057">September 4, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/alanbush">@alanbush</a> God help me, I built this thing. <a href="//t.co/8c1C88hW0p">//t.co/8c1C88hW0p</a> - Example: <a href="//t.co/a4KnTYy0v9">//t.co/a4KnTYy0v9</a></p>&mdash; H. Wade Minter (@minter) <a href="https://twitter.com/minter/status/507360692908077057">September 4, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Just provide yaketylapse with your hyperlapse video and the app spits out a saxed up version. Pretty cool. And all because Wade kept saying yes. Thanks, Wade!
@@ -28,5 +28,5 @@ Just provide yaketylapse with your hyperlapse video and the app spits out a saxe
 [Check out my example][1], taken from this [@MLBGIFs tweet][2].
 
 
-[1]: http://yacketylapse.com/videos/4c268af4-6761-4d19-b4de-24ba87cec59e
+[1]: //yacketylapse.com/videos/4c268af4-6761-4d19-b4de-24ba87cec59e
 [2]: https://twitter.com/MLBGIFs/status/507322761157427200

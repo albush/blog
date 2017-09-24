@@ -22,8 +22,8 @@ System images can be taken ad hoc, or on a recurring scheduled basis. Recurring 
 For more information on Images see [this Rackspace guide to creating and restoring from images][1] and this [ Rackspace FAQ on scheduled images][2].
 
 
-[14]: http://www.rackspace.com/knowledge_center/article/cloud-essentials-creating-an-image-backup-cloning-and-restoring-a-server-from-a-saved-image
-[15]: http://www.rackspace.com/knowledge_center/article/scheduled-images-faq
+[14]: //www.rackspace.com/knowledge_center/article/cloud-essentials-creating-an-image-backup-cloning-and-restoring-a-server-from-a-saved-image
+[15]: //www.rackspace.com/knowledge_center/article/scheduled-images-faq
 
 ## Ensure server has backups configured and running.
 
@@ -31,7 +31,7 @@ We recommend everyone use backups to keep their data up-to-date. The Rackspace C
 
 For additional information on Cloud Backup, please review [the Rackspace Cloud Backup Overview in their Knowledge Center][1]: 
 
-   [1]: http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-overview
+   [1]: //www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-overview
 
 
 
@@ -55,13 +55,13 @@ For Windows Servers we recommend you backup where your data might be stored, e.g
 
 Remember, Cloud Backup will not backup live databases. [Backup must be done through Microsoft SQL Server Management Studio][2].
 
-   [2]: http://www.rackspace.com/knowledge_center/article/backing-up-an-ms-sql-server-2008-database
+   [2]: //www.rackspace.com/knowledge_center/article/backing-up-an-ms-sql-server-2008-database
 
  Of course we recommend that you carefully consider your specific applications, and their backup needs. 
 
 For additional reading, see: [notes on the differences between Cloud Backup and Image Snapshots.][3]
 
-   [3]: http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-vs-cloud-server-image-backups
+   [3]: //www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-vs-cloud-server-image-backups
 
 
 ## Ensure services are configured to start after boot.
@@ -70,7 +70,7 @@ When installing a service it does not automatically configure this to start agai
 
 [How to use chkconfig with RHEL/CentOS][4]
 
-   [4]: http://www.rackspace.com/knowledge_center/article/centos-chkconfig
+   [4]: //www.rackspace.com/knowledge_center/article/centos-chkconfig
 
 [How to use update-rc.d with Ubuntu][5]
 
@@ -78,7 +78,7 @@ When installing a service it does not automatically configure this to start agai
 
 [Automatically Starting Services with Windows][6]
 
-   [6]: http://msdn.microsoft.com/en-us/library/windows/desktop/ms681957%28v=vs.85%29.aspx
+   [6]: //msdn.microsoft.com/en-us/library/windows/desktop/ms681957%28v=vs.85%29.aspx
 
  
 
@@ -87,7 +87,7 @@ When installing a service it does not automatically configure this to start agai
 It is important to ensure that the firewall rules that you have worked hard to configure stay active upon reboot.  Below are a couple of links on how to ensure that this is the case for both [iptables][7] and [Windows Firewall.][8]
 
    [7]: https://www.centos.org/docs/5/html/5.1/Deployment_Guide/s2-basic-firewall-activate-iptables.html
-   [8]: http://technet.microsoft.com/en-us/library/cc749262%28v=ws.10%29.aspx
+   [8]: //technet.microsoft.com/en-us/library/cc749262%28v=ws.10%29.aspx
 
  
 
@@ -101,7 +101,7 @@ We generally do not recommend using a passphrase when generating a SSL certifica
 
 If you have data on a Cloud Block Storage volume, you'll want to make sure that any volumes are properly connected after a reboot. To ensure this, you need to add your volume to the static file system information in the fstab file. See [step 5 in this guide][9]. 
 
-   [9]: http://www.rackspace.com/knowledge_center/article/prepare-your-cloud-block-storage-volume
+   [9]: //www.rackspace.com/knowledge_center/article/prepare-your-cloud-block-storage-volume
 
 For Windows users, mounted block storage should remain mounted after reboot.
 
@@ -133,7 +133,7 @@ Having images, backups, configurations, and redundancies in place are vital, but
 
 One of the best ways to prevent prolonged impact from a reboot is to distribute your application over multiple redundant, tiered, servers. We call this "Horizontal Scaling," and it's a great way to minimize the risk of downtime due to any single server going down. There's a very good [discussion of Horizontal Scaling][11] in one of the Rackspace Office Hours Hangouts I host. 
 
-   [11]: http://www.rackspace.com/blog/examining-horizontal-scaling-google-hangout-recap/
+   [11]: //www.rackspace.com/blog/examining-horizontal-scaling-google-hangout-recap/
 
  
 
@@ -141,7 +141,7 @@ One of the best ways to prevent prolonged impact from a reboot is to distribute 
 
 One benefit of using a Cloud Load Balancer is the ability to set a custom error page in the event that a server connected to the Load Balancer is offline or unresponsive. By proactively configuring that error page, a visitor to your site will receive an error message designed by you, specific to your unique application. Custom Error Pages can be configured via the [API][12] or the [Control Pane][13]l.
 
-   [12]: http://docs.rackspace.com/loadbalancers/api/v1.0/clb-devguide/content/Erropage-d1e666.html
+   [12]: //docs.rackspace.com/loadbalancers/api/v1.0/clb-devguide/content/Erropage-d1e666.html
    [13]: /products/f/25/t/3612
 
  

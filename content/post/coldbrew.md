@@ -12,8 +12,8 @@ I tried the method, and it worked, somewhat.  I still had way too much sediment 
 After making my first batch of coffee, I co-hosted a [live Google Plus Hangout about benchmarking cloud applications][2]. It was a great reminder that all I had done was fool around with my coffee routine. I had no way to actually generate a baseline from which I could iterate. So this time I went back and made some notes. Now we'll keep adding to this and see how I progress from there.
 
 
-[1]: http://lifehacker.com/this-cheap-no-mess-cold-brew-system-offers-a-hassle-fr-1582395519
-[2]: http://www.youtube.com/watch?v=zhi8E15_yEQ&amp;feature=share
+[1]: //lifehacker.com/this-cheap-no-mess-cold-brew-system-offers-a-hassle-fr-1582395519
+[2]: //www.youtube.com/watch?v=zhi8E15_yEQ&amp;feature=share
 
 ### Benchmarks
 
