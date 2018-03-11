@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build-job:
+  build:
     docker:
       - image: felicianotech/docker-hugo:0.27
     working_directory: ~/project
@@ -8,29 +8,30 @@ jobs:
       - checkout
       - run:
           name: "Run Hugo"
-          command: HUGO_ENV=production hugo -v -s ~/project
+          command: hugo -v -s ~/project
       - run:
           name: "Test Website"
-          command: htmlproofer ~/project/src/public --allow-hash-href --check-html --empty-alt-ignore
-  deploy-job:
+          command: htmlproofer ~/project/public --allow-hash-href --check-html --empty-alt-ignore
+  deploy:
     docker:
-      - image: mesosphere/aws-cli
-    working_directory: ~/project
+      - image: cibuilds/aws
     steps:
+      - checkout
       - run:
-          name: "Deploy to AWS"
-          commands:
-            - aws s3 sync ~/project/public --region us-west-1 s3://albush.com/ --delete
-            - aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths /index.html
+          name: "Upload to S3"
+          command: aws s3 sync ~/project/public --region us-west-1 s3://albush.com/ --delete
+      - run:
+          name: "Invalidate CloudFront"
+          command: aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths /index.html
+
 workflows:
   version: 2
-  build-deploy:
+  build_and_deploy:
     jobs:
-      - build-job
-      - deploy-job:
+      - build
+      - deploy:
           requires:
-            - build-job
+            - build
           filters:
             branches:
               only: master
-  
