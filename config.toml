@@ -10,11 +10,6 @@ paginate = 6 # To specify a multiple of 3
         # weight = -110
         identifier = "posts"
         url = "/post/"
-# [[menu.main]]
-#         name = "External Posts"
-#         # weight = -110
-#         identifier = "writings"
-#         url = "/writing/"
 [[menu.main]]
         name = "Portfolio"
         # weight = -110
