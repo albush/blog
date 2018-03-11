@@ -12,6 +12,7 @@ jobs:
   deploy:
     docker:
       - image: cibuilds/aws
+    working_directory: ~/project
     steps:
       - checkout
       - run:
