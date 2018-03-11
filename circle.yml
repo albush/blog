@@ -19,11 +19,10 @@ jobs:
   deploy:
     docker:
       - image: cibuilds/aws
-    working_directory: ~/project
     steps:
       - attach_workspace:
           # Must be absolute path or relative path from working_directory
-          at: /public
+          at: ~/project
       - run:
           name: "Upload to S3"
           command: aws s3 sync ~/project/public --region us-west-1 s3://albush.com/ --delete
