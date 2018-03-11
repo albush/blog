@@ -9,12 +9,21 @@ jobs:
       - run:
           name: "Run Hugo"
           command: hugo -v -s ~/project
+          # Persist the specified paths (workspace/echo-output) into the workspace for use in downstream job.
+      - persist_to_workspace:
+          # Must be an absolute path, or relative path from working_directory. This is a directory on the container which is taken to be the root directory of the workspace.
+          root: ~/project
+          # Must be relative path from root
+          paths:
+            - public
   deploy:
     docker:
       - image: cibuilds/aws
     working_directory: ~/project
     steps:
-      - checkout
+      - attach_workspace:
+          # Must be absolute path or relative path from working_directory
+          at: /public
       - run:
           name: "Upload to S3"
           command: aws s3 sync ~/project/public --region us-west-1 s3://albush.com/ --delete
