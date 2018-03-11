@@ -2,18 +2,15 @@ version: 2
 jobs:
   build:
     docker:
-      - image: felicianotech/docker-hugo:0.27
+      - image: cibuilds/hugo:0.27
     working_directory: ~/project
     steps:
       - checkout
       - run:
           name: "Run Hugo"
           command: hugo -v -s ~/project
-          # Persist the specified paths (workspace/echo-output) into the workspace for use in downstream job.
       - persist_to_workspace:
-          # Must be an absolute path, or relative path from working_directory. This is a directory on the container which is taken to be the root directory of the workspace.
           root: ~/project
-          # Must be relative path from root
           paths:
             - public
   deploy:
@@ -21,7 +18,6 @@ jobs:
       - image: cibuilds/aws
     steps:
       - attach_workspace:
-          # Must be absolute path or relative path from working_directory
           at: ~/project
       - run:
           name: "Upload to S3"
