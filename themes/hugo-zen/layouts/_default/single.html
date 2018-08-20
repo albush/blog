@@ -1,9 +1,9 @@
 {{ partial "header.html" . }}
 	<main role="main">
-		<article itemscope itemtype="//schema.org/BlogPosting">
-			<h1 class="entry-title p-name" itemprop="headline">{{ .Title }}</h1>
+		<article class="h-entry">
+			<h1 class="e-content p-name" itemprop="headline">{{ .Title }}</h1>
 
-			<span class="entry-meta dt-published"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time> 	{{ if isset .Params "author" }}
+			<span class="entry-meta dt-published"><a class="u-url" href="{{.Permalink}}"><time class="dt-published">{{ .Date.Format "January 02, 2006" }}</time></a>	{{ if isset .Params "author" }}
 					{{ $author := index .Site.Params.authors .Params.author }}
 						by <a class="p-author h-card" href ="{{ .Site.BaseURL }}">{{ with $author.social.name }}{{ $author.social.name }}{{ end }}</a>
 				{{ end }}</span>
