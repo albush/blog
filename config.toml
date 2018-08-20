@@ -53,7 +53,7 @@ paginate = 6 # To specify a multiple of 3
     [params.authors]
       [params.authors.alan]
       name          = "Alan Bush"
-      thumbnail     = "//2.gravatar.com/avatar/4b434a5f9b17613e7eae559726e31b99"
+      thumbnail     = "/images/ab3head.svg"
       images        = [
                       "http://drops.albush.com/bush_alan_04_small.jpg",
                     ]
