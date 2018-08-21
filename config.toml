@@ -1,5 +1,6 @@
-theme="hugo-zen"
-BaseURL = "//albush.com"
+theme="tale"
+# theme="hugo-zen"
+BaseURL = "//albush.com/"
 languageCode = "en-us"
 title = "Alan Bush"
 MetaDataFormat = "yaml"
@@ -30,6 +31,7 @@ paginate = 6 # To specify a multiple of 3
   email = "al@albush.com"
 
 [params]
+  dateform = "January 2, 2006"
   logo      = "/images/ab3head.svg"
   phone     = "+1 210-704-7319"
   copyright = "albush"
