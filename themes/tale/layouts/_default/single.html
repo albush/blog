@@ -5,14 +5,14 @@
 		<div class="post-info">
 		<span>Written by</span>
 		{{ if .Params.Author }}
-			{{ .Params.Author }}
+			<a class="p-author h-card" href ="{{ .Site.BaseURL }}about">{{ .Params.Author }}</a>
 		{{ else }}
-			{{ .Site.Params.Author }}
+			<a class="p-author h-card" href ="{{ .Site.BaseURL }}">{{ .Site.Params.Author }}</a>
 		{{ end }}
 
 		{{ if .PublishDate }}
 			<br>
-			<span>on&nbsp;</span><time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "January 2, 2006" }}</time>
+			<span>on&nbsp;</span><a class="u-url" href="{{.Permalink}}"><time class="dt-published" datetime="{{ .PublishDate }}">{{ .PublishDate.Format "January 2, 2006" }}</time></a>
 		{{ end }}
 		</div>
 

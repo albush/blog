@@ -6,12 +6,13 @@
   <body>
 		<nav class="nav">
 			<div class="nav-container">
-			<a href="{{ .Site.BaseURL }}/">
-				<h2 class="nav-title">{{ .Site.Title }}</h2>
-			</a>
+
+				<h2 class="nav-title"><a class="h-card" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>
+
 			<ul>
 				<li><a href="{{ .Site.BaseURL }}about">About</a></li>
 				<li><a href="{{ .Site.BaseURL }}">Posts</a></li>
+        <li><a href="{{ .Site.BaseURL }}portfolio">Porfolio</a></li>
 			</ul>
 			</div>
 		</nav>

@@ -11,7 +11,7 @@ Title = "Billy Butler Stole a Base"
 </video>
 </div>
 
-So this happened. Crazy world we live in. Crazy world. 
+So this happened. Crazy world we live in. Crazy world.
 
 [yaketyfied via YaketyLapse, a silly idea from H. Wade Minter][1].
 

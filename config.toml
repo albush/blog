@@ -1,45 +1,22 @@
 theme="tale"
-# theme="hugo-zen"
 BaseURL = "//albush.com/"
 languageCode = "en-us"
 title = "Alan Bush"
 MetaDataFormat = "yaml"
 paginate = 6 # To specify a multiple of 3
-# disqusShortname = "Your Disqus Name" # optional
-[[menu.main]]
-        name = "Blog Posts"
-        # weight = -110
-        identifier = "posts"
-        url = "/post/"
-[[menu.main]]
-        name = "Portfolio"
-        # weight = -110
-        identifier = "portfolio"
-        url = "/portfolio/"
-[[menu.main]]
-        name = "Speaking"
-        # weight = -110
-        identifier = "speakings"
-        url = "/speaking/"
-[[menu.main]]
-        name = "Bio"
-        identifier = "about"
-        url = "/about/"
 
 [author]
   author = "Alan Bush"
   email = "al@albush.com"
 
 [params]
+  Author = "Alan Bush"
   dateform = "January 2, 2006"
   logo      = "/images/ab3head.svg"
   phone     = "+1 210-704-7319"
   copyright = "albush"
-  # twitter   = "https://twitter.com/alanbush"
-  # github    = "https://github.com/albush/"
   email     = "al@albush.com"
-  # linkedin  = "//www.linkedin.com/in/adbush"
-  description = "Mustachioed [Nerd-For-Hire](//resume.albush.com) by day; Daddy, Writer and [Improvisor](//cszsa.com) by night. Host of [Office Hours Podcast](//ohpodcast.com), and the [SATechDad Podcast](//satechdad.com)."
+  description = "Nerd [for Hire](https://resume.albush.com). Proponent of: Work from anywhere, coffee, beer, my face on coffee mugs, [improv comedy](https://cszsa.com). Not a fan of dongles."
   # optional
   analytics = "UA-15275173-7"
     [params.social]
@@ -50,7 +27,6 @@ paginate = 6 # To specify a multiple of 3
       twitter_domain  = "albush.com" # This domain shows in twitter cards as "View on `twitter_domain`"
       googleplus      = "+AlanBush"
       instagram       = "youcancallmealbush"
-      # youtube     = ""
       linkedin        = "adbush"
     [params.authors]
       [params.authors.alan]
@@ -59,7 +35,7 @@ paginate = 6 # To specify a multiple of 3
       images        = [
                       "http://drops.albush.com/bush_alan_04_small.jpg",
                     ]
-      bio           = "Alan Bush is a nerd for hire by day, and a daddy and comedian by night. Alan likes beer, coffee, puns and the Kansas City Royals. He dislikes writing about himself in the third person."
+      bio           = "Alan Bush is a nerd for hire by day, and a father and comedian by night. Alan likes beer, coffee, puns and the Kansas City Royals. He dislikes writing about himself in the third person."
       email         = "al@albush.com"
         [params.authors.Alan.social]
         name = "Alan Bush"

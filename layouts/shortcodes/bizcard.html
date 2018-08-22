@@ -1,13 +1,22 @@
-<div class="section hero">
-       <div class="container bizcard">
-           <div class="row">
-             <div>
-               <div class="ten columns offset-by-one"><b>Alan Bush</b><br></div>
-                <div class="four columns offset-by-one"><a href="mailto:al@albush.com">al@albush.com</a><br>210-243-6758<br><a href="https://twitter.com/alanbush">@alanbush</a></p></div>
-                 <div class="four columns offset-by-two"><p>github: <a href="//github.com/albush">albush</a><br>linkedin: <a href="//www.linkedin.com/in/adbush">adbush</a></p></div>
-                 {{ with .Site.Params.description }}
-               <div class="ten columns offset-by-one p-note">{{.| markdownify}}{{end}}</div>
-                </div>
-       </div>
-   </div>
- </div>
+<div class="h-card">
+   <div class="bizcard">
+     <div class="row">
+       <div class="col-4">
+         <img class="u-photo" src="/images/alanbushmugshot.jpg" alt="a picture of the author drinking from a coffee mug with a picture of himself drinking from a coffee mug with a picture of himself drinking from a coffee mug. This joke has gone on for far too long, but he shows no signs of ceasing to make more mugs." />
+      </div>
+       <div class="col-8">
+
+           <p><b>Alan Bush</b></p>
+          <div>
+            <p><a class="u-url" href="https://albush.com">www.albush.com</a> <a href="mailto:al@albush.com">al@albush.com</a></br>
+            twitter: <a class="u-url" href="https://twitter.com/alanbush">@alanbush</a></br>
+            github: <a class="u-url" href="//github.com/albush">albush</a></br>
+            linkedin: <a class="u-url" href="//www.linkedin.com/in/adbush">adbush</a></p>
+          </div>
+           {{ with .Site.Params.description }}
+           <div class="p-note">{{ . | markdownify}}{{end}}</div>
+      </div>
+    </div>
+    </div>
+  </div>
+</div>

@@ -7,9 +7,9 @@ description = "Here are the Android apps I recommend, 2018 edition."
 
 _Updated for 2018_
 
-Among my friends, I'm often the looked on as the "Android Guy." I've been using Android devices longer than almost all of my friends. I've used both iOS and Android devices, and have a pretty good understanding of the benefits and difficulties with each. I'm often asked for assistance in making the transition from iOS to Android.
+Among my friends, I'm often the looked on as the "Android Guy." I've been using Android devices longer than almost all of my friends. I've used both iOS and Android devices, and have a pretty good understanding of the benefits and difficulties with each. I'm often asked for assistance in making the transition from iOS to Android..
 
-A few years ago, I wrote up some [recommended Android apps]({{< relref "post/androidapps.md" >}}) for a friend (and a [few](//albush.com/post/android2016/) [updates](//albush.com/post/android2017/) along the way). Most of those apps are still highly recommended, but a few are out of date, better alternatives exist, or the functionality has been incorporated into Android, itself.
+A few years ago, I wrote up some [recommended Android apps]({{< ref "post/androidapps.md" >}}) for a friend (and a [few]({{< ref "post/android2016.md" >}}) [updates]({{< ref "post/android2017.md" >}}) along the way). Most of those apps are still highly recommended, but a few are out of date, better alternatives exist, or the functionality has been incorporated into Android, itself.
 
 ### Google Project Fi
 

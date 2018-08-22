@@ -7,6 +7,7 @@ images = [
 tags = [ "Final Four", "Food", "Beer", "San Antonio"]
 news_keywords = [ "Final Four", "SATX", "San Antonio", "Food", "Beer", "Coffee"]
 Description = "Some of my favorite places to eat, drink, and hangout in San Antonio. A good list of places to go when the basketball isn't happening."
+Author = "alan"
 +++
 
 {{< img src="/images/finalfourstuff.png" title="Exploring San Antonio: Where to eat, drink, and play like a local" >}}
