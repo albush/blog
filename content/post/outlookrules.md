@@ -21,7 +21,7 @@ Outlook doesn't support `OR` booleans with their query builder, so we have to us
 com_microsoft_outlook_completed != 1 && kMDItemDueDate < $time.today(+1)
 ```
 
-That looks for anything flagged for follow up, still incomplete, with a due date of today or later. If you want to include the "Inbox" folder that's already filtered, you'll need to find the folder number. [This post on macwork.co](//www.macwork.co/home/2016/3/16/action-outlook) was extremely valuable for putting this all together. Check it out for the full instructions.
+That looks for anything flagged for follow up, still incomplete, with a due date of today or earlier. If you want to include the "Inbox" folder that's already filtered, you'll need to find the folder number. [This post on macwork.co](//www.macwork.co/home/2016/3/16/action-outlook) was extremely valuable for putting this all together. Check it out for the full instructions.
 
 **TL;DR** Use `get selected folder` in Apple Script to retrieve the folder number, replace the 'XXX' in the query below with that folder number.
 
