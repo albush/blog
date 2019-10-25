@@ -1,0 +1,3 @@
+[submodule "themes/tale-hugo"]
+	path = themes/tale-hugo
+	url = https://github.com/albush/tale-hugo.git
