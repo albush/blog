@@ -5,7 +5,12 @@ jobs:
       - image: cibuilds/hugo:0.59.0
     working_directory: ~/project
     steps:
+      # install git
+      - run: apk update && apk add git
+      # checkout the repository
       - checkout
+      # install git submodules for managing third-party dependencies
+      - run: git submodule sync && git submodule update --init
       - run:
           name: "Version Check"
           command: hugo version
