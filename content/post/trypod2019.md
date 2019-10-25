@@ -1,7 +1,7 @@
 +++
 author = "alan"
-date = "2018-09-24T09:53:12-05:00"
-title = "Favorite Podcasts - 2018 Edition"
+date = "2019-08-13"
+title = "Favorite Podcasts - 2019 Edition"
 images = [
 "https://media.npr.org/assets/img/2017/02/21/fb_posts_1200x630px_v1-03_custom-e4086d6620fe799b7340101e65506f35aeffa446-s1200.png"
 ]
@@ -9,7 +9,7 @@ tags = [ "#TryPod", "podcasting", "podcasts", "recommendation"]
 Description = "More podcast suggestions"
 +++
 
-_In March of 2017 some folks did a thing called "Try Pod." It was an effort to get more people listening to podcasts. [I shared my favorites, then](/post/trypod/), and have now updated my list for 2018. It's mostly the same, but a few have been added, some removed._
+_In March of 2017 some folks did a thing called "Try Pod." It was an effort to get more people listening to podcasts. [I shared my favorites, then](/post/trypod/) and have now published updated lists for [2018](/post/trypod2018), and now for 2019. It's mostly the same, but a few have been added, some removed._
 
 Two quick things, before the list:
 
@@ -23,11 +23,12 @@ I love hearing other perspectives. I have a few trusted sources that I can liste
 
 These are a few of my favorite podcasts, the ones I listen to just about every week. I'll listen to these before I listen to any others. I've included a link where you can go to listen to a recent episode, or where you can subscribe to get the latest episode each week on your phone. By the way, I can't more strongly recommend [Pocket Casts](https://www.shiftyjelly.com/pocketcasts/) for your podcast subscription and listening needs. It's my go-to app, and available on both [Android](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts) and [iOS](https://itunes.apple.com/us/app/pocket-casts/id414834813?mt=8) - along with a nice web portal, so you can listen at your desk at work.
 
-## Top ~~5~~ 6
+## Top ~~6~~ 7
 
 (In no particular order.)
 
 - [This Week in Google](https://twit.tv/shows/this-week-in-google)
+- [The Dream](https://www.stitcher.com/podcast/stitcher/the-dream)
 - [Hello From the Magic Tavern](//www.earwolf.com/show/hello-from-the-magic-tavern/) (NSFW)
 - [Judge John Hodgman](//www.maximumfun.org/shows/judge-john-hodgman)
 - [Stuff You Should Know](//www.stuffyoushouldknow.com/)
@@ -35,6 +36,8 @@ These are a few of my favorite podcasts, the ones I listen to just about every w
 - [Levar Burton Reads](http://www.levarburtonpodcast.com/)
 
 **Reply All** and **This Week in Google (TWiG)** are both largely about consumer technology, and how that impacts our lives. TWiG is hosted by Leo Laporte, as part of the TWiT Network, and features cohosts Jeff Jarvis and Stacey Higginbotham as they cover the latest news about Google, Facebook, Journalism, and connected smart home devices. Reply All is part of the Gimlet Network, and is hosted by PJ Vogt and Alex Goldman. It covers the internet, and all of the weird things on it. Shows have covered trained rats used to make hoax videos, why one house in particular showed up as the location for lost iPhones, and a regular segment that helps you understand why that dank meme is so dank.
+
+**The Dream** is a fantastic deep dive into the world of multi-level marketing. TL;DR, they're all scams and you should run screaming if someone wants you to be in one. But definitely listen to the series to see _just how crazy_ things are.
 
 **Judge John Hodgman** (of The Daily Show and Apple's Mac vs PC ads) is a fake internet judge. People bring him disputes - from who should drive during a road trip to whether or not a husband should take up taxidermy as a hobby to how often a couple should eat at the in-laws house. It's funny, and honest, and a great listen.
 
@@ -49,10 +52,10 @@ These are a few of my favorite podcasts, the ones I listen to just about every w
 * [Pop Culture Happy Hour](https://www.npr.org/podcasts/510282/pop-culture-happy-hour) - NPR writers and a rotating series of guests discuss pop culture - movies, tv, books, comic books, and more.
 * [Science VS](http://www.gimletmedia.com/science-vs) - Science Vs takes on fads, trends, and the opinionated mob to find out what’s fact, what’s not, and what’s somewhere in between.
 * [All About Android](https://twit.tv/shows/all-about-android) - Weekly show about Android phones and apps
-* [Ask Me Another](//www.npr.org/programs/ask-me-another/?showDate=2017-03-24) - a fun trivia show from NPR
+* [Ask Me Another](//www.npr.org/programs/ask-me-another/?showDate=2017-03-24) - a fun trivia show from NPR - Saw them live this year! That makes 2 NPR podcast recordings attended this year.
 * [Dead Pilots Society](//maximumfun.org/shows/dead-pilots-society) - comedy tv shows that were written, sold to networks, but never made it to the pilot. They get a staged reading on this podcast (Potentially NSFW)
 * [OH NO Ross and Carrie](//ohnopodcast.com/) - They try out fringe science (healing crystals, electric brain stimulation, cults) so you don't have to (NSFW)
 * [This American Life](https://www.thisamericanlife.org/) - one of the original shows that got me into podcasts. Stories about just about everything
 * [This Week in Tech](https://twit.tv/shows/this-week-in-tech) (TWiT) - Weekly show about (mostly consumer) tech news
-* [Wait Wait, Don't Tell Me](//www.npr.org/programs/wait-wait-dont-tell-me/) - NPR's weekly news quiz show
+* [Wait Wait, Don't Tell Me](//www.npr.org/programs/wait-wait-dont-tell-me/) - NPR's weekly news quiz show  - Saw them live this year! That makes 2 NPR podcast recordings attended this year.
 * [Bubble](https://www.maximumfun.org/shows/bubble) - A narrative fiction podcast from the Maximum Fun network. Sci-Fi and funny. (NSFW)
