@@ -2,12 +2,31 @@ theme="tale-hugo"
 BaseURL = "//albush.com/"
 languageCode = "en-us"
 title = "Alan Bush"
-MetaDataFormat = "yaml"
 paginate = 6 # To specify a multiple of 3
 
 [author]
   author = "Alan Bush"
   email = "al@albush.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+  url = "/post/"
+    weight = 2
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    title = "Portfolio"
+    url = "/portfolio/"
+    weight = 3
 
 [params]
   Author = "Alan Bush"

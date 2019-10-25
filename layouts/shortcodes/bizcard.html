@@ -12,8 +12,7 @@
             twitter: <a class="u-url" href="https://twitter.com/alanbush">@alanbush</a></br>
             github: <a class="u-url" href="//github.com/albush">albush</a></br>
             linkedin: <a class="u-url" href="//www.linkedin.com/in/adbush">adbush</a></p>
-          </div>
-           {{ with .Site.Params.description }}
+          </div>{{ with .Site.Params.description }}
            <div class="p-note">{{ . | markdownify}}{{end}}</div>
       </div>
     </div>

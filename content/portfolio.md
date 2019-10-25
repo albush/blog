@@ -2,7 +2,6 @@
 date = "2018-01-26"
 title = "Sample Portfolio"
 url = "/portfolio"
-
 +++
 
 ## Rackspace Blog
