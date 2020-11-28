@@ -35,7 +35,7 @@ paginate = 6 # To specify a multiple of 3
   phone     = "+1 210-704-7319"
   copyright = "albush"
   email     = "al@albush.com"
-  description = "Nerd [for Hire](https://resume.albush.com). Proponent of: Work from anywhere, coffee, beer, my face on coffee mugs, [improv comedy](https://cszsa.com). Not a fan of dongles."
+  description = "Nerd. Proponent of: Work from anywhere, coffee, beer, my face on coffee mugs, [improv comedy](https://cszsa.com). Not a fan of dongles."
   # optional
   analytics = "UA-15275173-7"
     [params.social]

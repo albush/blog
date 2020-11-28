@@ -9,4 +9,4 @@ Author = "alan"
 Hi! I'm Al.
 Some people still do the business card thing, but I never had any printed. Here's a vaguely card-shaped piece of information about me. Print it out and hang on to it, if you're into that.
 
-{{%bizcard%}}
+{{< bizcard >}}
