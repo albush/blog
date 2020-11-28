@@ -1,5 +1,5 @@
 <div class="h-card">
-   <div class="bizcard">
+   <div class="bizcard" style="border-style: dashed;">
      <div class="row">
        <div class="col-4">
          <img class="u-photo" src="/images/alanbushmugshot.jpg" alt="a picture of the author drinking from a coffee mug with a picture of himself drinking from a coffee mug with a picture of himself drinking from a coffee mug. This joke has gone on for far too long, but he shows no signs of ceasing to make more mugs." />
@@ -8,10 +8,10 @@
 
            <p><b>Alan Bush</b></p>
           <div>
-            <p><a class="u-url" href="https://albush.com">www.albush.com</a> <a href="mailto:al@albush.com">al@albush.com</a></br>
-            twitter: <a class="u-url" href="https://twitter.com/alanbush">@alanbush</a></br>
-            github: <a class="u-url" href="//github.com/albush">albush</a></br>
-            linkedin: <a class="u-url" href="//www.linkedin.com/in/adbush">adbush</a></p>
+            <p><a class="u-url" href="https://albush.com" rel="me">www.albush.com</a> <a href="mailto:al@albush.com">al@albush.com</a></br>
+            twitter: <a class="u-url" href="https://twitter.com/{{ .Site.Params.social.twitter }}" rel="me">@{{ .Site.Params.social.twitter }}</a></br>
+            github: <a class="u-url" href="//github.com/{{ .Site.Params.social.github }}" rel="me">{{ .Site.Params.social.github }}</a></br>
+            linkedin: <a class="u-url" href="//www.linkedin.com/in/{{ .Site.Params.social.linkedin }}" rel="me">{{ .Site.Params.social.linkedin }}</a></p>
           </div>{{ with .Site.Params.description }}
            <div class="p-note">{{ . | markdownify}}{{end}}</div>
       </div>
