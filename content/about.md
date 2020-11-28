@@ -1,5 +1,4 @@
 +++
-date = "2018-08-21T19:51:29-05:00"
 title = "About Alan Bush"
 url = "/about"
 Author = "alan"
