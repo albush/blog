@@ -1,0 +1,23 @@
+<div class="h-card">
+     <div class="row">
+       <div class="col-4">
+         <img class="u-photo" src="/images/alanbushmugshot.jpg" alt="a picture of the author drinking from a coffee mug with a picture of himself drinking from a coffee mug with a picture of himself drinking from a coffee mug. This joke has gone on for far too long, but he shows no signs of ceasing to make more mugs." />
+      </div>
+       <div class="col-8">
+           {{ with .Site.Params.description }}
+            <div class="p-note">{{ . | markdownify}}{{end}}</div>
+          <div>
+            <h2>Find me at</h2>
+          </div>
+          <div>
+            <ul style="list-style-type: none;">
+              <li>twitter: <a class="u-url" href="https://twitter.com/{{ .Site.Params.social.twitter }}" rel="me">@{{ .Site.Params.social.twitter }}</a></li>
+              <li>github: <a class="u-url" href="//github.com/{{ .Site.Params.social.github }}" rel="me">{{ .Site.Params.social.github }}</a></li>
+              <li>linkedin: <a class="u-url" href="//www.linkedin.com/in/{{ .Site.Params.social.linkedin }}" rel="me">{{ .Site.Params.social.linkedin }}</a></li>
+            </ul>
+          </div>
+      </div>
+    </div>
+
+  </div>
+</div>
