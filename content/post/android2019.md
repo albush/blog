@@ -41,7 +41,7 @@ If you don't have a Pixel, you're likely using the manufacturer's messaging app.
 * [Authy 2-Factor Authentication][8] - Enabling 2-Factor auth is one of the fastest ways to secure your online accounts. Authy makes that process even easier. It's literally the first app I install on a new device.
 * [LastPass][13] - Keeps all of your passwords safe. Will copy/paste your passwords into new apps. Huge time saver.
 * [PIA VPN](https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en) - You can choose any number of VPN apps, but I've been using [PIA](https://www.privateinternetaccess.com/) for a few years and it's been everything I've needed. Be sure to turn on your VPN every time you're connected to public WiFi - at Starbucks, the hotel, etc.
-* [ProtonVPN](https://play.google.com/store/apps/details?id=com.protonvpn.android) - A free (with paid upgrade options) VPN option from the Swiss folks who brought you the ultra-secure ProtonMail. Can't stress enough how important it is to keep your connection encrypted.
+* [ProtonVPN](https://play.google.com/store/apps/details?id=com.protonvpn.android) - A free (with paid upgrade options) VPN option from the Swiss folks who brought you the ultra-secure [ProtonMail](https://www.protonmail.com). Can't stress enough how important it is to keep your connection encrypted.
 
 
 ### Daily Life Apps
