@@ -2,8 +2,14 @@
 
 <main>
 	<div class="catalogue">
+		
 		{{ range (.Paginate .Pages).Pages }}
+		<article class="h-entry">
+			<div class="post e-content">
 			{{ .Render "summary" }}
+			</div>
+		</article>
+		
 		{{ end }}
 	</div>
 	
