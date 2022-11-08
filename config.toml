@@ -43,6 +43,7 @@ paginate = 6 # To specify a multiple of 3
       facebook        = "alan.bush"
       facebook_admin  = "1554398007"  # This needs to be a page admin to get domain insights
       twitter     = "alanbush"
+      mastodon = "@al@twit.social"
       twitter_domain  = "albush.com" # This domain shows in twitter cards as "View on `twitter_domain`"
       googleplus      = "+AlanBush"
       instagram       = "youcancallmealbush"
