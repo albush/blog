@@ -7,6 +7,7 @@ images = [
 ]
 tags = [ "New Year"]
 Description = "It's a new year."
+fediverse = "109617327323964202"
 +++
 
 Somehow, beyond all reason, it's 2023. Time to put down a recap of 2022, and set out some thoughts on what 2023 will bring. 

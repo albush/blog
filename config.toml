@@ -3,6 +3,7 @@ BaseURL = "//albush.com/"
 languageCode = "en-us"
 title = "Alan Bush"
 paginate = 6 # To specify a multiple of 3
+css = "/css/mastodon-comment.css"
 
 [author]
   author = "Alan Bush"
@@ -48,6 +49,10 @@ paginate = 6 # To specify a multiple of 3
       googleplus      = "+AlanBush"
       instagram       = "youcancallmealbush"
       linkedin        = "adbush"
+    [params.comment]
+      [params.comment.fediverse]
+          host = "twit.social"
+          user = "al"
     [params.authors]
       [params.authors.alan]
       name          = "Alan Bush"
