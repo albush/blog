@@ -11,6 +11,9 @@
 
 		<title>{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}</title>
 
+		<!-- Social Tags -->
+		{{ partial "social.html" .}}
+
 		<!-- CSS -->
 		{{- $inServerMode	:= .Site.IsServer }}
 		{{- $cssTarget		:= "css/style.css" }}
